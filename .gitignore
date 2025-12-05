@@ -1,4 +1,10 @@
+# ignore all CSVs by default
 *.csv
 *.csv.gz
+
+# ignore notebook and IDE junk
 .ipynb_checkpoints/
 .idea/
+
+# but DO NOT ignore synthetic CSVs
+!synthetic_*.csv

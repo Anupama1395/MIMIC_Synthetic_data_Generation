@@ -1,0 +1,1001 @@
+ROW_ID,CATEGORY,SECTIONRANGE,SECTIONHEADER,SUBSECTIONRANGE,SUBSECTIONHEADER,CODESUFFIX,MINCODEINSUBSECTION,MAXCODEINSUBSECTION,SECTIONHEADER_CAT,SUBSECTIONHEADER_CAT
+7552692,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,F,7010,300,4,74
+10923999,2,0001F-7025F,Emerging technology,1000F-1220F,Structural Measures,F,7010,15,3,16
+14249885,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,7010,15,4,16
+1057122,2,0001F-7025F,Performance measurement,7010F-7025F,Physical examination,F,7010,15,5,58
+13394955,2,0001F-7025F,Performance measurement,0016T-0207T,Diagnostic/screening processes or results,F,7010,15,4,60
+10719003,2,0001F-7025F,Performance measurement,4000F-4306F,Diagnostic/screening processes or results,F,7010,469,5,16
+4150726,2,0001F-7025F,Performance measurement,0001F-0015F,"Therapeutic, preventive or other interventions",F,6885,15,3,86
+9397902,2,0001F-7025F,Emerging technology,3006F-3573F,Follow-up or other outcomes,F,7010,15,3,85
+9048487,2,0001F-7025F,Performance measurement,3006F-3573F,Temporary codes,T,7010,1784,3,16
+3274673,2,0001F-7025F,Performance measurement,6005F-6045F,Follow-up or other outcomes,F,7010,15,4,122
+12588164,2,0256T-0259T,Performance measurement,1000F-1220F,Patient history,T,7010,15,4,16
+4815037,2,0001F-7025F,Performance measurement,6005F-6045F,Patient safety,F,7010,15,5,16
+7337549,2,0001F-7025F,Performance measurement,7010F-7025F,Physical examination,T,5372,15,5,18
+5363329,2,0001F-7025F,Performance measurement,0256T-0259T,Patient safety,F,5035,15,4,16
+8325397,2,0256T-0259T,Performance measurement,6005F-6045F,Physical examination,T,7010,1850,4,76
+7284051,2,0001F-7025F,Performance measurement,7010F-7025F,Follow-up or other outcomes,F,4031,15,4,81
+965561,2,0001F-7025F,Performance measurement,3006F-3573F,Temporary codes,F,7010,15,5,38
+15096591,3,0001F-7025F,Performance measurement,6005F-6045F,Temporary codes,T,4239,15,3,122
+4195994,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,4296,15,4,20
+2997256,2,0016T-0207T,Performance measurement,0500F-0575F,Temporary codes,F,1910,15,4,122
+5583793,2,0001F-7025F,Performance measurement,0016T-0207T,Physical examination,T,7010,15,5,16
+12587125,2,0001F-7025F,Performance measurement,0001F-0015F,Physical examination,F,7010,15,5,16
+14404763,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,7010,15,3,16
+16443690,2,0256T-0259T,Performance measurement,0256T-0259T,Patient safety,F,7010,15,4,16
+1432410,2,0001F-7025F,Performance measurement,3006F-3573F,"Therapeutic, preventive or other interventions",F,7010,15,4,16
+13661161,2,0001F-7025F,Performance measurement,0016T-0207T,Composite measures,F,4225,15,3,53
+14229539,2,0001F-7025F,Performance measurement,0256T-0259T,Patient management,F,5672,15,4,16
+13602992,2,0001F-7025F,Performance measurement,0001F-0015F,Composite measures,F,7010,287,5,27
+12571901,2,0001F-7025F,Performance measurement,5005F-5100F,Temporary codes,F,5174,3536,4,16
+737751,2,0001F-7025F,Performance measurement,0256T-0259T,Composite measures,T,3341,15,4,90
+10229664,2,0016T-0207T,Performance measurement,0016T-0207T,Patient history,F,7010,2192,5,16
+13670275,2,0016T-0207T,Performance measurement,0500F-0575F,Temporary codes,F,7010,15,3,16
+16646382,2,0001F-7025F,Emerging technology,6005F-6045F,Physical examination,T,5329,15,4,44
+10095259,2,0256T-0259T,Performance measurement,0256T-0259T,Composite measures,F,7010,3111,5,80
+68390,2,0001F-7025F,Performance measurement,1000F-1220F,Composite measures,F,7010,15,5,16
+11526815,2,0001F-7025F,Performance measurement,0500F-0575F,Patient history,F,3959,3228,4,63
+11774138,2,0256T-0259T,Emerging technology,4000F-4306F,Physical examination,F,1,755,3,16
+2798838,2,0016T-0207T,Performance measurement,3006F-3573F,Composite measures,F,7010,5761,4,16
+2692095,2,0016T-0207T,Performance measurement,0016T-0207T,Patient safety,F,3604,15,4,93
+16151922,2,0001F-7025F,Performance measurement,0256T-0259T,Structural Measures,T,7010,15,4,16
+5190307,2,0001F-7025F,Performance measurement,5005F-5100F,Diagnostic/screening processes or results,F,7010,15,4,16
+10039216,2,0001F-7025F,Performance measurement,0016T-0207T,Structural Measures,F,7010,816,5,61
+7068154,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,T,2585,15,5,16
+1706047,2,0256T-0259T,Emerging technology,0500F-0575F,Temporary codes,F,6603,521,4,16
+13507255,2,0016T-0207T,Performance measurement,0500F-0575F,Patient history,F,7010,1027,4,70
+1434925,2,0001F-7025F,Performance measurement,2000F-2050F,Follow-up or other outcomes,F,2898,586,5,45
+11210187,2,0001F-7025F,Performance measurement,0500F-0575F,Patient history,F,4589,15,4,16
+1222313,2,0256T-0259T,Performance measurement,6005F-6045F,Diagnostic/screening processes or results,F,5010,15,5,16
+5770644,2,0001F-7025F,Performance measurement,0016T-0207T,Patient management,F,5349,15,4,113
+15718273,2,0001F-7025F,Performance measurement,1000F-1220F,Diagnostic/screening processes or results,T,1329,15,4,31
+14194914,2,0001F-7025F,Emerging technology,0500F-0575F,Diagnostic/screening processes or results,F,7010,1272,5,16
+7114715,2,0001F-7025F,Performance measurement,0016T-0207T,Composite measures,F,7010,15,4,36
+11288848,2,0001F-7025F,Performance measurement,3006F-3573F,Physical examination,F,5772,15,5,16
+1622855,2,0001F-7025F,Performance measurement,7010F-7025F,Patient history,F,7010,1124,5,16
+16255219,2,0001F-7025F,Performance measurement,0256T-0259T,Patient safety,F,7010,15,3,16
+11748127,2,0001F-7025F,Performance measurement,0500F-0575F,Physical examination,F,7010,1466,1,16
+3426386,2,0256T-0259T,Performance measurement,0256T-0259T,Patient history,F,6839,15,5,16
+1191601,2,0256T-0259T,Performance measurement,3006F-3573F,Temporary codes,F,4915,4119,4,29
+767781,2,0001F-7025F,Performance measurement,7010F-7025F,Patient history,F,4211,653,4,46
+7148988,3,0001F-7025F,Performance measurement,0500F-0575F,"Therapeutic, preventive or other interventions",F,1587,915,4,89
+4990996,2,0001F-7025F,Performance measurement,0001F-0015F,Patient safety,F,7010,15,5,53
+7371430,2,0001F-7025F,Performance measurement,4000F-4306F,Composite measures,F,7010,898,3,16
+5667775,2,0001F-7025F,Emerging technology,6005F-6045F,Temporary codes,F,1,15,5,98
+2984984,2,0001F-7025F,Performance measurement,6005F-6045F,Composite measures,F,7010,15,4,48
+8397035,2,0016T-0207T,Performance measurement,1000F-1220F,Patient management,F,1278,15,2,68
+12028937,2,0256T-0259T,Performance measurement,0016T-0207T,Temporary codes,F,6149,15,4,41
+1589616,2,0001F-7025F,Performance measurement,0500F-0575F,Diagnostic/screening processes or results,F,3249,1162,1,16
+864329,2,0001F-7025F,Emerging technology,3006F-3573F,Patient history,F,6097,15,4,16
+9329081,2,0001F-7025F,Performance measurement,4000F-4306F,Patient management,F,3677,15,3,16
+167092,2,0256T-0259T,Performance measurement,0256T-0259T,Patient safety,F,7010,15,5,40
+5912703,2,0001F-7025F,Performance measurement,6005F-6045F,Diagnostic/screening processes or results,F,3679,985,3,16
+696933,2,0001F-7025F,Performance measurement,3006F-3573F,"Therapeutic, preventive or other interventions",F,6799,277,3,122
+12610086,2,0001F-7025F,Performance measurement,3006F-3573F,Patient management,F,7010,15,4,44
+3720931,2,0001F-7025F,Performance measurement,3006F-3573F,Structural Measures,F,7010,15,4,16
+2130262,2,0001F-7025F,Performance measurement,1000F-1220F,Physical examination,F,3641,15,4,40
+2836833,2,0016T-0207T,Performance measurement,6005F-6045F,Physical examination,F,3983,15,4,17
+15609937,2,0001F-7025F,Performance measurement,3006F-3573F,Patient safety,F,7010,15,4,16
+3934150,2,0001F-7025F,Emerging technology,6005F-6045F,Physical examination,F,7010,4604,4,16
+10468237,2,0256T-0259T,Performance measurement,6005F-6045F,Diagnostic/screening processes or results,F,5101,15,4,40
+4586758,2,0001F-7025F,Performance measurement,2000F-2050F,Physical examination,T,3327,3360,5,16
+15316471,2,0016T-0207T,Performance measurement,0001F-0015F,Physical examination,F,3936,15,4,16
+1576126,2,0001F-7025F,Performance measurement,0500F-0575F,Physical examination,F,6456,107,4,16
+9936790,2,0001F-7025F,Emerging technology,6005F-6045F,Patient history,F,891,15,4,89
+12834221,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,7010,2834,5,16
+11979265,2,0001F-7025F,Performance measurement,1000F-1220F,Diagnostic/screening processes or results,F,7010,15,4,16
+8771555,2,0256T-0259T,Performance measurement,6005F-6045F,Temporary codes,F,7010,15,3,53
+3235631,3,0256T-0259T,Performance measurement,7010F-7025F,Temporary codes,T,7010,2783,3,16
+14404049,2,0001F-7025F,Emerging technology,1000F-1220F,Temporary codes,F,5707,704,4,16
+8663545,2,0256T-0259T,Emerging technology,2000F-2050F,Patient safety,F,3847,1293,3,16
+14076447,2,0256T-0259T,Performance measurement,0016T-0207T,Patient history,T,7010,1692,5,39
+5744254,2,0001F-7025F,Performance measurement,1000F-1220F,Diagnostic/screening processes or results,F,7010,129,5,34
+10043083,2,0001F-7025F,Performance measurement,0016T-0207T,Physical examination,T,5686,2373,1,49
+5720736,3,0016T-0207T,Performance measurement,3006F-3573F,Patient history,F,6311,15,1,31
+7178282,2,0001F-7025F,Performance measurement,0016T-0207T,Patient history,F,7010,15,3,16
+5745505,2,0001F-7025F,Performance measurement,7010F-7025F,Follow-up or other outcomes,F,7010,15,4,16
+2523735,3,0001F-7025F,Performance measurement,7010F-7025F,Patient management,F,2474,15,3,24
+13895174,3,0001F-7025F,Performance measurement,5005F-5100F,Temporary codes,F,6804,4116,4,16
+11351480,2,0001F-7025F,Performance measurement,2000F-2050F,Physical examination,F,7010,15,4,16
+12621844,3,0001F-7025F,Performance measurement,3006F-3573F,Physical examination,F,7010,15,4,69
+12518430,2,0001F-7025F,Performance measurement,3006F-3573F,Follow-up or other outcomes,F,7010,15,4,122
+9224144,2,0001F-7025F,Performance measurement,6005F-6045F,Patient safety,F,7010,15,5,30
+12244112,2,0256T-0259T,Performance measurement,7010F-7025F,Structural Measures,F,4290,15,3,113
+2089991,2,0001F-7025F,Performance measurement,6005F-6045F,Temporary codes,F,6812,15,3,66
+7121121,2,0256T-0259T,Performance measurement,0001F-0015F,Physical examination,F,6099,15,5,16
+6693090,2,0001F-7025F,Performance measurement,0500F-0575F,Patient safety,T,7010,15,4,18
+12148231,3,0001F-7025F,Emerging technology,0500F-0575F,Temporary codes,F,7010,15,4,122
+3194443,2,0001F-7025F,Performance measurement,0500F-0575F,Patient management,F,285,15,1,32
+16703486,2,0001F-7025F,Performance measurement,2000F-2050F,Follow-up or other outcomes,F,5402,554,1,16
+9811075,2,0016T-0207T,Performance measurement,0016T-0207T,Physical examination,F,7010,15,5,16
+14626061,2,0001F-7025F,Emerging technology,5005F-5100F,Structural Measures,F,5009,5655,4,16
+14022872,2,0001F-7025F,Performance measurement,1000F-1220F,Temporary codes,F,3518,15,4,16
+2408788,2,0256T-0259T,Performance measurement,0500F-0575F,Patient management,F,7010,2872,5,16
+2753475,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,7010,2346,5,24
+15102300,2,0001F-7025F,Performance measurement,3006F-3573F,Composite measures,F,4893,15,4,16
+12817228,2,0001F-7025F,Performance measurement,5005F-5100F,Temporary codes,F,7010,15,5,45
+3831278,2,0016T-0207T,Performance measurement,1000F-1220F,Physical examination,T,7010,15,3,71
+14937835,2,0001F-7025F,Performance measurement,2000F-2050F,Structural Measures,F,7010,15,1,16
+9898945,2,0001F-7025F,Performance measurement,0500F-0575F,"Therapeutic, preventive or other interventions",T,2915,15,5,16
+15115759,2,0001F-7025F,Performance measurement,2000F-2050F,Physical examination,T,7010,2015,4,33
+15169821,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,2141,4484,1,28
+14355888,2,0001F-7025F,Performance measurement,0256T-0259T,Physical examination,F,7010,1271,4,16
+1483186,2,0001F-7025F,Performance measurement,6005F-6045F,Composite measures,F,2253,15,3,16
+10860014,2,0001F-7025F,Performance measurement,1000F-1220F,Patient safety,F,7010,648,4,42
+15162975,2,0001F-7025F,Performance measurement,2000F-2050F,Follow-up or other outcomes,F,6233,15,5,16
+15256441,2,0016T-0207T,Performance measurement,0256T-0259T,"Therapeutic, preventive or other interventions",F,1,1149,5,16
+14310724,2,0016T-0207T,Performance measurement,0256T-0259T,Temporary codes,F,7010,1188,5,16
+5868446,2,0016T-0207T,Emerging technology,0256T-0259T,Patient safety,F,7010,2493,4,16
+5021448,2,0256T-0259T,Performance measurement,0500F-0575F,Diagnostic/screening processes or results,F,7010,15,1,92
+2223485,2,0001F-7025F,Performance measurement,5005F-5100F,Temporary codes,F,7010,15,4,22
+5367864,2,0001F-7025F,Performance measurement,0016T-0207T,Temporary codes,F,7010,15,4,47
+13906599,2,0256T-0259T,Performance measurement,6005F-6045F,Temporary codes,F,4952,6169,4,16
+5252214,2,0001F-7025F,Performance measurement,0500F-0575F,Patient safety,F,7010,5464,3,16
+1291446,2,0001F-7025F,Performance measurement,0500F-0575F,"Therapeutic, preventive or other interventions",F,7010,3468,4,16
+3263228,2,0001F-7025F,Performance measurement,5005F-5100F,Patient safety,F,7010,15,4,122
+9340259,2,0001F-7025F,Performance measurement,0256T-0259T,Diagnostic/screening processes or results,F,6218,873,4,16
+8496275,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,7010,15,1,79
+15507445,2,0001F-7025F,Performance measurement,0016T-0207T,Diagnostic/screening processes or results,F,6165,15,3,44
+11815376,2,0001F-7025F,Performance measurement,0256T-0259T,Diagnostic/screening processes or results,F,6326,5639,4,16
+2878315,2,0001F-7025F,Performance measurement,0500F-0575F,Physical examination,F,2210,15,4,40
+4363017,3,0001F-7025F,Performance measurement,5005F-5100F,Structural Measures,F,4159,15,5,16
+2499444,2,0001F-7025F,Performance measurement,6005F-6045F,Temporary codes,F,7010,15,5,50
+5554934,3,0001F-7025F,Performance measurement,7010F-7025F,Patient management,F,7010,6933,4,39
+16741923,2,0001F-7025F,Performance measurement,0001F-0015F,Patient history,F,7010,15,3,53
+16058717,2,0016T-0207T,Performance measurement,0256T-0259T,Composite measures,F,6770,15,4,94
+359651,2,0001F-7025F,Performance measurement,4000F-4306F,Physical examination,F,4866,15,4,16
+1492249,2,0256T-0259T,Performance measurement,1000F-1220F,Physical examination,F,7010,229,4,81
+16534010,2,0001F-7025F,Performance measurement,1000F-1220F,Patient history,F,7010,15,5,93
+13712458,2,0001F-7025F,Performance measurement,3006F-3573F,"Therapeutic, preventive or other interventions",F,5196,2760,4,16
+2259776,2,0001F-7025F,Performance measurement,7010F-7025F,Diagnostic/screening processes or results,T,7010,5026,3,16
+6698920,3,0016T-0207T,Performance measurement,2000F-2050F,"Therapeutic, preventive or other interventions",T,7010,384,5,16
+5866254,2,0001F-7025F,Performance measurement,0500F-0575F,Follow-up or other outcomes,F,1,15,4,16
+13043665,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,7010,15,4,16
+13114857,2,0001F-7025F,Performance measurement,0001F-0015F,Temporary codes,F,7010,15,4,46
+4774990,2,0256T-0259T,Emerging technology,0256T-0259T,Composite measures,F,7010,2701,4,16
+145478,2,0001F-7025F,Performance measurement,2000F-2050F,Patient safety,F,168,15,4,17
+4765158,2,0001F-7025F,Performance measurement,5005F-5100F,Structural Measures,F,7010,15,4,16
+6838081,2,0001F-7025F,Performance measurement,3006F-3573F,Temporary codes,F,7010,1840,4,16
+2025182,2,0001F-7025F,Performance measurement,0001F-0015F,Temporary codes,F,4910,15,4,60
+8834481,2,0016T-0207T,Performance measurement,2000F-2050F,Patient history,F,2552,15,3,38
+10181074,2,0001F-7025F,Performance measurement,7010F-7025F,Physical examination,F,7010,2080,3,16
+11496145,2,0001F-7025F,Performance measurement,0001F-0015F,"Therapeutic, preventive or other interventions",F,4405,15,5,89
+4572225,2,0001F-7025F,Performance measurement,1000F-1220F,Physical examination,F,7010,15,5,36
+16681350,2,0001F-7025F,Performance measurement,6005F-6045F,Diagnostic/screening processes or results,F,7010,15,4,16
+11740600,2,0001F-7025F,Performance measurement,0256T-0259T,"Therapeutic, preventive or other interventions",T,7010,15,4,84
+4421272,2,0001F-7025F,Performance measurement,0001F-0015F,Composite measures,F,2601,477,5,16
+3682012,2,0001F-7025F,Performance measurement,0001F-0015F,Physical examination,T,7010,2237,3,16
+4295658,2,0001F-7025F,Performance measurement,6005F-6045F,Temporary codes,F,1,2360,4,54
+10504993,2,0001F-7025F,Performance measurement,1000F-1220F,Patient management,T,4628,15,4,99
+2715939,2,0001F-7025F,Performance measurement,2000F-2050F,Physical examination,T,869,15,4,16
+9219727,2,0016T-0207T,Performance measurement,0500F-0575F,Temporary codes,F,7010,15,3,18
+16321005,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,6888,5683,4,39
+4409405,2,0256T-0259T,Performance measurement,4000F-4306F,Patient safety,F,7010,15,5,53
+9272071,2,0001F-7025F,Performance measurement,4000F-4306F,"Therapeutic, preventive or other interventions",F,6197,57,4,53
+5522265,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,7010,15,4,116
+662958,2,0001F-7025F,Performance measurement,3006F-3573F,Diagnostic/screening processes or results,F,7010,15,5,52
+13290604,2,0001F-7025F,Performance measurement,0016T-0207T,Patient history,F,7010,3692,4,22
+6165607,2,0256T-0259T,Performance measurement,4000F-4306F,Physical examination,T,7010,3745,3,56
+9556699,2,0001F-7025F,Emerging technology,0500F-0575F,Patient history,T,5363,15,1,16
+2860104,2,0256T-0259T,Performance measurement,4000F-4306F,Diagnostic/screening processes or results,F,4825,15,4,36
+12349357,2,0016T-0207T,Performance measurement,5005F-5100F,Physical examination,F,5480,15,4,41
+7619473,2,0001F-7025F,Performance measurement,0500F-0575F,Physical examination,F,7010,3600,4,16
+16250976,3,0001F-7025F,Performance measurement,1000F-1220F,Temporary codes,F,6230,15,4,122
+3295761,2,0001F-7025F,Performance measurement,4000F-4306F,Temporary codes,F,4059,3498,4,16
+10246584,2,0001F-7025F,Performance measurement,4000F-4306F,Temporary codes,T,4376,15,3,16
+1139750,2,0001F-7025F,Emerging technology,0001F-0015F,Follow-up or other outcomes,F,7010,206,3,16
+9343974,2,0001F-7025F,Performance measurement,7010F-7025F,Composite measures,F,3257,15,5,16
+14134903,2,0001F-7025F,Performance measurement,0001F-0015F,Structural Measures,F,2117,2693,4,16
+12185379,2,0016T-0207T,Emerging technology,0500F-0575F,Patient history,F,7010,4228,4,72
+5648262,2,0001F-7025F,Performance measurement,3006F-3573F,Temporary codes,F,7010,811,4,73
+15520896,2,0256T-0259T,Performance measurement,0256T-0259T,Temporary codes,F,7010,443,3,21
+8311667,2,0256T-0259T,Performance measurement,0016T-0207T,Composite measures,F,7010,2358,5,18
+10723899,2,0001F-7025F,Performance measurement,1000F-1220F,Temporary codes,T,5027,2431,4,21
+10648798,2,0256T-0259T,Emerging technology,0500F-0575F,Temporary codes,F,7010,15,5,16
+3474565,2,0001F-7025F,Performance measurement,4000F-4306F,Patient history,F,4087,15,3,16
+13104972,2,0001F-7025F,Performance measurement,0500F-0575F,Follow-up or other outcomes,T,7010,15,4,62
+3775232,2,0001F-7025F,Emerging technology,3006F-3573F,Patient management,F,7010,15,5,16
+9800409,2,0001F-7025F,Performance measurement,4000F-4306F,Diagnostic/screening processes or results,T,7010,15,4,19
+951060,2,0001F-7025F,Performance measurement,0256T-0259T,Patient safety,F,4128,15,4,64
+8324728,2,0001F-7025F,Performance measurement,0500F-0575F,Composite measures,F,7010,15,4,20
+15039928,2,0001F-7025F,Performance measurement,1000F-1220F,Physical examination,F,7010,2659,4,16
+10125044,2,0001F-7025F,Performance measurement,7010F-7025F,Composite measures,F,4288,15,3,72
+8297489,2,0001F-7025F,Performance measurement,0500F-0575F,Patient management,F,7010,32,5,73
+6868677,2,0001F-7025F,Performance measurement,3006F-3573F,Temporary codes,F,2078,15,3,47
+549980,2,0001F-7025F,Performance measurement,0256T-0259T,Structural Measures,T,2233,15,3,29
+16319206,2,0001F-7025F,Performance measurement,0256T-0259T,Patient management,F,6304,298,5,16
+10019765,2,0001F-7025F,Emerging technology,0016T-0207T,Diagnostic/screening processes or results,F,2037,15,4,29
+7361932,2,0001F-7025F,Performance measurement,0500F-0575F,Patient history,F,1578,15,5,16
+4477326,2,0001F-7025F,Performance measurement,1000F-1220F,Temporary codes,F,7010,1091,3,16
+7290782,2,0001F-7025F,Performance measurement,4000F-4306F,Patient safety,T,7010,307,3,37
+209828,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,3583,15,4,40
+13718335,2,0001F-7025F,Performance measurement,0016T-0207T,Patient history,F,2822,15,3,79
+5409133,2,0256T-0259T,Performance measurement,5005F-5100F,Patient history,F,4596,15,4,57
+6344628,3,0001F-7025F,Emerging technology,0256T-0259T,Temporary codes,F,1,15,4,87
+8608292,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,7010,3837,3,20
+226653,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,1836,15,4,16
+8026596,2,0001F-7025F,Emerging technology,0500F-0575F,Temporary codes,F,7010,15,4,45
+8868743,2,0001F-7025F,Emerging technology,0500F-0575F,Structural Measures,F,7010,2776,5,16
+11884098,2,0256T-0259T,Emerging technology,4000F-4306F,Temporary codes,F,7010,15,2,16
+10871365,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,F,1,2822,4,16
+3324925,2,0001F-7025F,Performance measurement,2000F-2050F,Patient safety,F,7010,4955,3,103
+4993024,2,0001F-7025F,Performance measurement,0500F-0575F,Composite measures,F,7010,15,5,50
+7430763,2,0001F-7025F,Performance measurement,0016T-0207T,Temporary codes,F,1868,15,3,16
+11295619,2,0001F-7025F,Performance measurement,0016T-0207T,Diagnostic/screening processes or results,F,4653,15,4,16
+728500,2,0001F-7025F,Performance measurement,2000F-2050F,Patient safety,F,7010,5328,4,70
+494873,2,0001F-7025F,Performance measurement,0500F-0575F,Patient management,T,5174,15,4,16
+129583,2,0001F-7025F,Performance measurement,0500F-0575F,Patient history,F,2714,15,5,16
+6337920,2,0001F-7025F,Performance measurement,0500F-0575F,Composite measures,F,7010,711,4,84
+10147386,2,0256T-0259T,Performance measurement,0001F-0015F,Patient management,F,7010,2228,4,97
+14367523,2,0001F-7025F,Performance measurement,3006F-3573F,Follow-up or other outcomes,T,4382,15,5,107
+5825489,2,0001F-7025F,Emerging technology,1000F-1220F,Physical examination,T,4706,15,4,45
+14043535,2,0001F-7025F,Performance measurement,6005F-6045F,Diagnostic/screening processes or results,F,3270,15,4,16
+4902771,2,0001F-7025F,Performance measurement,0256T-0259T,Physical examination,F,1389,525,5,74
+11969352,2,0001F-7025F,Emerging technology,0001F-0015F,Patient history,F,7010,1118,4,47
+1170250,2,0001F-7025F,Performance measurement,3006F-3573F,Physical examination,T,7010,15,4,16
+15387130,2,0001F-7025F,Performance measurement,4000F-4306F,Temporary codes,F,3468,15,4,63
+1946224,2,0016T-0207T,Performance measurement,0500F-0575F,Temporary codes,F,7010,15,4,46
+4982542,3,0256T-0259T,Emerging technology,0016T-0207T,Structural Measures,T,1514,2802,3,16
+14931766,2,0256T-0259T,Performance measurement,2000F-2050F,Patient history,F,7010,7025,1,16
+3951060,2,0001F-7025F,Performance measurement,4000F-4306F,Temporary codes,F,6752,30,4,105
+1492039,3,0001F-7025F,Performance measurement,0256T-0259T,Patient management,F,891,6210,4,19
+3860807,2,0001F-7025F,Emerging technology,0256T-0259T,Follow-up or other outcomes,F,4643,15,4,16
+6061951,2,0001F-7025F,Performance measurement,3006F-3573F,Temporary codes,F,2277,1293,5,16
+9194174,2,0001F-7025F,Emerging technology,0256T-0259T,Diagnostic/screening processes or results,F,7010,15,5,16
+1652541,2,0001F-7025F,Emerging technology,6005F-6045F,Diagnostic/screening processes or results,F,7010,206,3,45
+11755052,2,0001F-7025F,Performance measurement,3006F-3573F,Temporary codes,F,7010,4523,5,16
+4044805,2,0001F-7025F,Performance measurement,6005F-6045F,Patient safety,F,3518,15,3,55
+10027455,2,0001F-7025F,Performance measurement,0016T-0207T,Physical examination,T,7010,15,3,16
+5711636,2,0001F-7025F,Performance measurement,0001F-0015F,Follow-up or other outcomes,F,1244,15,4,80
+16623500,2,0256T-0259T,Performance measurement,0001F-0015F,Composite measures,F,5910,15,4,16
+6705416,2,0001F-7025F,Performance measurement,3006F-3573F,Structural Measures,T,7010,1546,1,16
+15996138,2,0001F-7025F,Performance measurement,6005F-6045F,Diagnostic/screening processes or results,T,7010,15,1,53
+4703514,2,0016T-0207T,Performance measurement,3006F-3573F,Patient history,F,7010,15,4,16
+13503310,2,0001F-7025F,Performance measurement,1000F-1220F,Temporary codes,F,3475,15,4,16
+9177610,2,0001F-7025F,Performance measurement,0016T-0207T,Physical examination,T,20,15,5,16
+16111893,2,0001F-7025F,Performance measurement,0016T-0207T,Patient safety,F,2383,117,4,90
+6898564,2,0001F-7025F,Performance measurement,1000F-1220F,Diagnostic/screening processes or results,F,2494,15,5,122
+16709777,2,0001F-7025F,Performance measurement,0256T-0259T,Structural Measures,F,906,15,4,16
+233255,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,7010,15,5,16
+10705849,2,0001F-7025F,Performance measurement,0016T-0207T,Composite measures,F,7010,15,4,16
+4949039,2,0001F-7025F,Performance measurement,0500F-0575F,"Therapeutic, preventive or other interventions",F,4713,15,1,35
+12390095,2,0256T-0259T,Performance measurement,7010F-7025F,Patient history,F,7010,15,4,28
+9205262,2,0001F-7025F,Performance measurement,0500F-0575F,Patient management,F,7010,15,4,22
+7225267,2,0016T-0207T,Performance measurement,2000F-2050F,Composite measures,T,5403,1757,4,16
+1483709,2,0001F-7025F,Emerging technology,1000F-1220F,Physical examination,F,7010,15,5,16
+10590819,2,0001F-7025F,Performance measurement,3006F-3573F,Physical examination,T,7010,15,4,16
+1793985,2,0001F-7025F,Performance measurement,3006F-3573F,Patient history,F,7010,1328,4,16
+9600648,2,0001F-7025F,Performance measurement,6005F-6045F,Structural Measures,F,7010,15,3,49
+8224841,2,0001F-7025F,Performance measurement,7010F-7025F,Diagnostic/screening processes or results,T,7010,15,4,38
+8404066,2,0001F-7025F,Performance measurement,7010F-7025F,Physical examination,F,6964,15,4,52
+16635192,2,0001F-7025F,Performance measurement,4000F-4306F,Physical examination,F,7010,15,5,16
+15994175,2,0001F-7025F,Performance measurement,0001F-0015F,Follow-up or other outcomes,F,7010,5410,4,16
+11511201,2,0256T-0259T,Performance measurement,2000F-2050F,Patient management,F,7010,5660,4,59
+11996087,2,0001F-7025F,Emerging technology,0001F-0015F,Diagnostic/screening processes or results,T,7010,127,1,16
+13462410,2,0001F-7025F,Performance measurement,0500F-0575F,Diagnostic/screening processes or results,F,6935,15,5,16
+14847276,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,T,7010,15,3,73
+9583823,2,0001F-7025F,Performance measurement,2000F-2050F,Patient management,F,7010,5556,4,16
+8141668,2,0001F-7025F,Performance measurement,4000F-4306F,Composite measures,F,6606,15,5,32
+3105883,2,0001F-7025F,Performance measurement,1000F-1220F,Follow-up or other outcomes,F,3647,451,5,102
+4322649,2,0001F-7025F,Performance measurement,7010F-7025F,Composite measures,F,6006,15,4,62
+5308584,2,0001F-7025F,Emerging technology,5005F-5100F,Follow-up or other outcomes,F,7010,2005,5,16
+1909698,2,0256T-0259T,Performance measurement,5005F-5100F,Structural Measures,F,5232,15,4,21
+2326007,2,0016T-0207T,Performance measurement,2000F-2050F,Temporary codes,F,7010,15,3,51
+9472343,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,F,5341,15,4,16
+9179277,2,0001F-7025F,Performance measurement,1000F-1220F,Diagnostic/screening processes or results,T,2076,15,4,16
+16652544,2,0001F-7025F,Performance measurement,0500F-0575F,Patient safety,F,7010,3021,4,48
+8777292,2,0001F-7025F,Performance measurement,7010F-7025F,Patient history,F,7010,63,2,60
+14717111,3,0001F-7025F,Emerging technology,0016T-0207T,Structural Measures,F,7010,15,4,29
+11722183,3,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,7010,15,5,16
+13299141,2,0001F-7025F,Performance measurement,0256T-0259T,Physical examination,F,7010,1355,4,79
+16136149,2,0256T-0259T,Emerging technology,0016T-0207T,Patient management,F,5113,15,4,16
+7481594,2,0001F-7025F,Emerging technology,0256T-0259T,Physical examination,F,7010,15,5,16
+610415,2,0016T-0207T,Performance measurement,0500F-0575F,Follow-up or other outcomes,F,5046,2260,5,92
+11508644,2,0001F-7025F,Performance measurement,0016T-0207T,Patient history,T,5487,15,5,16
+4851964,2,0256T-0259T,Performance measurement,0001F-0015F,Temporary codes,F,6516,1190,4,16
+5476826,2,0256T-0259T,Performance measurement,0016T-0207T,Patient safety,F,2857,15,4,47
+5882333,2,0016T-0207T,Performance measurement,7010F-7025F,Patient safety,F,4266,15,4,78
+3943794,2,0001F-7025F,Performance measurement,0256T-0259T,"Therapeutic, preventive or other interventions",F,3712,1686,4,19
+7290198,2,0001F-7025F,Performance measurement,4000F-4306F,Patient management,T,6500,15,5,16
+873079,2,0001F-7025F,Performance measurement,1000F-1220F,Patient safety,F,3312,944,3,16
+5680695,2,0001F-7025F,Emerging technology,1000F-1220F,Patient safety,T,1604,15,4,16
+345575,2,0001F-7025F,Performance measurement,0016T-0207T,Physical examination,F,7010,15,3,89
+6248827,2,0001F-7025F,Performance measurement,6005F-6045F,Patient history,F,6229,15,4,16
+3045232,2,0001F-7025F,Performance measurement,0016T-0207T,Patient management,T,7010,15,5,16
+10905229,2,0001F-7025F,Performance measurement,0016T-0207T,"Therapeutic, preventive or other interventions",T,4044,15,5,16
+16421563,2,0001F-7025F,Performance measurement,3006F-3573F,Temporary codes,F,3847,15,4,67
+12255802,2,0001F-7025F,Performance measurement,5005F-5100F,Structural Measures,F,6910,15,4,40
+11402575,2,0001F-7025F,Performance measurement,4000F-4306F,Diagnostic/screening processes or results,F,7010,5059,4,16
+11889103,2,0001F-7025F,Performance measurement,0500F-0575F,Structural Measures,F,7010,544,4,16
+16693977,2,0001F-7025F,Performance measurement,0500F-0575F,"Therapeutic, preventive or other interventions",F,7010,1955,2,73
+14952086,2,0001F-7025F,Performance measurement,7010F-7025F,Patient history,T,5757,15,4,23
+6418575,3,0001F-7025F,Performance measurement,0256T-0259T,Physical examination,F,3881,15,2,16
+15685193,3,0001F-7025F,Performance measurement,7010F-7025F,Patient safety,F,7010,5668,5,16
+13344319,2,0001F-7025F,Performance measurement,2000F-2050F,"Therapeutic, preventive or other interventions",F,4825,15,4,63
+10574749,2,0001F-7025F,Performance measurement,0016T-0207T,Patient management,F,7010,15,4,30
+2396397,2,0001F-7025F,Performance measurement,4000F-4306F,Composite measures,F,7010,15,4,42
+12471276,2,0001F-7025F,Performance measurement,0016T-0207T,Follow-up or other outcomes,F,7010,15,5,108
+4618419,2,0001F-7025F,Performance measurement,0256T-0259T,Diagnostic/screening processes or results,F,7010,15,4,61
+6653536,2,0001F-7025F,Performance measurement,0500F-0575F,Composite measures,T,6782,1119,5,78
+223561,2,0001F-7025F,Performance measurement,2000F-2050F,Physical examination,F,4472,15,4,90
+4871800,2,0001F-7025F,Performance measurement,0256T-0259T,Structural Measures,F,4009,15,4,55
+13242177,2,0001F-7025F,Performance measurement,0001F-0015F,Patient safety,F,5059,15,3,16
+13903980,2,0001F-7025F,Performance measurement,0016T-0207T,Patient history,F,4962,15,4,84
+12190210,2,0001F-7025F,Performance measurement,0256T-0259T,Patient management,F,7010,15,5,16
+12576213,2,0001F-7025F,Performance measurement,0256T-0259T,Follow-up or other outcomes,F,7010,15,4,16
+582545,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,6521,5028,4,42
+6329800,2,0001F-7025F,Emerging technology,4000F-4306F,Physical examination,F,4156,1329,5,67
+13028671,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,6512,2011,4,16
+6059867,2,0001F-7025F,Performance measurement,5005F-5100F,Structural Measures,F,1,15,4,45
+7583602,2,0001F-7025F,Performance measurement,6005F-6045F,Physical examination,F,7010,3496,4,59
+1049274,2,0001F-7025F,Emerging technology,0500F-0575F,Physical examination,F,5986,15,3,16
+11938521,2,0001F-7025F,Performance measurement,6005F-6045F,Composite measures,F,7010,15,4,16
+13131800,2,0001F-7025F,Performance measurement,0256T-0259T,Patient history,F,7010,15,1,53
+16752438,2,0001F-7025F,Performance measurement,0016T-0207T,Composite measures,F,500,15,5,26
+2998403,2,0256T-0259T,Emerging technology,6005F-6045F,Temporary codes,F,6074,15,5,22
+15665961,2,0001F-7025F,Performance measurement,0001F-0015F,Diagnostic/screening processes or results,F,3387,4452,1,16
+12181856,2,0001F-7025F,Performance measurement,5005F-5100F,Temporary codes,T,7010,15,5,73
+8663467,2,0001F-7025F,Emerging technology,0256T-0259T,Patient history,F,1,488,4,32
+957637,2,0001F-7025F,Performance measurement,0001F-0015F,Temporary codes,T,7010,15,4,122
+15858038,2,0256T-0259T,Performance measurement,0016T-0207T,Physical examination,F,7010,1645,4,16
+10383181,2,0001F-7025F,Performance measurement,0500F-0575F,Patient history,F,4881,15,3,77
+3340193,2,0001F-7025F,Performance measurement,3006F-3573F,Physical examination,F,7010,15,4,82
+4135466,2,0001F-7025F,Emerging technology,4000F-4306F,Temporary codes,F,7010,15,5,70
+1877323,2,0001F-7025F,Performance measurement,5005F-5100F,Temporary codes,F,6738,15,5,16
+10883230,2,0016T-0207T,Emerging technology,3006F-3573F,Composite measures,F,2740,15,1,69
+4665471,2,0001F-7025F,Performance measurement,1000F-1220F,Patient safety,F,7010,828,1,118
+5603576,2,0001F-7025F,Performance measurement,5005F-5100F,Physical examination,F,1089,15,1,16
+539639,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,T,7010,2969,3,16
+5450577,2,0001F-7025F,Performance measurement,7010F-7025F,Composite measures,F,7010,7025,4,16
+13627141,2,0256T-0259T,Emerging technology,2000F-2050F,Temporary codes,F,1217,15,5,16
+15732338,3,0001F-7025F,Performance measurement,1000F-1220F,Physical examination,F,7010,15,4,93
+7828705,2,0001F-7025F,Performance measurement,6005F-6045F,Physical examination,F,1765,15,3,16
+5490025,2,0001F-7025F,Performance measurement,2000F-2050F,Physical examination,F,6265,15,4,56
+25159,2,0001F-7025F,Performance measurement,0500F-0575F,"Therapeutic, preventive or other interventions",F,7010,1077,4,16
+1019026,2,0001F-7025F,Performance measurement,0500F-0575F,Composite measures,F,6411,2174,4,16
+2642329,2,0001F-7025F,Performance measurement,5005F-5100F,Structural Measures,F,6897,1731,5,116
+16573991,2,0256T-0259T,Performance measurement,3006F-3573F,Patient history,F,4223,197,4,16
+4809679,2,0001F-7025F,Performance measurement,1000F-1220F,Temporary codes,F,2771,15,4,42
+11153387,2,0001F-7025F,Performance measurement,2000F-2050F,Composite measures,T,5685,2940,4,16
+15641195,2,0016T-0207T,Performance measurement,1000F-1220F,Patient history,F,4558,4240,5,16
+5199949,2,0001F-7025F,Performance measurement,4000F-4306F,Structural Measures,F,6334,2561,4,36
+7562760,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,6082,2087,4,16
+16734101,3,0001F-7025F,Emerging technology,3006F-3573F,Patient history,F,2920,15,4,34
+1488658,2,0001F-7025F,Emerging technology,6005F-6045F,Patient management,F,7010,15,3,33
+8864328,3,0001F-7025F,Performance measurement,1000F-1220F,Diagnostic/screening processes or results,F,7010,486,4,120
+904515,2,0001F-7025F,Emerging technology,2000F-2050F,Temporary codes,F,7010,6343,1,16
+13574546,3,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,1,6177,4,16
+652130,2,0001F-7025F,Performance measurement,2000F-2050F,Physical examination,F,5006,15,5,62
+4013043,2,0256T-0259T,Performance measurement,0500F-0575F,Physical examination,F,7010,15,5,59
+14516608,2,0001F-7025F,Emerging technology,5005F-5100F,Patient safety,T,5928,15,5,84
+4119328,2,0001F-7025F,Emerging technology,0256T-0259T,Diagnostic/screening processes or results,T,7010,15,5,75
+7260244,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,2966,4564,4,64
+1769852,2,0001F-7025F,Performance measurement,4000F-4306F,Composite measures,F,7010,496,4,16
+9059507,2,0001F-7025F,Performance measurement,0016T-0207T,Diagnostic/screening processes or results,F,7010,15,4,16
+6327040,3,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,3322,1381,1,62
+13882468,3,0001F-7025F,Performance measurement,0500F-0575F,Physical examination,F,2678,15,3,16
+8858354,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,3889,15,5,56
+5180808,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,7010,1144,4,16
+2470835,2,0001F-7025F,Performance measurement,7010F-7025F,Composite measures,F,3505,15,3,32
+2298039,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,1486,631,4,65
+4396143,2,0001F-7025F,Performance measurement,5005F-5100F,Composite measures,T,174,15,4,49
+14182573,2,0016T-0207T,Performance measurement,6005F-6045F,Composite measures,T,7010,2724,3,25
+2302032,2,0256T-0259T,Performance measurement,2000F-2050F,Diagnostic/screening processes or results,F,4500,15,4,42
+12086765,2,0001F-7025F,Performance measurement,3006F-3573F,Structural Measures,T,1,399,4,16
+11124237,2,0001F-7025F,Performance measurement,5005F-5100F,"Therapeutic, preventive or other interventions",F,7010,15,4,16
+6420176,2,0001F-7025F,Emerging technology,1000F-1220F,Temporary codes,F,6558,15,4,121
+15946694,2,0001F-7025F,Performance measurement,0500F-0575F,Diagnostic/screening processes or results,F,4481,15,5,101
+15499334,2,0016T-0207T,Performance measurement,7010F-7025F,Physical examination,F,5535,15,4,99
+16722659,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,6550,15,4,16
+3902228,2,0001F-7025F,Performance measurement,6005F-6045F,Follow-up or other outcomes,F,3608,15,3,16
+10910916,2,0001F-7025F,Performance measurement,5005F-5100F,Temporary codes,F,7010,15,3,16
+9169097,2,0001F-7025F,Performance measurement,0500F-0575F,Structural Measures,F,7010,1918,1,78
+421311,2,0016T-0207T,Performance measurement,2000F-2050F,Diagnostic/screening processes or results,F,3238,1587,4,16
+2982755,2,0001F-7025F,Performance measurement,3006F-3573F,Structural Measures,F,674,639,4,16
+8888307,2,0016T-0207T,Performance measurement,4000F-4306F,Diagnostic/screening processes or results,T,6629,2727,3,16
+14468763,2,0001F-7025F,Performance measurement,6005F-6045F,"Therapeutic, preventive or other interventions",T,7010,420,5,16
+4782194,2,0001F-7025F,Performance measurement,0256T-0259T,Composite measures,F,7010,15,5,25
+16736362,2,0016T-0207T,Emerging technology,0500F-0575F,Physical examination,F,7010,15,4,20
+2686768,2,0001F-7025F,Performance measurement,0016T-0207T,Physical examination,F,5786,2203,4,122
+6909588,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,T,7010,15,3,25
+6104790,2,0001F-7025F,Performance measurement,0256T-0259T,Diagnostic/screening processes or results,F,6981,703,5,16
+9691090,2,0001F-7025F,Performance measurement,0256T-0259T,Physical examination,F,7010,2537,3,70
+11565064,2,0001F-7025F,Performance measurement,1000F-1220F,Physical examination,F,7010,15,4,21
+11000786,3,0001F-7025F,Emerging technology,0256T-0259T,Temporary codes,F,7010,1015,5,16
+13523196,2,0001F-7025F,Performance measurement,0500F-0575F,Diagnostic/screening processes or results,F,4726,5480,4,70
+8732358,2,0001F-7025F,Performance measurement,4000F-4306F,Temporary codes,F,6731,3839,5,16
+15691636,2,0001F-7025F,Performance measurement,6005F-6045F,Physical examination,F,7010,15,4,99
+14018874,2,0001F-7025F,Performance measurement,4000F-4306F,Diagnostic/screening processes or results,F,4888,15,4,122
+4435039,2,0001F-7025F,Performance measurement,0256T-0259T,Diagnostic/screening processes or results,F,5740,15,5,83
+9918097,2,0001F-7025F,Performance measurement,6005F-6045F,Patient management,F,7010,15,4,16
+6307346,2,0001F-7025F,Emerging technology,1000F-1220F,Diagnostic/screening processes or results,T,7010,15,1,16
+1777897,2,0001F-7025F,Emerging technology,5005F-5100F,Composite measures,F,6321,15,1,16
+7540227,2,0001F-7025F,Performance measurement,0256T-0259T,Diagnostic/screening processes or results,F,7010,15,3,16
+10705430,2,0001F-7025F,Performance measurement,6005F-6045F,Patient management,F,6370,15,4,39
+10099449,3,0256T-0259T,Performance measurement,4000F-4306F,Temporary codes,F,5485,376,4,87
+9008122,2,0256T-0259T,Performance measurement,0500F-0575F,Temporary codes,F,7010,15,1,24
+7329341,2,0001F-7025F,Performance measurement,0001F-0015F,Follow-up or other outcomes,F,2190,1383,4,105
+7357822,2,0001F-7025F,Performance measurement,0016T-0207T,Physical examination,F,6287,15,5,16
+11807196,2,0001F-7025F,Performance measurement,3006F-3573F,Patient safety,F,6819,15,4,16
+15306718,3,0001F-7025F,Performance measurement,3006F-3573F,"Therapeutic, preventive or other interventions",F,6317,15,4,16
+2558851,3,0256T-0259T,Performance measurement,0016T-0207T,Patient history,F,3767,15,4,106
+4416580,2,0001F-7025F,Performance measurement,0500F-0575F,Patient history,T,3824,15,5,16
+7381514,2,0001F-7025F,Emerging technology,2000F-2050F,"Therapeutic, preventive or other interventions",T,6121,2210,4,80
+10285817,3,0001F-7025F,Emerging technology,2000F-2050F,Temporary codes,F,5283,976,1,16
+3317224,2,0001F-7025F,Performance measurement,3006F-3573F,Patient history,F,4703,670,4,16
+385828,2,0001F-7025F,Emerging technology,0256T-0259T,Patient safety,F,1,15,3,36
+9071398,2,0001F-7025F,Performance measurement,0500F-0575F,"Therapeutic, preventive or other interventions",F,7010,273,4,16
+6371280,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,4070,15,3,25
+10048867,2,0001F-7025F,Emerging technology,7010F-7025F,Follow-up or other outcomes,F,6160,15,5,16
+1032475,2,0001F-7025F,Performance measurement,1000F-1220F,"Therapeutic, preventive or other interventions",F,7010,15,4,16
+3696784,3,0001F-7025F,Performance measurement,1000F-1220F,Composite measures,F,7010,4908,4,16
+9456873,2,0016T-0207T,Performance measurement,0500F-0575F,Diagnostic/screening processes or results,F,7010,15,5,49
+5685376,2,0001F-7025F,Performance measurement,2000F-2050F,Structural Measures,F,1,70,4,68
+3899781,2,0016T-0207T,Performance measurement,6005F-6045F,Follow-up or other outcomes,F,4236,15,5,16
+2098169,2,0001F-7025F,Performance measurement,1000F-1220F,Physical examination,F,5064,1498,5,23
+5217807,2,0016T-0207T,Performance measurement,1000F-1220F,Structural Measures,F,7010,1437,1,16
+16524958,2,0001F-7025F,Performance measurement,7010F-7025F,Patient history,F,2371,15,3,47
+14742695,2,0016T-0207T,Performance measurement,6005F-6045F,Physical examination,F,5157,15,3,16
+2082277,2,0001F-7025F,Performance measurement,1000F-1220F,Diagnostic/screening processes or results,F,6514,15,4,62
+15913018,2,0001F-7025F,Performance measurement,0500F-0575F,"Therapeutic, preventive or other interventions",F,1881,15,5,16
+7776370,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,F,7010,15,5,16
+3846956,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,7010,15,5,16
+5781444,2,0001F-7025F,Performance measurement,3006F-3573F,Diagnostic/screening processes or results,F,5353,15,3,37
+11288172,2,0001F-7025F,Performance measurement,0500F-0575F,"Therapeutic, preventive or other interventions",F,1,15,3,70
+14518929,2,0001F-7025F,Performance measurement,0001F-0015F,Physical examination,F,7010,15,5,23
+16659708,2,0001F-7025F,Performance measurement,5005F-5100F,Follow-up or other outcomes,T,7010,1521,4,78
+12379975,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,T,7010,37,4,27
+11371777,2,0001F-7025F,Performance measurement,0500F-0575F,"Therapeutic, preventive or other interventions",F,5915,166,4,25
+7225706,2,0001F-7025F,Emerging technology,0256T-0259T,Follow-up or other outcomes,F,6950,15,3,16
+16026960,2,0001F-7025F,Performance measurement,0500F-0575F,Follow-up or other outcomes,F,1493,15,5,33
+12351723,2,0256T-0259T,Performance measurement,7010F-7025F,Patient safety,F,7010,6560,1,16
+10750554,2,0001F-7025F,Performance measurement,0016T-0207T,Structural Measures,F,7010,15,5,22
+5637024,3,0256T-0259T,Performance measurement,3006F-3573F,Composite measures,F,7010,3925,4,86
+11771830,3,0001F-7025F,Performance measurement,6005F-6045F,Patient history,F,7010,15,4,43
+16533792,2,0001F-7025F,Performance measurement,0016T-0207T,Patient safety,F,6017,15,5,23
+8439534,2,0001F-7025F,Performance measurement,7010F-7025F,"Therapeutic, preventive or other interventions",F,772,15,4,16
+1209278,2,0001F-7025F,Emerging technology,3006F-3573F,Physical examination,T,7010,1237,4,21
+15691804,2,0001F-7025F,Performance measurement,4000F-4306F,Temporary codes,F,7010,15,3,67
+2230832,2,0001F-7025F,Performance measurement,5005F-5100F,Physical examination,T,6435,679,5,26
+4751882,2,0256T-0259T,Performance measurement,6005F-6045F,Diagnostic/screening processes or results,F,979,15,3,16
+4336277,2,0256T-0259T,Performance measurement,0500F-0575F,"Therapeutic, preventive or other interventions",F,7010,15,4,20
+8441808,2,0001F-7025F,Performance measurement,2000F-2050F,"Therapeutic, preventive or other interventions",F,7010,15,4,16
+13823423,2,0001F-7025F,Emerging technology,1000F-1220F,Diagnostic/screening processes or results,F,1,3205,3,16
+8815289,2,0001F-7025F,Performance measurement,0500F-0575F,Composite measures,F,3830,953,4,57
+2559633,2,0001F-7025F,Performance measurement,0256T-0259T,Follow-up or other outcomes,F,4875,15,4,16
+15241702,3,0001F-7025F,Emerging technology,1000F-1220F,Structural Measures,F,7010,15,5,16
+3161875,2,0001F-7025F,Performance measurement,0016T-0207T,Structural Measures,F,7010,15,5,24
+66668,2,0256T-0259T,Performance measurement,4000F-4306F,"Therapeutic, preventive or other interventions",F,7010,15,4,16
+3460609,2,0001F-7025F,Emerging technology,1000F-1220F,Physical examination,F,3177,15,5,81
+14078746,2,0001F-7025F,Performance measurement,0016T-0207T,Diagnostic/screening processes or results,F,7010,895,4,58
+16278836,2,0001F-7025F,Performance measurement,6005F-6045F,Temporary codes,F,7010,15,1,30
+7335026,2,0001F-7025F,Performance measurement,0001F-0015F,Structural Measures,F,7010,15,4,16
+1176681,2,0001F-7025F,Emerging technology,0500F-0575F,Temporary codes,F,7010,1548,5,36
+14064625,2,0001F-7025F,Emerging technology,6005F-6045F,Patient management,F,6529,15,3,16
+15390362,2,0001F-7025F,Emerging technology,2000F-2050F,Physical examination,F,1029,15,5,16
+2856319,2,0001F-7025F,Performance measurement,0016T-0207T,Diagnostic/screening processes or results,F,7010,15,4,16
+15030781,2,0001F-7025F,Performance measurement,0500F-0575F,Structural Measures,T,7010,15,4,16
+8568824,2,0001F-7025F,Performance measurement,3006F-3573F,Structural Measures,F,3166,1044,1,25
+3102709,2,0256T-0259T,Performance measurement,0256T-0259T,Temporary codes,F,7010,15,4,40
+13744473,2,0001F-7025F,Performance measurement,0500F-0575F,Structural Measures,F,3081,15,4,16
+10312844,2,0001F-7025F,Performance measurement,4000F-4306F,Composite measures,F,7010,15,5,16
+5562900,2,0001F-7025F,Performance measurement,0016T-0207T,Temporary codes,F,3958,15,5,82
+1827577,2,0001F-7025F,Performance measurement,4000F-4306F,Structural Measures,F,5959,1273,5,16
+12237623,2,0001F-7025F,Performance measurement,6005F-6045F,Temporary codes,F,3737,15,4,16
+15409725,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,T,2650,15,5,67
+1763112,2,0001F-7025F,Performance measurement,4000F-4306F,Physical examination,F,5142,15,4,16
+6928599,2,0001F-7025F,Emerging technology,0016T-0207T,Composite measures,F,7010,1963,4,74
+15723514,2,0001F-7025F,Performance measurement,0500F-0575F,Composite measures,F,3388,15,4,16
+15058951,3,0001F-7025F,Performance measurement,0016T-0207T,Temporary codes,T,7010,15,3,25
+6828718,2,0001F-7025F,Performance measurement,2000F-2050F,Physical examination,F,2742,1278,4,66
+1514906,2,0001F-7025F,Performance measurement,0256T-0259T,Patient safety,F,7010,15,4,30
+8828961,2,0001F-7025F,Performance measurement,0256T-0259T,Patient safety,F,7010,15,3,52
+14719093,2,0001F-7025F,Performance measurement,3006F-3573F,Temporary codes,F,5454,15,3,16
+15756975,2,0001F-7025F,Performance measurement,1000F-1220F,Diagnostic/screening processes or results,F,7010,15,5,72
+15812281,3,0001F-7025F,Performance measurement,0500F-0575F,Physical examination,F,5791,15,3,51
+13497940,2,0001F-7025F,Performance measurement,2000F-2050F,Diagnostic/screening processes or results,F,4627,5507,3,39
+7837741,2,0001F-7025F,Performance measurement,7010F-7025F,Patient management,F,7010,15,4,16
+11980128,2,0001F-7025F,Performance measurement,2000F-2050F,Structural Measures,F,4745,15,5,16
+1686030,2,0001F-7025F,Performance measurement,3006F-3573F,Patient history,F,4174,15,3,38
+16088351,3,0001F-7025F,Performance measurement,0016T-0207T,Diagnostic/screening processes or results,F,6818,15,4,16
+3536707,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,7010,15,5,73
+14437793,2,0001F-7025F,Performance measurement,6005F-6045F,"Therapeutic, preventive or other interventions",F,7010,15,3,63
+12995571,3,0001F-7025F,Performance measurement,5005F-5100F,Follow-up or other outcomes,F,7010,15,4,28
+4256989,2,0001F-7025F,Performance measurement,7010F-7025F,Physical examination,F,4120,15,4,39
+8723679,2,0256T-0259T,Performance measurement,2000F-2050F,Patient safety,T,4124,15,4,34
+7301334,2,0001F-7025F,Performance measurement,0256T-0259T,Follow-up or other outcomes,F,7010,3702,4,16
+4474195,2,0001F-7025F,Performance measurement,2000F-2050F,Composite measures,T,7010,15,5,41
+83074,2,0001F-7025F,Performance measurement,1000F-1220F,Temporary codes,F,7010,15,5,16
+10728541,2,0001F-7025F,Performance measurement,1000F-1220F,Composite measures,T,6368,1748,3,102
+15202822,2,0001F-7025F,Performance measurement,2000F-2050F,Structural Measures,F,7010,4106,4,18
+1293585,2,0001F-7025F,Performance measurement,5005F-5100F,Patient history,T,3177,3127,4,16
+961193,2,0001F-7025F,Performance measurement,3006F-3573F,Patient safety,F,7010,15,4,38
+3378723,2,0001F-7025F,Performance measurement,5005F-5100F,Physical examination,F,4678,948,4,16
+6606606,2,0001F-7025F,Performance measurement,0016T-0207T,Composite measures,F,5255,15,5,69
+5163081,2,0001F-7025F,Performance measurement,6005F-6045F,Physical examination,F,322,15,4,61
+10530865,2,0001F-7025F,Emerging technology,0256T-0259T,Patient safety,F,4595,15,4,35
+1806188,2,0001F-7025F,Performance measurement,3006F-3573F,Structural Measures,F,7010,2675,4,44
+13468974,2,0001F-7025F,Emerging technology,5005F-5100F,Patient safety,T,6088,15,4,25
+11456114,2,0001F-7025F,Performance measurement,2000F-2050F,Patient management,F,7010,43,3,83
+13637091,2,0001F-7025F,Performance measurement,0256T-0259T,Composite measures,F,5116,145,4,16
+4352674,2,0001F-7025F,Performance measurement,6005F-6045F,Temporary codes,F,6316,769,4,30
+2444127,2,0001F-7025F,Emerging technology,0500F-0575F,Patient safety,F,1988,15,5,93
+8829207,2,0016T-0207T,Performance measurement,7010F-7025F,Diagnostic/screening processes or results,F,3688,15,3,38
+15893237,2,0256T-0259T,Performance measurement,0001F-0015F,Temporary codes,T,3274,15,5,46
+8079902,2,0001F-7025F,Performance measurement,5005F-5100F,Physical examination,T,1,15,5,41
+11093524,2,0001F-7025F,Performance measurement,0500F-0575F,Patient safety,F,7010,15,3,85
+5799512,2,0001F-7025F,Performance measurement,0500F-0575F,Structural Measures,F,4852,15,5,29
+8161328,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,F,5153,15,5,16
+14552475,2,0001F-7025F,Emerging technology,0001F-0015F,Temporary codes,F,7010,15,4,16
+15412918,2,0256T-0259T,Emerging technology,0016T-0207T,Patient history,F,7010,15,4,23
+5980862,3,0256T-0259T,Performance measurement,0500F-0575F,"Therapeutic, preventive or other interventions",F,7010,134,4,16
+4741133,2,0001F-7025F,Performance measurement,0256T-0259T,Composite measures,F,6384,15,4,26
+10951831,2,0256T-0259T,Performance measurement,6005F-6045F,Patient history,T,5358,15,4,48
+1614705,2,0001F-7025F,Performance measurement,2000F-2050F,Patient history,F,2833,15,4,122
+3341234,2,0001F-7025F,Performance measurement,1000F-1220F,Temporary codes,F,2999,15,4,16
+9320058,2,0016T-0207T,Performance measurement,5005F-5100F,"Therapeutic, preventive or other interventions",T,7010,15,4,16
+2484724,2,0001F-7025F,Emerging technology,5005F-5100F,Patient history,F,1,15,4,16
+8750615,2,0001F-7025F,Performance measurement,2000F-2050F,"Therapeutic, preventive or other interventions",F,2712,325,4,56
+6772599,2,0001F-7025F,Performance measurement,4000F-4306F,Follow-up or other outcomes,T,4545,15,3,66
+13429969,3,0001F-7025F,Emerging technology,7010F-7025F,Temporary codes,F,6482,15,4,16
+7247786,2,0001F-7025F,Emerging technology,0500F-0575F,"Therapeutic, preventive or other interventions",F,7010,2861,4,80
+11199291,2,0001F-7025F,Performance measurement,7010F-7025F,Diagnostic/screening processes or results,T,6101,15,4,16
+1699904,3,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,7010,291,4,16
+7899757,2,0001F-7025F,Performance measurement,6005F-6045F,Diagnostic/screening processes or results,F,4444,1080,4,16
+7208299,2,0001F-7025F,Performance measurement,0500F-0575F,"Therapeutic, preventive or other interventions",F,5842,1174,5,16
+12828758,2,0001F-7025F,Emerging technology,4000F-4306F,Follow-up or other outcomes,F,7010,2145,5,16
+10692890,2,0001F-7025F,Emerging technology,6005F-6045F,Temporary codes,F,7010,1698,3,79
+2194298,2,0001F-7025F,Performance measurement,4000F-4306F,Structural Measures,F,2772,15,5,16
+6192002,2,0001F-7025F,Performance measurement,3006F-3573F,Patient safety,F,6884,2027,3,17
+16120196,2,0001F-7025F,Performance measurement,0256T-0259T,Physical examination,T,7010,15,4,35
+6284819,2,0001F-7025F,Performance measurement,0016T-0207T,Diagnostic/screening processes or results,T,4439,1864,4,16
+12993967,2,0001F-7025F,Performance measurement,4000F-4306F,Structural Measures,F,2902,1005,5,16
+3616841,2,0001F-7025F,Performance measurement,6005F-6045F,Temporary codes,F,7010,15,3,16
+15895537,2,0001F-7025F,Performance measurement,6005F-6045F,Temporary codes,F,3517,15,4,28
+8517854,2,0001F-7025F,Emerging technology,6005F-6045F,Composite measures,F,5607,15,4,122
+449267,2,0001F-7025F,Performance measurement,0256T-0259T,Patient management,T,5071,15,3,53
+111065,2,0001F-7025F,Performance measurement,2000F-2050F,"Therapeutic, preventive or other interventions",F,6889,3728,1,16
+10638517,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,5513,501,3,16
+11502772,2,0001F-7025F,Emerging technology,2000F-2050F,Temporary codes,F,7010,15,4,46
+10548185,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,7010,489,3,16
+15526639,2,0001F-7025F,Performance measurement,0016T-0207T,Temporary codes,F,6184,15,4,43
+5766801,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,F,7010,15,4,16
+1319785,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,F,7010,15,5,29
+5951877,2,0001F-7025F,Performance measurement,4000F-4306F,Temporary codes,F,5909,3477,4,16
+741746,2,0001F-7025F,Performance measurement,0256T-0259T,Patient safety,F,2999,15,5,70
+128377,2,0001F-7025F,Performance measurement,0256T-0259T,Patient history,F,7010,15,4,16
+8428057,3,0016T-0207T,Performance measurement,0500F-0575F,Structural Measures,F,7010,15,4,16
+8519511,2,0256T-0259T,Performance measurement,6005F-6045F,Patient safety,T,4802,15,4,16
+4788819,2,0001F-7025F,Performance measurement,6005F-6045F,Diagnostic/screening processes or results,F,7010,15,5,23
+4246281,2,0001F-7025F,Performance measurement,6005F-6045F,Follow-up or other outcomes,F,7010,1821,4,28
+638605,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,7010,15,4,122
+13719308,2,0001F-7025F,Performance measurement,0016T-0207T,Patient safety,F,7010,251,4,65
+6637568,2,0001F-7025F,Performance measurement,4000F-4306F,Temporary codes,F,6311,15,4,16
+8769554,2,0001F-7025F,Performance measurement,6005F-6045F,Patient safety,F,7010,7025,4,16
+2001768,3,0001F-7025F,Performance measurement,0016T-0207T,Patient management,T,2009,754,3,112
+8108188,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,T,7010,953,4,16
+7787821,2,0256T-0259T,Performance measurement,3006F-3573F,Temporary codes,F,7010,15,5,16
+11701676,2,0001F-7025F,Performance measurement,2000F-2050F,Physical examination,T,7010,7025,3,16
+14797921,2,0001F-7025F,Performance measurement,2000F-2050F,Physical examination,F,4517,15,3,32
+3006439,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,F,7010,15,4,30
+3757179,2,0001F-7025F,Performance measurement,7010F-7025F,Patient history,F,6546,15,5,71
+12756901,2,0256T-0259T,Performance measurement,0001F-0015F,Structural Measures,F,5097,15,3,58
+544278,3,0001F-7025F,Performance measurement,4000F-4306F,Follow-up or other outcomes,F,7010,377,3,16
+12605292,2,0001F-7025F,Performance measurement,2000F-2050F,Physical examination,F,7010,3493,4,16
+9902114,2,0001F-7025F,Performance measurement,2000F-2050F,"Therapeutic, preventive or other interventions",F,2969,15,4,95
+3861825,2,0256T-0259T,Performance measurement,1000F-1220F,Composite measures,T,7010,15,4,16
+1801650,3,0001F-7025F,Performance measurement,4000F-4306F,Patient history,F,7010,3169,5,16
+10441507,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,7010,5645,4,41
+11351318,2,0001F-7025F,Emerging technology,0256T-0259T,Temporary codes,F,7010,15,5,16
+10081458,2,0001F-7025F,Performance measurement,6005F-6045F,Physical examination,F,7010,15,4,26
+7199569,2,0001F-7025F,Performance measurement,0500F-0575F,Structural Measures,T,7010,15,5,47
+11960371,3,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,7010,15,4,53
+4989143,2,0001F-7025F,Emerging technology,6005F-6045F,Temporary codes,F,1,5180,4,22
+9444304,3,0001F-7025F,Performance measurement,4000F-4306F,"Therapeutic, preventive or other interventions",F,6847,15,3,23
+14988942,2,0001F-7025F,Performance measurement,0001F-0015F,Diagnostic/screening processes or results,F,7010,15,4,16
+16334435,2,0001F-7025F,Performance measurement,0500F-0575F,Structural Measures,F,7010,15,4,61
+14401811,2,0001F-7025F,Performance measurement,7010F-7025F,Follow-up or other outcomes,T,7010,15,4,67
+13088315,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,7010,15,3,73
+5544321,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,4093,15,4,16
+4092139,2,0001F-7025F,Emerging technology,1000F-1220F,Patient management,F,7010,4167,4,87
+6899341,2,0001F-7025F,Performance measurement,0500F-0575F,Patient history,F,2313,15,3,86
+6599598,2,0001F-7025F,Performance measurement,4000F-4306F,Patient safety,F,7010,15,4,16
+9679192,2,0256T-0259T,Performance measurement,0256T-0259T,Diagnostic/screening processes or results,T,6019,15,1,21
+1499419,2,0001F-7025F,Performance measurement,5005F-5100F,Composite measures,T,7010,230,4,16
+8672178,2,0001F-7025F,Performance measurement,0016T-0207T,Patient safety,T,3054,15,5,46
+10021152,2,0001F-7025F,Emerging technology,0500F-0575F,"Therapeutic, preventive or other interventions",F,7010,2162,1,16
+9767688,2,0001F-7025F,Emerging technology,7010F-7025F,Temporary codes,F,7010,15,3,16
+13577985,2,0001F-7025F,Performance measurement,7010F-7025F,Patient safety,F,6176,15,4,51
+5382952,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,7010,15,5,16
+11350270,2,0001F-7025F,Performance measurement,2000F-2050F,Follow-up or other outcomes,T,7010,15,1,47
+13442853,2,0001F-7025F,Emerging technology,5005F-5100F,Temporary codes,F,3443,15,3,16
+5219891,2,0001F-7025F,Performance measurement,3006F-3573F,Temporary codes,F,1,4681,3,16
+14375533,2,0256T-0259T,Performance measurement,4000F-4306F,Structural Measures,F,4894,15,5,16
+10020534,2,0001F-7025F,Performance measurement,2000F-2050F,Patient history,F,5841,442,4,116
+11612467,3,0001F-7025F,Performance measurement,0256T-0259T,Patient safety,T,4101,15,4,16
+597505,2,0001F-7025F,Performance measurement,0001F-0015F,Physical examination,F,7010,15,4,110
+13999455,2,0001F-7025F,Performance measurement,5005F-5100F,Composite measures,T,1,2458,4,21
+9388006,2,0001F-7025F,Performance measurement,0256T-0259T,Diagnostic/screening processes or results,T,1102,141,5,30
+14564836,2,0001F-7025F,Performance measurement,0256T-0259T,Diagnostic/screening processes or results,F,6004,174,5,87
+8697357,2,0256T-0259T,Performance measurement,6005F-6045F,Physical examination,F,6094,15,5,28
+9787389,2,0001F-7025F,Emerging technology,2000F-2050F,Physical examination,F,3688,895,5,25
+6915035,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,7010,15,4,16
+2943062,2,0001F-7025F,Performance measurement,0016T-0207T,Temporary codes,F,1868,15,3,26
+12787140,2,0001F-7025F,Performance measurement,1000F-1220F,Composite measures,T,4607,15,4,16
+3428104,2,0001F-7025F,Performance measurement,0500F-0575F,Follow-up or other outcomes,F,7010,997,5,16
+9233683,3,0016T-0207T,Emerging technology,0016T-0207T,Patient safety,F,7010,15,4,46
+9333410,2,0001F-7025F,Performance measurement,0500F-0575F,Patient history,F,6803,15,4,51
+9006322,2,0001F-7025F,Performance measurement,0500F-0575F,Composite measures,F,6858,15,5,52
+7444834,2,0016T-0207T,Performance measurement,0016T-0207T,Patient safety,F,7010,757,4,16
+5950279,2,0001F-7025F,Performance measurement,0001F-0015F,Patient safety,T,6139,15,4,52
+724158,2,0001F-7025F,Performance measurement,0256T-0259T,Physical examination,F,7010,15,3,37
+775870,2,0016T-0207T,Emerging technology,0256T-0259T,Patient safety,F,2891,15,4,22
+15455061,2,0001F-7025F,Performance measurement,0016T-0207T,Diagnostic/screening processes or results,T,3985,4004,4,32
+6329716,2,0001F-7025F,Performance measurement,7010F-7025F,Patient safety,F,7010,15,5,37
+7893351,2,0001F-7025F,Performance measurement,0016T-0207T,Diagnostic/screening processes or results,F,7010,15,1,16
+805870,2,0001F-7025F,Performance measurement,6005F-6045F,Structural Measures,T,5430,15,4,33
+5354298,2,0256T-0259T,Performance measurement,0016T-0207T,Physical examination,F,7010,15,3,16
+9580101,2,0256T-0259T,Performance measurement,1000F-1220F,Temporary codes,F,4107,2729,4,16
+12842590,3,0256T-0259T,Emerging technology,1000F-1220F,"Therapeutic, preventive or other interventions",F,3607,1200,4,35
+5439094,2,0016T-0207T,Performance measurement,7010F-7025F,Physical examination,T,7010,2774,5,16
+11907458,2,0001F-7025F,Performance measurement,0500F-0575F,Diagnostic/screening processes or results,F,7010,15,3,118
+8946326,2,0001F-7025F,Performance measurement,4000F-4306F,Structural Measures,F,7010,15,5,16
+3964262,2,0001F-7025F,Performance measurement,0500F-0575F,Physical examination,F,4051,884,4,16
+2801400,2,0001F-7025F,Performance measurement,4000F-4306F,Patient safety,F,7010,15,5,16
+5600251,3,0001F-7025F,Performance measurement,6005F-6045F,"Therapeutic, preventive or other interventions",F,7010,15,4,122
+10161066,2,0001F-7025F,Performance measurement,4000F-4306F,"Therapeutic, preventive or other interventions",F,7010,1039,4,44
+4299629,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,F,6764,15,4,73
+14785080,2,0001F-7025F,Performance measurement,3006F-3573F,Diagnostic/screening processes or results,F,4176,15,3,122
+10243125,2,0001F-7025F,Performance measurement,0016T-0207T,Physical examination,F,6051,1452,4,32
+9000483,2,0001F-7025F,Performance measurement,3006F-3573F,Temporary codes,F,7010,2942,1,16
+13829838,2,0001F-7025F,Performance measurement,3006F-3573F,Diagnostic/screening processes or results,F,7010,15,4,16
+5483828,3,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,7010,4647,1,16
+11619114,2,0256T-0259T,Performance measurement,0001F-0015F,Patient safety,F,7010,591,4,53
+13101857,2,0001F-7025F,Performance measurement,0016T-0207T,Follow-up or other outcomes,F,7010,15,5,16
+23666,2,0001F-7025F,Performance measurement,0016T-0207T,"Therapeutic, preventive or other interventions",T,1847,2170,4,16
+5135640,2,0001F-7025F,Performance measurement,3006F-3573F,Patient history,F,7010,2045,4,64
+15724921,2,0001F-7025F,Performance measurement,1000F-1220F,Patient history,F,7010,3867,3,30
+1953867,2,0256T-0259T,Performance measurement,5005F-5100F,Temporary codes,T,5045,15,4,38
+1608546,2,0001F-7025F,Performance measurement,7010F-7025F,Diagnostic/screening processes or results,T,7010,2758,5,16
+6593588,2,0001F-7025F,Performance measurement,0016T-0207T,Temporary codes,F,1,3282,5,16
+2016840,2,0001F-7025F,Emerging technology,2000F-2050F,Temporary codes,F,7003,3859,1,16
+2356386,2,0001F-7025F,Performance measurement,2000F-2050F,Follow-up or other outcomes,F,7010,15,5,16
+11861985,2,0001F-7025F,Performance measurement,4000F-4306F,Composite measures,F,7010,4962,4,21
+6694267,2,0001F-7025F,Performance measurement,4000F-4306F,Patient safety,F,7010,1202,3,24
+7703751,2,0001F-7025F,Emerging technology,0016T-0207T,Composite measures,F,6868,15,4,16
+5837322,2,0001F-7025F,Performance measurement,0001F-0015F,Temporary codes,F,3034,15,5,72
+5729603,2,0256T-0259T,Performance measurement,0016T-0207T,Structural Measures,T,7010,15,5,16
+2547235,2,0016T-0207T,Performance measurement,4000F-4306F,Diagnostic/screening processes or results,F,1637,1009,4,112
+8892163,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,F,7010,15,5,16
+13084687,3,0001F-7025F,Performance measurement,0256T-0259T,Patient safety,F,7010,15,5,28
+8465686,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,5818,6133,4,16
+302679,2,0001F-7025F,Performance measurement,2000F-2050F,Structural Measures,T,1655,15,5,16
+15193096,2,0001F-7025F,Performance measurement,7010F-7025F,"Therapeutic, preventive or other interventions",F,7010,15,4,16
+16692588,3,0001F-7025F,Performance measurement,0256T-0259T,Physical examination,F,5128,510,3,119
+6018314,2,0001F-7025F,Performance measurement,0016T-0207T,Patient history,F,533,677,3,16
+6666426,2,0016T-0207T,Performance measurement,1000F-1220F,Temporary codes,F,4349,15,3,16
+285839,2,0001F-7025F,Performance measurement,6005F-6045F,Diagnostic/screening processes or results,T,2440,15,5,23
+12993229,2,0001F-7025F,Performance measurement,0001F-0015F,Composite measures,F,7010,15,4,57
+6531240,2,0001F-7025F,Emerging technology,0500F-0575F,Follow-up or other outcomes,F,6663,15,4,29
+14153043,2,0001F-7025F,Performance measurement,5005F-5100F,Follow-up or other outcomes,F,6073,15,1,32
+481439,2,0001F-7025F,Performance measurement,0256T-0259T,"Therapeutic, preventive or other interventions",F,7010,15,4,46
+10226753,2,0001F-7025F,Emerging technology,4000F-4306F,Patient safety,F,5255,15,3,26
+14244577,2,0001F-7025F,Emerging technology,0001F-0015F,Diagnostic/screening processes or results,F,7010,15,4,16
+551195,2,0016T-0207T,Performance measurement,7010F-7025F,Patient history,F,3990,15,3,53
+8487324,2,0001F-7025F,Performance measurement,6005F-6045F,Patient history,T,5846,3108,3,72
+12884233,2,0001F-7025F,Performance measurement,5005F-5100F,"Therapeutic, preventive or other interventions",T,6047,168,3,95
+4339666,2,0001F-7025F,Performance measurement,0001F-0015F,Patient safety,T,6147,15,4,40
+14271998,2,0001F-7025F,Performance measurement,6005F-6045F,Temporary codes,F,7010,15,4,16
+15305237,2,0001F-7025F,Emerging technology,0256T-0259T,Follow-up or other outcomes,F,2943,15,4,16
+4630283,2,0001F-7025F,Performance measurement,0016T-0207T,Patient management,F,726,15,4,16
+2972923,2,0256T-0259T,Performance measurement,0256T-0259T,Diagnostic/screening processes or results,F,1,15,1,16
+4316000,2,0001F-7025F,Performance measurement,0001F-0015F,Physical examination,F,2320,15,1,16
+12282307,2,0256T-0259T,Performance measurement,1000F-1220F,Patient management,F,7010,15,4,64
+11773830,2,0001F-7025F,Emerging technology,0500F-0575F,"Therapeutic, preventive or other interventions",F,1307,2401,4,99
+7514786,2,0016T-0207T,Emerging technology,0016T-0207T,Diagnostic/screening processes or results,T,7010,150,4,34
+5052297,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,5966,160,4,16
+5455597,2,0001F-7025F,Emerging technology,0016T-0207T,Patient history,T,331,830,4,78
+16743524,3,0016T-0207T,Performance measurement,1000F-1220F,Physical examination,F,7010,104,5,16
+5717247,2,0001F-7025F,Performance measurement,0001F-0015F,Temporary codes,F,3754,15,4,42
+10623700,2,0256T-0259T,Performance measurement,0016T-0207T,"Therapeutic, preventive or other interventions",T,7010,15,4,16
+1158227,2,0001F-7025F,Performance measurement,0016T-0207T,Temporary codes,F,6311,15,5,16
+7425825,2,0001F-7025F,Performance measurement,0256T-0259T,Patient safety,F,7010,15,3,16
+10168012,2,0001F-7025F,Emerging technology,0001F-0015F,Physical examination,F,7010,2627,4,19
+12135735,2,0256T-0259T,Performance measurement,0256T-0259T,Follow-up or other outcomes,F,7010,15,4,16
+10750638,2,0001F-7025F,Performance measurement,2000F-2050F,Patient management,F,7010,15,4,86
+2419897,2,0001F-7025F,Performance measurement,0016T-0207T,Physical examination,F,7010,15,4,16
+2669619,2,0001F-7025F,Performance measurement,0256T-0259T,Patient management,F,5666,2333,4,47
+11320499,3,0001F-7025F,Performance measurement,0256T-0259T,Diagnostic/screening processes or results,F,4765,15,5,16
+5735546,2,0001F-7025F,Emerging technology,0256T-0259T,"Therapeutic, preventive or other interventions",F,7010,15,3,33
+5574324,2,0001F-7025F,Performance measurement,0016T-0207T,Temporary codes,T,7010,3404,4,16
+3424479,2,0001F-7025F,Emerging technology,0016T-0207T,Temporary codes,F,6278,15,4,60
+11290710,2,0001F-7025F,Performance measurement,5005F-5100F,Temporary codes,T,7010,15,4,16
+772597,2,0001F-7025F,Emerging technology,0016T-0207T,"Therapeutic, preventive or other interventions",F,3334,475,5,16
+13110696,2,0001F-7025F,Performance measurement,0001F-0015F,Temporary codes,F,6990,15,4,16
+14710412,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,F,6000,233,4,16
+5191664,2,0001F-7025F,Performance measurement,0016T-0207T,Physical examination,F,7010,15,4,24
+8372328,2,0016T-0207T,Performance measurement,0256T-0259T,Temporary codes,F,7010,5811,4,16
+7530781,2,0256T-0259T,Emerging technology,0016T-0207T,"Therapeutic, preventive or other interventions",F,3229,3119,4,29
+14974550,2,0001F-7025F,Performance measurement,0016T-0207T,"Therapeutic, preventive or other interventions",F,1,15,4,16
+2845307,2,0001F-7025F,Performance measurement,4000F-4306F,Temporary codes,F,7010,2658,4,55
+4287176,2,0001F-7025F,Performance measurement,0256T-0259T,Composite measures,F,5304,3252,4,24
+5065217,2,0001F-7025F,Performance measurement,1000F-1220F,Patient history,T,5271,15,4,16
+3653782,2,0001F-7025F,Performance measurement,0016T-0207T,Patient safety,F,1,15,5,90
+7961434,2,0001F-7025F,Performance measurement,0256T-0259T,Diagnostic/screening processes or results,F,7010,15,4,69
+5576743,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,1401,4992,3,16
+10408206,2,0001F-7025F,Performance measurement,6005F-6045F,Structural Measures,F,7010,15,4,16
+14305545,2,0016T-0207T,Performance measurement,7010F-7025F,Physical examination,T,7010,15,5,16
+13444571,2,0001F-7025F,Performance measurement,0256T-0259T,Patient management,F,7010,15,4,82
+6255725,2,0001F-7025F,Performance measurement,7010F-7025F,Structural Measures,T,1,2866,1,77
+10612049,2,0001F-7025F,Performance measurement,5005F-5100F,Temporary codes,F,7010,2195,3,40
+1345346,2,0001F-7025F,Performance measurement,0500F-0575F,Patient history,F,6600,1385,1,38
+6496721,2,0001F-7025F,Emerging technology,7010F-7025F,Temporary codes,F,7010,15,4,85
+12830621,2,0001F-7025F,Performance measurement,6005F-6045F,Diagnostic/screening processes or results,F,5452,15,4,16
+9629679,2,0016T-0207T,Performance measurement,0500F-0575F,Physical examination,F,4217,15,4,109
+788066,2,0001F-7025F,Performance measurement,0016T-0207T,"Therapeutic, preventive or other interventions",F,7010,15,4,16
+9018959,2,0001F-7025F,Performance measurement,5005F-5100F,Composite measures,F,5920,1653,3,16
+10726779,2,0001F-7025F,Performance measurement,0001F-0015F,Diagnostic/screening processes or results,F,3508,15,1,16
+7231657,2,0001F-7025F,Performance measurement,2000F-2050F,Diagnostic/screening processes or results,F,3803,15,3,16
+8156604,2,0001F-7025F,Performance measurement,2000F-2050F,Patient history,F,7010,15,4,16
+42321,2,0001F-7025F,Performance measurement,7010F-7025F,Physical examination,T,7010,15,5,19
+1563964,2,0001F-7025F,Performance measurement,0500F-0575F,Composite measures,F,4869,15,5,16
+8104777,2,0001F-7025F,Performance measurement,2000F-2050F,Composite measures,F,7010,15,1,16
+6288699,2,0001F-7025F,Performance measurement,6005F-6045F,Composite measures,F,7010,15,4,16
+9989970,2,0001F-7025F,Performance measurement,0500F-0575F,Patient history,F,7010,15,4,20
+11390553,2,0001F-7025F,Performance measurement,0256T-0259T,Diagnostic/screening processes or results,F,7010,15,4,16
+13426858,2,0256T-0259T,Performance measurement,1000F-1220F,Temporary codes,F,7010,3785,3,16
+1996447,2,0001F-7025F,Performance measurement,1000F-1220F,Follow-up or other outcomes,F,7010,15,4,122
+16406611,2,0001F-7025F,Performance measurement,0016T-0207T,Physical examination,F,4330,2463,4,71
+6117973,2,0001F-7025F,Performance measurement,0016T-0207T,"Therapeutic, preventive or other interventions",F,7010,439,5,19
+4565862,2,0001F-7025F,Emerging technology,7010F-7025F,Temporary codes,F,7010,15,5,16
+13288243,2,0001F-7025F,Performance measurement,0500F-0575F,Patient safety,F,7010,5495,3,84
+15668631,2,0001F-7025F,Performance measurement,0256T-0259T,Patient management,F,990,15,3,16
+15990721,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,421,15,5,121
+3536073,2,0001F-7025F,Performance measurement,2000F-2050F,"Therapeutic, preventive or other interventions",F,6995,2928,5,16
+14995632,2,0001F-7025F,Performance measurement,0500F-0575F,Follow-up or other outcomes,F,1,3330,4,16
+12904215,3,0016T-0207T,Performance measurement,6005F-6045F,Temporary codes,F,7010,15,3,24
+4327464,2,0016T-0207T,Performance measurement,0500F-0575F,Patient safety,F,1989,15,5,35
+8718988,2,0001F-7025F,Performance measurement,0500F-0575F,Physical examination,F,7010,3439,4,116
+16320756,2,0001F-7025F,Emerging technology,0256T-0259T,Diagnostic/screening processes or results,T,7010,898,5,22
+10574802,2,0256T-0259T,Performance measurement,2000F-2050F,Composite measures,F,4777,15,4,16
+4384225,2,0256T-0259T,Performance measurement,0001F-0015F,"Therapeutic, preventive or other interventions",F,7010,15,5,16
+2421694,2,0001F-7025F,Performance measurement,7010F-7025F,Patient safety,F,3965,2814,4,16
+5436362,2,0001F-7025F,Emerging technology,6005F-6045F,Patient safety,F,7010,15,4,63
+13691487,2,0016T-0207T,Performance measurement,1000F-1220F,Composite measures,F,7010,15,4,58
+7946847,2,0001F-7025F,Performance measurement,0500F-0575F,Structural Measures,F,5968,15,5,16
+15446343,2,0001F-7025F,Performance measurement,7010F-7025F,Patient history,F,5818,15,5,33
+4551940,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,3846,15,4,84
+1535097,2,0001F-7025F,Emerging technology,6005F-6045F,Temporary codes,T,3821,524,4,16
+6474222,2,0001F-7025F,Performance measurement,3006F-3573F,Diagnostic/screening processes or results,F,4366,15,4,31
+10209938,2,0016T-0207T,Emerging technology,0256T-0259T,Physical examination,F,4836,15,1,50
+4962017,2,0001F-7025F,Performance measurement,5005F-5100F,Follow-up or other outcomes,F,6853,629,5,16
+760730,2,0001F-7025F,Performance measurement,0256T-0259T,Composite measures,F,1,15,5,25
+9266275,2,0001F-7025F,Performance measurement,0001F-0015F,Temporary codes,T,7010,15,4,62
+8958135,2,0001F-7025F,Performance measurement,0500F-0575F,Patient safety,F,7010,15,4,16
+2907928,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,T,7010,2109,5,16
+4919266,2,0001F-7025F,Performance measurement,0001F-0015F,Temporary codes,F,4863,15,4,52
+4400402,2,0016T-0207T,Performance measurement,6005F-6045F,Patient history,F,221,5363,1,49
+15780871,2,0001F-7025F,Performance measurement,1000F-1220F,Diagnostic/screening processes or results,F,7010,15,4,48
+1893038,2,0001F-7025F,Performance measurement,0256T-0259T,Patient management,F,5969,15,3,16
+15949891,2,0001F-7025F,Performance measurement,3006F-3573F,Patient history,T,7010,1128,3,122
+12379339,2,0001F-7025F,Performance measurement,5005F-5100F,Temporary codes,F,5757,1633,4,54
+6393334,2,0001F-7025F,Performance measurement,2000F-2050F,Patient management,F,7010,15,3,16
+15523228,2,0001F-7025F,Performance measurement,7010F-7025F,Physical examination,F,3981,15,4,16
+1611376,2,0001F-7025F,Performance measurement,7010F-7025F,Patient safety,F,5530,15,4,16
+6196781,2,0016T-0207T,Emerging technology,2000F-2050F,Temporary codes,F,5771,15,5,44
+16656686,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,F,7010,15,4,16
+1797764,2,0001F-7025F,Performance measurement,0256T-0259T,Patient history,F,7010,549,4,16
+3486199,2,0001F-7025F,Performance measurement,1000F-1220F,Patient safety,T,6702,15,4,16
+9068899,2,0001F-7025F,Performance measurement,5005F-5100F,Temporary codes,T,3500,15,4,16
+3325245,2,0001F-7025F,Performance measurement,6005F-6045F,Temporary codes,F,4670,2279,4,24
+7716661,3,0001F-7025F,Performance measurement,1000F-1220F,Temporary codes,F,7010,4495,4,82
+13540365,2,0001F-7025F,Performance measurement,2000F-2050F,Physical examination,F,6632,15,5,16
+1693041,2,0001F-7025F,Performance measurement,3006F-3573F,Follow-up or other outcomes,F,7010,469,2,16
+14285688,2,0001F-7025F,Performance measurement,6005F-6045F,Diagnostic/screening processes or results,F,4651,2895,4,16
+675442,2,0256T-0259T,Performance measurement,0256T-0259T,Diagnostic/screening processes or results,T,4908,15,2,19
+10625069,2,0001F-7025F,Performance measurement,4000F-4306F,Patient history,F,7010,1528,4,16
+13804010,2,0001F-7025F,Performance measurement,2000F-2050F,Patient management,F,6611,3852,3,16
+15050674,2,0001F-7025F,Performance measurement,1000F-1220F,Patient history,F,7010,15,4,71
+4220358,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,7010,3805,4,79
+4609035,2,0001F-7025F,Performance measurement,0500F-0575F,Composite measures,F,7010,15,3,30
+10883409,2,0001F-7025F,Performance measurement,0500F-0575F,Structural Measures,T,6233,1741,4,27
+8077225,2,0016T-0207T,Performance measurement,1000F-1220F,Physical examination,T,6874,4002,4,16
+11252020,3,0001F-7025F,Performance measurement,0016T-0207T,Temporary codes,F,4330,15,4,84
+3651852,2,0001F-7025F,Performance measurement,0016T-0207T,Physical examination,F,4401,15,3,77
+10093565,2,0256T-0259T,Performance measurement,5005F-5100F,Patient safety,T,2629,15,5,16
+16465606,2,0001F-7025F,Emerging technology,7010F-7025F,Physical examination,F,3056,15,1,16
+11832908,2,0001F-7025F,Performance measurement,0016T-0207T,Physical examination,F,3208,15,1,16
+8340378,2,0001F-7025F,Emerging technology,3006F-3573F,Patient safety,F,7010,7025,4,16
+16457851,2,0001F-7025F,Performance measurement,0500F-0575F,Structural Measures,F,5333,15,3,27
+11322956,3,0256T-0259T,Performance measurement,5005F-5100F,Follow-up or other outcomes,F,4136,15,3,17
+12329277,2,0001F-7025F,Performance measurement,4000F-4306F,Temporary codes,F,7010,15,5,16
+13355095,2,0001F-7025F,Emerging technology,0256T-0259T,Patient management,F,7010,4013,5,71
+16132578,2,0001F-7025F,Performance measurement,2000F-2050F,Follow-up or other outcomes,F,7010,3704,5,114
+11700388,2,0001F-7025F,Performance measurement,4000F-4306F,Patient history,F,7010,15,4,16
+2060659,2,0001F-7025F,Emerging technology,0256T-0259T,Structural Measures,F,1,15,4,19
+4412094,2,0001F-7025F,Performance measurement,7010F-7025F,Structural Measures,F,439,15,4,16
+6807226,2,0001F-7025F,Emerging technology,2000F-2050F,Composite measures,T,7010,15,4,16
+1213148,2,0256T-0259T,Performance measurement,4000F-4306F,Composite measures,F,7010,15,3,122
+4256632,3,0001F-7025F,Emerging technology,6005F-6045F,Patient management,F,7010,15,3,16
+3345949,2,0256T-0259T,Performance measurement,2000F-2050F,"Therapeutic, preventive or other interventions",F,2859,15,3,16
+12987685,2,0001F-7025F,Emerging technology,0256T-0259T,Diagnostic/screening processes or results,F,717,15,5,40
+7647389,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,1,3188,3,53
+2536727,2,0001F-7025F,Performance measurement,0500F-0575F,Physical examination,T,7010,15,5,16
+9760892,2,0016T-0207T,Performance measurement,2000F-2050F,Temporary codes,F,2531,951,5,24
+654952,2,0001F-7025F,Emerging technology,1000F-1220F,Physical examination,F,7010,15,4,34
+16707389,2,0001F-7025F,Emerging technology,6005F-6045F,Temporary codes,F,7010,15,4,42
+12572415,2,0001F-7025F,Performance measurement,4000F-4306F,Structural Measures,F,6060,15,3,16
+10165097,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,7010,15,4,56
+12845641,2,0016T-0207T,Emerging technology,0256T-0259T,Follow-up or other outcomes,F,2485,15,3,16
+7254873,2,0001F-7025F,Performance measurement,1000F-1220F,Temporary codes,F,7010,1806,4,41
+3926936,2,0001F-7025F,Performance measurement,0016T-0207T,Patient history,F,5594,15,4,86
+14496813,2,0001F-7025F,Performance measurement,4000F-4306F,Follow-up or other outcomes,F,5880,15,3,16
+4938330,2,0001F-7025F,Performance measurement,0001F-0015F,Patient history,F,7010,15,4,16
+5345988,2,0001F-7025F,Emerging technology,6005F-6045F,Composite measures,F,7010,3124,4,17
+15977113,2,0001F-7025F,Emerging technology,7010F-7025F,Diagnostic/screening processes or results,F,7010,15,4,30
+4035340,3,0001F-7025F,Emerging technology,1000F-1220F,Composite measures,T,7010,3970,4,16
+6984597,2,0001F-7025F,Performance measurement,0256T-0259T,Structural Measures,T,7010,687,4,28
+7176906,2,0001F-7025F,Performance measurement,5005F-5100F,Patient history,F,672,1299,3,16
+12996017,2,0001F-7025F,Performance measurement,5005F-5100F,Temporary codes,F,4911,616,5,75
+14462895,2,0001F-7025F,Performance measurement,7010F-7025F,Patient safety,F,5168,5742,5,59
+14287357,2,0001F-7025F,Performance measurement,7010F-7025F,Diagnostic/screening processes or results,F,3252,3842,1,82
+327361,2,0001F-7025F,Performance measurement,0016T-0207T,"Therapeutic, preventive or other interventions",F,7010,15,5,118
+14381078,2,0256T-0259T,Performance measurement,2000F-2050F,Composite measures,F,2863,15,5,16
+5855606,2,0001F-7025F,Performance measurement,0001F-0015F,Patient history,F,7010,15,5,22
+16469199,3,0001F-7025F,Performance measurement,1000F-1220F,Patient history,F,7010,2827,3,58
+10622583,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,T,5876,793,5,70
+4035360,2,0001F-7025F,Performance measurement,4000F-4306F,Temporary codes,F,3616,4931,3,36
+10434903,2,0001F-7025F,Performance measurement,1000F-1220F,Diagnostic/screening processes or results,F,7010,15,1,16
+4410964,2,0001F-7025F,Performance measurement,2000F-2050F,Patient history,T,3191,15,3,66
+111243,2,0001F-7025F,Performance measurement,0256T-0259T,Follow-up or other outcomes,F,7010,3483,4,16
+16729708,2,0256T-0259T,Performance measurement,4000F-4306F,Temporary codes,F,1589,15,3,51
+7791011,2,0001F-7025F,Performance measurement,2000F-2050F,Follow-up or other outcomes,F,1732,15,4,16
+16696456,2,0001F-7025F,Performance measurement,5005F-5100F,Temporary codes,F,6834,5067,4,41
+173370,2,0001F-7025F,Performance measurement,0256T-0259T,"Therapeutic, preventive or other interventions",F,5248,602,3,61
+6617794,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,T,7010,15,5,16
+7731111,2,0001F-7025F,Performance measurement,7010F-7025F,Patient safety,F,7010,15,5,54
+16424320,2,0001F-7025F,Emerging technology,6005F-6045F,Patient history,F,6647,886,3,84
+10886847,2,0001F-7025F,Performance measurement,0016T-0207T,Follow-up or other outcomes,F,7010,15,1,22
+10132289,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,5681,3503,4,38
+11147468,2,0016T-0207T,Performance measurement,0256T-0259T,Structural Measures,F,1437,15,3,16
+15369362,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,3583,15,1,96
+16217290,2,0001F-7025F,Performance measurement,2000F-2050F,Patient safety,F,6095,15,4,16
+10541951,2,0016T-0207T,Performance measurement,0256T-0259T,"Therapeutic, preventive or other interventions",F,7010,2723,4,78
+15391856,2,0016T-0207T,Performance measurement,3006F-3573F,Composite measures,F,4111,15,4,89
+2887630,2,0256T-0259T,Emerging technology,0016T-0207T,Diagnostic/screening processes or results,F,7010,15,4,16
+5810117,2,0001F-7025F,Performance measurement,0500F-0575F,Follow-up or other outcomes,F,3983,6271,5,58
+14264064,2,0001F-7025F,Performance measurement,0016T-0207T,Physical examination,F,7010,1866,5,59
+10506423,2,0256T-0259T,Emerging technology,6005F-6045F,Physical examination,F,2392,15,5,100
+6459081,2,0001F-7025F,Performance measurement,4000F-4306F,Temporary codes,F,7010,2771,5,16
+6670692,2,0001F-7025F,Performance measurement,3006F-3573F,"Therapeutic, preventive or other interventions",F,4457,3114,4,21
+10960799,2,0001F-7025F,Performance measurement,3006F-3573F,Temporary codes,F,7010,15,3,16
+5183395,2,0001F-7025F,Performance measurement,0016T-0207T,Temporary codes,F,7010,15,4,16
+10156021,2,0001F-7025F,Performance measurement,7010F-7025F,Physical examination,F,4637,15,4,16
+4440827,2,0001F-7025F,Performance measurement,6005F-6045F,Physical examination,F,4868,15,4,25
+10440350,2,0001F-7025F,Performance measurement,5005F-5100F,Temporary codes,F,5151,372,1,16
+6389868,2,0001F-7025F,Performance measurement,0001F-0015F,"Therapeutic, preventive or other interventions",F,3352,15,4,46
+1359988,2,0001F-7025F,Performance measurement,0256T-0259T,Diagnostic/screening processes or results,F,7010,15,4,98
+1089273,2,0256T-0259T,Performance measurement,6005F-6045F,Structural Measures,F,1,15,4,16
+14756610,2,0001F-7025F,Performance measurement,1000F-1220F,Diagnostic/screening processes or results,T,7010,15,1,99
+7050203,2,0001F-7025F,Performance measurement,0016T-0207T,Diagnostic/screening processes or results,F,6338,15,4,16
+8807721,2,0016T-0207T,Performance measurement,0500F-0575F,"Therapeutic, preventive or other interventions",T,1636,15,4,96
+9611780,2,0001F-7025F,Performance measurement,0016T-0207T,Follow-up or other outcomes,F,4680,1031,3,16
+6371714,2,0001F-7025F,Performance measurement,0001F-0015F,Temporary codes,F,5755,15,3,16
+15863588,2,0001F-7025F,Performance measurement,2000F-2050F,Diagnostic/screening processes or results,F,6789,1163,1,16
+15000830,2,0001F-7025F,Performance measurement,0500F-0575F,Physical examination,F,5232,15,3,16
+8753988,2,0256T-0259T,Performance measurement,3006F-3573F,Composite measures,F,6928,15,4,16
+6722238,2,0001F-7025F,Emerging technology,5005F-5100F,Patient history,F,6830,15,4,121
+8308333,2,0001F-7025F,Performance measurement,6005F-6045F,Physical examination,F,7010,15,5,92
+10121706,2,0001F-7025F,Performance measurement,6005F-6045F,Structural Measures,F,7010,15,4,37
+9028155,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,7010,15,2,16
+8874398,2,0001F-7025F,Emerging technology,5005F-5100F,"Therapeutic, preventive or other interventions",F,7010,2513,4,16
+8788069,2,0001F-7025F,Emerging technology,0500F-0575F,Physical examination,F,7010,2482,5,16
+9856106,2,0001F-7025F,Performance measurement,4000F-4306F,Temporary codes,F,6195,15,1,53
+3774340,2,0001F-7025F,Performance measurement,6005F-6045F,Structural Measures,F,6894,15,4,52
+12269287,2,0001F-7025F,Performance measurement,5005F-5100F,Diagnostic/screening processes or results,T,6630,15,4,79
+16422787,2,0001F-7025F,Performance measurement,3006F-3573F,Diagnostic/screening processes or results,F,7010,3001,4,16
+2029741,2,0001F-7025F,Performance measurement,5005F-5100F,Temporary codes,F,7010,15,5,48
+3901081,2,0001F-7025F,Performance measurement,3006F-3573F,Patient history,F,5378,1081,1,16
+16026811,3,0001F-7025F,Performance measurement,0500F-0575F,Patient history,F,7010,1294,4,65
+13069665,2,0256T-0259T,Performance measurement,0500F-0575F,Patient safety,F,5458,15,5,16
+14887964,2,0001F-7025F,Emerging technology,0001F-0015F,Structural Measures,T,7010,5338,3,16
+6840249,2,0001F-7025F,Performance measurement,7010F-7025F,Temporary codes,F,3740,15,3,51
+10604413,3,0001F-7025F,Performance measurement,0001F-0015F,"Therapeutic, preventive or other interventions",F,7010,1295,5,16
+10549351,2,0256T-0259T,Performance measurement,0016T-0207T,Diagnostic/screening processes or results,F,7010,6300,4,77
+5672763,2,0016T-0207T,Performance measurement,1000F-1220F,Patient management,F,448,15,1,16
+9037884,2,0001F-7025F,Performance measurement,0500F-0575F,Patient management,F,5046,175,5,59
+5147196,2,0001F-7025F,Performance measurement,5005F-5100F,Physical examination,F,2939,15,1,16
+9148458,2,0001F-7025F,Performance measurement,0500F-0575F,Temporary codes,F,5711,15,5,89
+13505595,2,0001F-7025F,Performance measurement,3006F-3573F,Temporary codes,F,7010,15,4,16
+2920156,2,0001F-7025F,Emerging technology,0001F-0015F,Structural Measures,F,7010,15,3,21
+12170822,2,0001F-7025F,Emerging technology,7010F-7025F,Physical examination,T,5947,1872,4,16
+4301927,2,0001F-7025F,Performance measurement,0256T-0259T,Composite measures,F,7010,458,4,16
+10703046,2,0001F-7025F,Performance measurement,2000F-2050F,Temporary codes,F,3904,1195,4,50
+6045605,2,0001F-7025F,Performance measurement,2000F-2050F,Structural Measures,T,5644,4759,4,71
+12839884,2,0001F-7025F,Emerging technology,3006F-3573F,Patient management,F,1257,1949,4,88
+13521086,2,0001F-7025F,Emerging technology,2000F-2050F,Follow-up or other outcomes,F,7010,15,3,16
+4123318,2,0001F-7025F,Performance measurement,6005F-6045F,Temporary codes,F,7010,4224,4,31
+16667533,2,0001F-7025F,Performance measurement,4000F-4306F,Diagnostic/screening processes or results,F,5896,1425,5,27
+5685671,2,0001F-7025F,Emerging technology,1000F-1220F,Physical examination,F,7010,15,4,16
+304769,2,0001F-7025F,Performance measurement,0016T-0207T,Patient history,F,2973,15,4,30
+13792549,2,0016T-0207T,Performance measurement,5005F-5100F,Structural Measures,F,4754,15,3,51
+302348,2,0001F-7025F,Performance measurement,2000F-2050F,Patient history,T,6346,15,4,88
+13931891,3,0256T-0259T,Performance measurement,2000F-2050F,"Therapeutic, preventive or other interventions",F,7010,4937,3,50
+5518458,2,0001F-7025F,Performance measurement,0001F-0015F,Patient safety,F,7010,15,1,16
+8284464,2,0256T-0259T,Performance measurement,0500F-0575F,Temporary codes,T,7010,2837,3,23
+5822,2,0001F-7025F,Performance measurement,0500F-0575F,Structural Measures,T,4929,338,4,16
+7556118,2,0001F-7025F,Performance measurement,1000F-1220F,Composite measures,F,7010,15,4,39
+7151354,2,0001F-7025F,Emerging technology,0500F-0575F,Follow-up or other outcomes,F,6670,15,1,16
+15380815,2,0001F-7025F,Performance measurement,0001F-0015F,"Therapeutic, preventive or other interventions",T,981,15,4,16
+1685723,2,0001F-7025F,Performance measurement,2000F-2050F,"Therapeutic, preventive or other interventions",F,1,15,4,16
+10828542,2,0001F-7025F,Performance measurement,7010F-7025F,Structural Measures,F,7010,15,5,25
+8704687,2,0001F-7025F,Emerging technology,1000F-1220F,Diagnostic/screening processes or results,F,4205,1427,5,16
+4339881,2,0001F-7025F,Performance measurement,0500F-0575F,Patient management,F,7010,15,4,122
+6914894,2,0001F-7025F,Emerging technology,6005F-6045F,Diagnostic/screening processes or results,F,1008,15,4,16
+16667829,2,0001F-7025F,Performance measurement,3006F-3573F,Physical examination,F,4083,15,4,16
+16195355,2,0001F-7025F,Performance measurement,0500F-0575F,Patient management,T,7010,2699,4,37
+6752807,2,0001F-7025F,Emerging technology,0256T-0259T,Patient history,F,4489,15,5,32
+8673324,2,0001F-7025F,Performance measurement,0500F-0575F,Patient history,T,7010,2326,4,122
+12391073,2,0001F-7025F,Performance measurement,1000F-1220F,Physical examination,T,7010,2570,5,45
+15819624,2,0016T-0207T,Emerging technology,6005F-6045F,Patient safety,T,6674,15,4,43
+3000927,2,0256T-0259T,Performance measurement,0016T-0207T,Diagnostic/screening processes or results,F,1,15,4,16
+6593402,2,0001F-7025F,Performance measurement,0256T-0259T,Patient safety,F,5287,15,3,23
+5464108,2,0001F-7025F,Performance measurement,3006F-3573F,Diagnostic/screening processes or results,F,7010,15,4,16
+2447101,2,0001F-7025F,Performance measurement,0001F-0015F,Patient history,F,7010,15,5,16
+1784174,2,0001F-7025F,Emerging technology,7010F-7025F,Patient safety,F,6673,3313,4,18
+3475725,2,0001F-7025F,Performance measurement,7010F-7025F,Diagnostic/screening processes or results,F,4167,15,4,29
+6294287,2,0256T-0259T,Performance measurement,3006F-3573F,Composite measures,F,7010,15,3,104
+12086267,2,0001F-7025F,Performance measurement,6005F-6045F,Structural Measures,F,7010,471,5,54
+2365989,2,0001F-7025F,Performance measurement,0001F-0015F,Structural Measures,F,2802,15,5,16
+683995,2,0001F-7025F,Performance measurement,2000F-2050F,Structural Measures,F,6701,15,4,35
+11635008,2,0001F-7025F,Performance measurement,7010F-7025F,Patient history,T,4538,15,4,17
+571469,2,0001F-7025F,Emerging technology,3006F-3573F,Composite measures,F,2444,15,4,68
+4054935,2,0001F-7025F,Performance measurement,0500F-0575F,Diagnostic/screening processes or results,F,2298,2119,4,20
+8328134,2,0001F-7025F,Performance measurement,2000F-2050F,Diagnostic/screening processes or results,T,7010,3389,5,101
+9416306,2,0001F-7025F,Performance measurement,6005F-6045F,Temporary codes,F,1,15,3,22
+5526370,2,0001F-7025F,Performance measurement,5005F-5100F,Composite measures,T,7010,1044,4,16
+8746358,2,0001F-7025F,Performance measurement,0500F-0575F,Diagnostic/screening processes or results,F,1,15,4,95
+6259348,2,0001F-7025F,Performance measurement,1000F-1220F,Patient management,F,7010,2494,3,79
+10132350,2,0016T-0207T,Performance measurement,7010F-7025F,Composite measures,T,7010,15,4,59
+6313625,2,0001F-7025F,Performance measurement,0256T-0259T,"Therapeutic, preventive or other interventions",F,7010,15,5,37
+4730956,2,0256T-0259T,Performance measurement,6005F-6045F,Temporary codes,F,7010,4061,2,22
+10374036,2,0001F-7025F,Performance measurement,7010F-7025F,Structural Measures,F,1,15,3,16
+9514469,2,0001F-7025F,Performance measurement,4000F-4306F,Diagnostic/screening processes or results,T,3583,15,4,36
+6361531,2,0001F-7025F,Performance measurement,2000F-2050F,Physical examination,F,6892,1403,4,97
+12506409,2,0256T-0259T,Performance measurement,0500F-0575F,Patient safety,F,7010,3373,5,122
+5635494,2,0001F-7025F,Performance measurement,7010F-7025F,Patient safety,F,4235,129,4,16
+9829500,2,0001F-7025F,Performance measurement,2000F-2050F,Diagnostic/screening processes or results,F,5995,15,4,59
+13127613,2,0256T-0259T,Performance measurement,0256T-0259T,Follow-up or other outcomes,F,7010,15,5,16
+16523365,2,0256T-0259T,Performance measurement,7010F-7025F,Composite measures,F,785,15,5,60
+16462869,2,0001F-7025F,Performance measurement,0016T-0207T,Diagnostic/screening processes or results,F,2216,261,4,75
+9490813,2,0001F-7025F,Performance measurement,2000F-2050F,Physical examination,F,7010,15,4,16
+6300558,2,0256T-0259T,Emerging technology,4000F-4306F,Diagnostic/screening processes or results,F,5337,15,3,16
+15517339,2,0016T-0207T,Performance measurement,5005F-5100F,Patient management,F,7010,15,3,51
+7057337,2,0001F-7025F,Performance measurement,1000F-1220F,Composite measures,F,7010,15,4,21
+12731776,2,0001F-7025F,Performance measurement,0256T-0259T,Temporary codes,F,7010,6360,5,35
+6570723,3,0001F-7025F,Performance measurement,0256T-0259T,Patient safety,F,7010,15,3,16
+10310385,2,0001F-7025F,Performance measurement,0500F-0575F,Diagnostic/screening processes or results,F,4942,4574,5,16
+9527974,2,0001F-7025F,Emerging technology,0500F-0575F,Structural Measures,F,7010,15,3,42
+14422488,2,0001F-7025F,Performance measurement,0500F-0575F,Patient management,T,7010,15,4,16
+1815734,2,0001F-7025F,Performance measurement,4000F-4306F,Diagnostic/screening processes or results,F,7010,790,1,17
+6305630,2,0001F-7025F,Performance measurement,5005F-5100F,"Therapeutic, preventive or other interventions",F,7010,15,4,61
+11987056,2,0001F-7025F,Performance measurement,0001F-0015F,Physical examination,F,7010,15,3,17
+10269404,2,0001F-7025F,Performance measurement,0256T-0259T,Patient history,F,7010,15,5,18
+2071040,2,0001F-7025F,Performance measurement,0256T-0259T,Composite measures,F,7010,15,4,25
+13437113,2,0001F-7025F,Performance measurement,0500F-0575F,Diagnostic/screening processes or results,T,7010,15,3,16
+10370130,2,0001F-7025F,Performance measurement,0256T-0259T,Patient management,F,1889,15,1,25
+13856737,2,0001F-7025F,Performance measurement,0016T-0207T,Temporary codes,F,7010,15,5,34
+3180545,2,0001F-7025F,Performance measurement,0001F-0015F,Physical examination,F,5774,15,4,16
+7535280,2,0001F-7025F,Performance measurement,0500F-0575F,"Therapeutic, preventive or other interventions",F,4170,770,5,16
+4310541,2,0001F-7025F,Performance measurement,0500F-0575F,Patient management,F,7010,3059,1,122
+3501464,2,0001F-7025F,Performance measurement,3006F-3573F,Diagnostic/screening processes or results,F,3062,15,5,16
+9249682,2,0001F-7025F,Performance measurement,0256T-0259T,Patient management,F,1,15,4,52
+10863732,2,0016T-0207T,Performance measurement,0001F-0015F,"Therapeutic, preventive or other interventions",F,7010,15,4,16
+11346646,2,0001F-7025F,Performance measurement,0500F-0575F,Diagnostic/screening processes or results,F,7010,2242,5,16
+11757937,2,0001F-7025F,Performance measurement,0256T-0259T,Structural Measures,F,4979,15,3,24
+13941584,2,0001F-7025F,Performance measurement,7010F-7025F,Diagnostic/screening processes or results,F,1,15,5,16
+6931486,2,0001F-7025F,Performance measurement,3006F-3573F,"Therapeutic, preventive or other interventions",F,7010,1467,5,23
+12471154,3,0001F-7025F,Performance measurement,0256T-0259T,Follow-up or other outcomes,F,7010,48,1,16
+6785072,2,0001F-7025F,Performance measurement,5005F-5100F,Structural Measures,F,4661,15,1,41
+3515789,2,0001F-7025F,Performance measurement,4000F-4306F,Physical examination,F,7010,1778,3,16
+16343964,2,0256T-0259T,Performance measurement,2000F-2050F,Temporary codes,F,3253,788,4,16

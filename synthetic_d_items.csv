@@ -1,0 +1,1001 @@
+ROW_ID,ITEMID,LABEL,ABBREVIATION,DBSOURCE,LINKSTO,CATEGORY,UNITNAME,PARAM_TYPE,CONCEPTID,LABEL_CAT,CATEGORY_CAT
+16750199,385,sdv-pii-n855e,,metavision,chartevents,Respiratory,bpm,Numeric,,10368,77
+16546586,93,sdv-pii-xc9uq,sdv-pii-30ej4,carevue,chartevents,,,,,2377,-1
+13338662,86,sdv-pii-vime3,sdv-pii-mqg5x,metavision,chartevents,Thoracentesis,,Text,,3107,79
+1664452,703,sdv-pii-d2cbd,,carevue,chartevents,NICOM,,,,6004,40
+11344381,38,sdv-pii-0kv3a,,metavision,inputevents_mv,Medications,mcg,Solution,,9902,50
+1128820,91563,sdv-pii-i37w4,,carevue,chartevents,,,,,5261,-1
+3088971,6206,sdv-pii-tqppz,sdv-pii-mhnnt,metavision,outputevents,Output,mL,Numeric,,3408,65
+9653427,3274,sdv-pii-zl6qk,,metavision,procedureevents_mv,ADT,,Process,,8202,4
+5262819,9,sdv-pii-7536p,,carevue,inputevents_cv,Free Form Intake,,,,9592,38
+9655881,8775,sdv-pii-1c3y4,,hospital,microbiologyevents,SPECIMEN,,,,851,73
+9175988,3178,sdv-pii-u6v0x,,metavision,chartevents,NICOM,%,Numeric,,8620,64
+339576,754,sdv-pii-9b7tn,,metavision,outputevents,PA Line Insertion,L/min,Numeric,,6141,62
+5100565,15,sdv-pii-qoq7n,sdv-pii-nlzf4,carevue,chartevents,,,,,1718,-1
+9971216,71,sdv-pii-vtrm1,sdv-pii-dm4ks,metavision,chartevents,Scores - APACHE IV (2),Degree,Numeric,,5145,77
+16518653,634,sdv-pii-jhaud,,metavision,inputevents_mv,Medications,mg,Solution,,2817,49
+15886836,41,sdv-pii-ddkot,sdv-pii-yxtgn,metavision,chartevents,Respiratory,,Checkbox,,6452,73
+2418889,3957,sdv-pii-unodz,sdv-pii-2xuyi,hospital,microbiologyevents,ORGANISM,,,,8376,60
+14346018,9792,sdv-pii-dqosk,,metavision,inputevents_mv,Medications,,Numeric with tag,,2880,52
+5162338,1212,sdv-pii-58p1r,,metavision,inputevents_mv,Medications,mg,Solution,,10363,48
+3221752,15,sdv-pii-glzoj,,metavision,procedureevents_mv,5-Imaging,,Process,,3908,6
+2992659,974,sdv-pii-nkztl,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,2818,15
+15408419,92,sdv-pii-jexkz,sdv-pii-vieus,hospital,microbiologyevents,ORGANISM,,,,8132,60
+13549029,344,sdv-pii-lx80u,,metavision,inputevents_mv,PICC Line Insertion,,Text,,2868,61
+15076434,3,sdv-pii-de7p7,,carevue,inputevents_cv,Free Form Intake,,,,6764,39
+175353,1,sdv-pii-o8ppd,,carevue,outputevents,,,,,3848,-1
+5667159,239,sdv-pii-5sc12,,metavision,procedureevents_mv,6-Cultures,,Process,,1836,3
+5370683,36,sdv-pii-bj9kc,,metavision,chartevents,IABP,,Numeric,,8997,29
+2765658,5,sdv-pii-72rjo,,metavision,chartevents,Respiratory,mL/min/m2,Numeric,,6847,82
+6877691,7284,sdv-pii-y3dkf,,metavision,procedureevents_mv,4-Procedures,,Process,,5209,5
+12739562,185,sdv-pii-3qr67,,hospital,microbiologyevents,ORGANISM,,,,3225,61
+6498345,28701,sdv-pii-becr3,,metavision,chartevents,Scores - APACHE II,?F,Numeric,,8719,75
+16626239,38308,sdv-pii-h2ma8,,carevue,chartevents,,,,,10438,-1
+13784222,2208,sdv-pii-awgf9,,metavision,chartevents,Access Lines - Invasive,,Text,,6690,13
+5749089,877,sdv-pii-uvrqm,,metavision,procedureevents_mv,Access Lines - Invasive,,Process,,4446,11
+10363856,21568,sdv-pii-dfv4s,,metavision,chartevents,Skin - Incisions,,Text,,2855,83
+9270954,53152,sdv-pii-q9mpp,,metavision,chartevents,Skin - Impairment,,Text,,6975,84
+9310979,8279,sdv-pii-t5kiq,,carevue,inputevents_cv,Free Form Intake,,,,6895,39
+7878322,1,sdv-pii-yfry2,,carevue,inputevents_cv,Free Form Intake,,,,5915,39
+15525987,46,sdv-pii-nmyry,,hospital,microbiologyevents,ORGANISM,,,,2427,64
+7550892,2876,sdv-pii-oqmaz,,metavision,inputevents_mv,Nutrition - Supplements,msec,Solution,,3175,61
+12819470,884,sdv-pii-9vnvj,,metavision,inputevents_mv,Medications,mg,Solution,,939,50
+6559200,982,sdv-pii-culii,,carevue,inputevents_cv,Free Form Intake,,,,721,40
+11726786,6,sdv-pii-rxxy9,sdv-pii-96jk8,carevue,chartevents,Lumbar Puncture,,,,2749,39
+1253505,7592,sdv-pii-4gqf4,sdv-pii-zmbhx,metavision,chartevents,Treatments,mg/hour,Numeric,,10347,53
+13274042,74,sdv-pii-32cme,,metavision,procedureevents_mv,6-Cultures,,Process,,3560,8
+489246,539191,sdv-pii-iyddy,,hospital,microbiologyevents,SPECIMEN,,,,2605,59
+15517580,5299,sdv-pii-uvig4,,carevue,inputevents_cv,Free Form Intake,,,,5522,39
+7864546,64,sdv-pii-4273x,,metavision,chartevents,Pain/Sedation,mL,Numeric,,2254,68
+4657352,142,sdv-pii-8t1xz,sdv-pii-5ktq1,metavision,chartevents,Dialysis,lbs,Numeric,,5421,84
+620498,82408,sdv-pii-9prcl,sdv-pii-ai1wj,metavision,chartevents,PA Line Insertion,,Text,,8543,69
+6801109,8776,sdv-pii-3lg0h,sdv-pii-bxgad,metavision,datetimeevents,Access Lines - Peripheral,,Date time,,3892,16
+1057307,229,sdv-pii-q0mgu,,metavision,procedureevents_mv,3-Significant Events,,Process,,574,3
+14612662,39,sdv-pii-dfls1,,metavision,chartevents,Treatments,,Checkbox,,3615,93
+3095083,57,sdv-pii-gxek5,,metavision,chartevents,Hemodynamics,,Checkbox,,2341,50
+4535699,7927,sdv-pii-yzh76,sdv-pii-g6bfq,metavision,chartevents,Nutrition - Parenteral,,Numeric,,8311,68
+4041144,3561,sdv-pii-8vrab,sdv-pii-4vfoh,carevue,inputevents_cv,Free Form Intake,,,,5136,39
+13774831,38,sdv-pii-6wf7k,,hospital,microbiologyevents,SPECIMEN,,,,2613,83
+3448833,254,sdv-pii-p347j,sdv-pii-i8unc,hospital,microbiologyevents,ORGANISM,,,,8485,66
+447121,22753,sdv-pii-ycbf3,,carevue,inputevents_cv,Free Form Intake,,,,2650,40
+3288674,35119,sdv-pii-du9sc,sdv-pii-8bq0w,metavision,chartevents,Restraint/Support Systems,,Text,,2841,11
+13386894,8874,sdv-pii-8ocdt,,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,2448,38
+6199095,724,sdv-pii-6mcv2,sdv-pii-ocbhc,metavision,chartevents,Access Lines - Invasive,,Checkbox,,5512,16
+525900,366,sdv-pii-t5fqf,,carevue,inputevents_cv,Free Form Intake,,,,11845,39
+5706624,63,sdv-pii-yyod5,,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,4465,61
+11403954,44,sdv-pii-9cyyw,sdv-pii-ju99b,metavision,chartevents,Respiratory,cmH2O,Numeric,,-1,67
+9762508,91423,sdv-pii-jkknh,sdv-pii-vg2p6,metavision,inputevents_mv,Medications,mEq,Solution,,3549,50
+4693713,7774,sdv-pii-7paw2,,hospital,microbiologyevents,SPECIMEN,,,,7639,76
+2080314,442,sdv-pii-m85mx,sdv-pii-a4vaf,carevue,chartevents,,,,,1128,-1
+9076509,206,sdv-pii-2fvs2,,metavision,chartevents,Respiratory,bpm,Numeric,,8972,74
+475100,8483,sdv-pii-i8c5r,,metavision,chartevents,Scores - APACHE IV (2),,Numeric,,216,82
+6190094,13952,sdv-pii-4jw8e,,carevue,outputevents,,,,,1260,-1
+2723624,634,sdv-pii-0djkm,,metavision,chartevents,Toxicology,,Numeric,,3915,85
+4190270,62057,sdv-pii-vxami,,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,2191,38
+2038390,7,sdv-pii-6aui3,sdv-pii-quxb8,metavision,outputevents,OT Notes,,Numeric,,2108,62
+4215969,5071,sdv-pii-p74rf,,carevue,chartevents,,,,,1054,-1
+14884223,163586,sdv-pii-iaaer,sdv-pii-sd89k,metavision,chartevents,OT Notes,,Numeric,,9474,30
+1642542,706,sdv-pii-hz3pt,sdv-pii-2xlox,hospital,microbiologyevents,ORGANISM,,,,1758,61
+13157601,3062,sdv-pii-drr2x,,metavision,chartevents,PiCCO,mg/hour,Numeric,,1405,30
+14533390,4126,sdv-pii-6qtb2,,hospital,microbiologyevents,ORGANISM,,,,5265,65
+1836589,4,sdv-pii-0uloh,,metavision,chartevents,Access Lines - Invasive,,Checkbox,,5184,11
+9358733,744,sdv-pii-i95n8,,metavision,inputevents_mv,Free Form Intake,mL,Solution,,11080,38
+3362329,2734,sdv-pii-3ak1n,,carevue,outputevents,Free Form Intake,,,,3430,39
+1088185,661,sdv-pii-hl1uz,sdv-pii-jcvd2,carevue,chartevents,Hematology,,,,9252,22
+12049327,9074,sdv-pii-1e0s4,sdv-pii-rvb9t,metavision,inputevents_mv,Nutrition - Supplements,mL,Solution,,9083,39
+9774600,89,sdv-pii-fqz9g,,metavision,chartevents,Medications,mmHg,Numeric,,2659,43
+3036378,109,sdv-pii-0286j,sdv-pii-6of1i,metavision,chartevents,Restraint/Support Systems,,Checkbox,,2403,10
+10121490,18,sdv-pii-6lwec,,carevue,inputevents_cv,Free Form Intake,,,,1515,39
+16151355,1929,sdv-pii-y97ce,,metavision,chartevents,Cardiovascular,,Text,,1618,33
+16017561,2152,sdv-pii-sjaqb,,hospital,microbiologyevents,ORGANISM,,,,1353,62
+387268,64,sdv-pii-h2b33,,metavision,inputevents_mv,Medications,mg,Solution,,2657,52
+10252075,9996,sdv-pii-pjorh,,metavision,chartevents,Adm History/FHPA,,Checkbox,,3278,12
+10555090,14,sdv-pii-af7od,,carevue,outputevents,,,,,2877,-1
+14968593,53902,sdv-pii-fjtsf,,metavision,chartevents,Access Lines - Invasive,,Checkbox,,519,10
+7477745,611,sdv-pii-1bkl8,sdv-pii-46u44,carevue,inputevents_cv,Free Form Intake,,,,5845,39
+11664648,686,sdv-pii-38nuv,,metavision,inputevents_mv,General,mL,Solution,,645,21
+11563653,751,sdv-pii-lo44q,,carevue,inputevents_cv,Free Form Intake,,,,11177,40
+1434703,3099,sdv-pii-muhjd,,metavision,procedureevents_mv,4-Procedures,,Process,,8911,4
+13103826,625,sdv-pii-qi8oz,,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,2882,38
+15444422,7599,sdv-pii-sqw5x,,metavision,chartevents,Nutrition - Supplements,kg,Numeric,,2146,49
+6120582,15066,sdv-pii-uk7qe,,carevue,chartevents,CVL Insertion,,,,11109,25
+6910428,35,sdv-pii-yrlvp,sdv-pii-ne92z,metavision,inputevents_mv,Medications,,Solution,,10401,63
+6919992,814,sdv-pii-79ej7,,metavision,chartevents,Scores - APACHE IV,,Text,,9656,76
+9808633,954,sdv-pii-sof8l,sdv-pii-xwdc9,carevue,chartevents,,,,,4537,-1
+11214810,54003,sdv-pii-ue4jz,,carevue,chartevents,Respiratory,L/min,Numeric,,7288,22
+5527762,928,sdv-pii-3zwj2,sdv-pii-cdedj,metavision,outputevents,PA Line Insertion,mL,Numeric,,3450,71
+11280785,48,sdv-pii-qkp6e,sdv-pii-0xa1f,metavision,chartevents,Skin - Impairment,cm,Numeric,,973,87
+13876947,753,sdv-pii-g489w,,carevue,inputevents_cv,Free Form Intake,,,,8461,-1
+14759145,16268,sdv-pii-kjjwy,,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,2249,37
+1117202,24,sdv-pii-sadpe,,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,4243,25
+15693621,8,sdv-pii-2h1xc,,metavision,procedureevents_mv,Access Lines - Invasive,,Process,,8279,10
+5182292,4001,sdv-pii-9c74n,,carevue,outputevents,,,,,5245,-1
+16520461,2,sdv-pii-9sy6w,,metavision,chartevents,Scores - APACHE IV (2),ml/hr,Numeric,,1959,78
+14295572,362,sdv-pii-xl8qs,,metavision,chartevents,NICOM,mL,Numeric,,9535,61
+3209634,227,sdv-pii-xfc1g,,metavision,chartevents,PA Line Insertion,%,Numeric,,2408,66
+13507781,4405,sdv-pii-7di9z,,metavision,chartevents,General,mmHg,Numeric,,2464,44
+3944439,16,sdv-pii-5ftlm,sdv-pii-nvaza,metavision,inputevents_mv,Medications,units,Solution,,4360,52
+296218,4928,sdv-pii-c072i,,metavision,chartevents,GI/GU,L/min/m2,Numeric,,1089,52
+10980576,2883,sdv-pii-xpo3u,sdv-pii-n1b7n,metavision,chartevents,Labs,,Numeric with tag,,8129,50
+14154075,194,sdv-pii-i1hg9,,metavision,chartevents,PICC Line Insertion,,Process,,1993,12
+14162405,215,sdv-pii-yywr0,sdv-pii-zxumk,metavision,chartevents,Respiratory,insp/min,Numeric,,6652,69
+4538880,785,sdv-pii-r7229,sdv-pii-d467k,metavision,chartevents,Access Lines - Invasive,,Checkbox,,5235,7
+4021848,98796,sdv-pii-3gp8r,sdv-pii-7oemh,metavision,chartevents,Cardiovascular (Pulses),,Text,,3467,84
+9726912,6314,sdv-pii-o7jaz,sdv-pii-1mggq,hospital,microbiologyevents,ORGANISM,,,,2893,63
+9394286,9389,sdv-pii-egnj0,sdv-pii-qe0n7,carevue,chartevents,,,,,4966,-1
+3530856,707,sdv-pii-sad2g,,metavision,chartevents,Dialysis,/min,Numeric,,1728,52
+10233086,12,sdv-pii-ib4j6,,metavision,chartevents,Dialysis,,Numeric,,7148,29
+4819371,5502,sdv-pii-95xfg,,metavision,chartevents,PiCCO,L/min/m2,Numeric,,389,68
+4844251,3009,sdv-pii-fhv5d,,metavision,inputevents_mv,Antibiotics,dose,Solution,,3530,19
+8602649,73,sdv-pii-hu247,,hospital,microbiologyevents,SPECIMEN,,,,37,86
+4518813,9748,sdv-pii-41ocq,,carevue,chartevents,,,,,9098,-1
+14477799,676,sdv-pii-ffoxr,,metavision,chartevents,Skin - Impairment,,Text,,5718,87
+5009933,190061,sdv-pii-siv6u,,carevue,inputevents_cv,Free Form Intake,,,,9365,39
+10276879,424,sdv-pii-4pbbw,sdv-pii-wuixc,metavision,chartevents,Respiratory,?F,Numeric,,3344,81
+13824534,6179,sdv-pii-1mn4m,sdv-pii-utwdg,hospital,microbiologyevents,ORGANISM,,,,5986,59
+5055678,3088,sdv-pii-60tzt,,metavision,chartevents,ABG's,,Text,,2862,8
+15870830,4275,sdv-pii-txvl0,,metavision,chartevents,Hemodynamics,mmHg,Numeric,,2936,46
+15014945,833,sdv-pii-izh0q,,carevue,chartevents,,,,,11018,-1
+7103763,351,sdv-pii-64j57,,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,5634,49
+2265102,736,sdv-pii-l9rku,,metavision,outputevents,Output,mL,Numeric,,3891,66
+12070247,90385,sdv-pii-lfpxp,,metavision,chartevents,Tandem Heart,,Text,,7712,83
+9581813,4357,sdv-pii-6o4iv,,metavision,outputevents,Paracentesis,mL,Numeric,,2821,32
+14403642,423,sdv-pii-vxzqd,sdv-pii-d6kv7,metavision,procedureevents_mv,6-Cultures,,Process,,2864,10
+2363225,549127,sdv-pii-2qkjz,sdv-pii-gy0eg,carevue,inputevents_cv,General,,,,2482,0
+13507155,903,sdv-pii-gqe82,,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,3181,38
+97364,489,sdv-pii-4lo6u,sdv-pii-jvzfs,metavision,chartevents,OT Notes,mmHg,Numeric,,2310,53
+11695953,536,sdv-pii-oahi6,,metavision,procedureevents_mv,6-Cultures,,Process,,9193,5
+15518723,1787,sdv-pii-z4cxn,,metavision,chartevents,IABP,kg,Numeric,,1973,48
+11599859,79,sdv-pii-rd2re,,metavision,chartevents,1-Intubation/Extubation,,Text,,8962,84
+11562333,2151,sdv-pii-sqbgy,,metavision,chartevents,Labs,,Numeric with tag,,1670,51
+6564857,578,sdv-pii-ykhgx,,hospital,microbiologyevents,SPECIMEN,,,,2707,81
+14482495,42542,sdv-pii-bydax,sdv-pii-bdp82,metavision,chartevents,Hemodynamics,mmHg,Numeric,,699,46
+7273272,138,sdv-pii-a6s0s,,metavision,chartevents,Heme/Coag,lbs,Numeric,,1424,87
+784093,23,sdv-pii-v6za9,,metavision,chartevents,OT Notes,,Solution,,9004,58
+12788114,7337,sdv-pii-ei3ix,,metavision,procedureevents_mv,Access Lines - Invasive,,Process,,4252,4
+4563371,22,sdv-pii-4qpih,,metavision,chartevents,Dialysis,psi,Numeric,,6906,81
+4549557,7704,sdv-pii-tt92f,,metavision,chartevents,Skin - Impairment,cm,Numeric,,1646,85
+15800572,88535,sdv-pii-rbqhe,,metavision,chartevents,PiCCO,dynes.sec.cm-5/m2,Numeric,,6638,65
+9210084,316,sdv-pii-tzehk,,metavision,chartevents,Scores - APACHE IV (2),mL/beat,Numeric,,1717,64
+11996853,7232,sdv-pii-ew9t2,sdv-pii-bkytk,metavision,inputevents_mv,Antibiotics,dose,Solution,,1347,20
+5325659,503,sdv-pii-lchi4,,carevue,chartevents,,,,,6033,-1
+7542606,6,sdv-pii-u2m4y,,metavision,inputevents_mv,Medications,mEq,Solution,,8554,50
+7453189,3463,sdv-pii-e9huf,,metavision,chartevents,Mixed VBGs,mL,Solution,,5414,54
+9420516,9,sdv-pii-g53bf,,metavision,procedureevents_mv,Access Lines - Invasive,,Process,,3483,6
+7654289,638789,sdv-pii-kzk6m,,metavision,chartevents,VBG'S,,,,988,27
+6500940,65,sdv-pii-zalvo,,metavision,chartevents,OT Notes,,Checkbox,,1066,50
+12177676,598,sdv-pii-xig5x,,metavision,chartevents,Urine,mL/beat,Numeric,,4136,35
+3061578,9085,sdv-pii-tqdtx,,metavision,chartevents,PA Line Insertion,L/min,Numeric,,7057,69
+2946375,145,sdv-pii-q8j1h,,carevue,chartevents,,,,,2065,-1
+7996107,42,sdv-pii-5ykji,,metavision,chartevents,Cardiovascular (Pulses),,Text,,3697,32
+2418419,3797,sdv-pii-s9pwm,,hospital,microbiologyevents,ORGANISM,,,,380,62
+1735037,262,sdv-pii-a4whv,sdv-pii-8ilel,carevue,chartevents,,,,,7918,-1
+5867870,745374,sdv-pii-sq3zt,,carevue,chartevents,ABG,,,,7683,27
+15342844,5,sdv-pii-9nfnj,sdv-pii-60d9q,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,1630,23
+15762470,8,sdv-pii-v3j5u,sdv-pii-9taec,hospital,microbiologyevents,ORGANISM,,,,2065,62
+6911346,2838,sdv-pii-dbuyz,,carevue,chartevents,,,,,6337,-1
+12609525,1593,sdv-pii-6aqxy,,metavision,chartevents,Restraint/Support Systems,,Text,,5495,33
+8414299,34,sdv-pii-dak8f,,metavision,chartevents,Skin - Impairment,cm,Numeric,,2110,86
+5605676,789,sdv-pii-ugev0,,hospital,microbiologyevents,ORGANISM,,,,1852,64
+7549514,34,sdv-pii-gmhk5,,metavision,chartevents,Respiratory,insp/min,Numeric,,1108,70
+13457366,3509,sdv-pii-o7tyv,sdv-pii-7d2zq,metavision,chartevents,NICOM,L/min/m2,Numeric,,2224,61
+8600555,6158,sdv-pii-1xcw3,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,7420,16
+16444768,68738,sdv-pii-klva0,,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,6250,64
+9062974,2177,sdv-pii-ss0yo,,metavision,chartevents,Skin - Impairment,,Text,,3673,39
+13916557,36999,sdv-pii-ypeh0,,metavision,chartevents,Labs,,Numeric with tag,,921,53
+6387869,29503,sdv-pii-zxhr7,,metavision,chartevents,Impella,msec,Numeric,,6810,27
+9143907,4,sdv-pii-0yih1,,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,5429,38
+4770006,4668,sdv-pii-84oaq,,hospital,microbiologyevents,ORGANISM,,,,3381,58
+13683096,5367,sdv-pii-urmn4,,metavision,inputevents_mv,Antibiotics,dose,Solution,,3208,39
+3568762,15781,sdv-pii-g1ppm,sdv-pii-dhszm,metavision,chartevents,Drains,mL,Numeric,,8222,31
+5837937,924,sdv-pii-ekzyq,sdv-pii-8hzjj,metavision,procedureevents_mv,4-Procedures,,Process,,8777,8
+13766750,233,sdv-pii-lc74i,sdv-pii-f3tza,metavision,inputevents_mv,Medications,units,Solution,,3392,50
+5117480,3378,sdv-pii-s5jdv,sdv-pii-ep0qf,metavision,procedureevents_mv,4-Procedures,,Process,,1303,7
+9106141,35,sdv-pii-jjy70,,metavision,inputevents_mv,Antibiotics,dose,Solution,,4109,16
+8747438,6185,sdv-pii-0qipz,,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,3687,39
+1161055,78,sdv-pii-szm2k,,metavision,procedureevents_mv,4-Procedures,,Process,,10650,5
+4001584,741,sdv-pii-2i0s1,,hospital,microbiologyevents,ANTIBACTERIUM,,,,2982,60
+6825536,1548,sdv-pii-6648o,,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,3760,26
+3049213,3902,sdv-pii-pl22w,,metavision,chartevents,Skin - Impairment,,Text,,4828,82
+1286510,4078,sdv-pii-5bco1,,metavision,chartevents,Respiratory,insp/min,Numeric,,8818,66
+6502838,234,sdv-pii-z30x1,,carevue,chartevents,,,,,10182,-1
+7815327,62938,sdv-pii-16lbw,,metavision,chartevents,Treatments,,Checkbox,,2665,92
+10037425,49,sdv-pii-ov6o4,,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,7133,38
+2128510,839,sdv-pii-byhkp,,carevue,outputevents,,,,,4607,0
+8468010,338443,sdv-pii-nqyv3,sdv-pii-sz2v5,metavision,datetimeevents,Access Lines - Invasive,,Date time,,6358,12
+1333719,1724,sdv-pii-rb8tv,,metavision,inputevents_mv,Medications,mmol,Solution,,3222,51
+10640396,1,sdv-pii-zzsuy,,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,5622,58
+9059173,3,sdv-pii-j07un,,carevue,chartevents,Case Management,,,,9412,31
+947855,81511,sdv-pii-vulmr,,metavision,chartevents,Heme/Coag,,Text,,5202,28
+3520383,34197,sdv-pii-swupd,,metavision,chartevents,ApacheIV Parameters,,Text,,1604,47
+2728062,1356,sdv-pii-dr93h,,hospital,microbiologyevents,ORGANISM,,,,1309,59
+7233140,66,sdv-pii-sxajq,sdv-pii-m752i,carevue,outputevents,,,,,3926,-1
+15896415,33777,sdv-pii-7wrm7,,metavision,chartevents,Skin - Incisions,,Text,,4940,81
+7340755,6496,sdv-pii-s8nik,sdv-pii-73d21,carevue,chartevents,,,,,5291,-1
+14203711,95372,sdv-pii-6rujc,,metavision,chartevents,Labs,,Numeric with tag,,3289,50
+6439530,517,sdv-pii-vvyr7,,metavision,chartevents,Cardiovascular (Pacer Data),mA,Numeric,,8487,31
+8407496,5,sdv-pii-41xm4,,metavision,procedureevents_mv,4-Procedures,,Text,,6909,9
+5775675,2294,sdv-pii-zsfu7,,carevue,chartevents,,,,,5025,-1
+2766285,738,sdv-pii-jiyqm,,hospital,microbiologyevents,ORGANISM,,,,9039,62
+1604634,349,sdv-pii-f2a42,,metavision,chartevents,3-Significant Events,,Numeric,,2974,9
+4058843,3618,sdv-pii-y4njm,,metavision,chartevents,Medications,mmHg,Solution,,1796,39
+11501469,67,sdv-pii-t2tqi,,carevue,inputevents_cv,Free Form Intake,,,,2671,39
+2804218,4991,sdv-pii-gmkyi,sdv-pii-dnfva,metavision,chartevents,Drug Level,,Numeric,,5392,35
+9563497,676,sdv-pii-m0mgl,,metavision,chartevents,VBG'S,mL,Numeric,,3111,31
+10030424,6962,sdv-pii-5fm11,sdv-pii-q4ufd,metavision,chartevents,PiCCO,%,Numeric,,5805,59
+8982475,552,sdv-pii-x4fx9,,metavision,inputevents_mv,NICOM,mg,Solution,,7846,62
+4582982,126,sdv-pii-gbeqa,sdv-pii-ra17s,metavision,inputevents_mv,Antibiotics,dose,Solution,,2463,23
+14200558,35,sdv-pii-9iprg,,hospital,microbiologyevents,ANTIBACTERIUM,,,,2086,79
+15973563,9049,sdv-pii-na7fr,,metavision,chartevents,OB-GYN,,Text,,1688,79
+3534854,56,sdv-pii-6e7ro,,metavision,chartevents,Skin - Impairment,,Text,,725,81
+7866009,3055,sdv-pii-3agpt,,carevue,inputevents_cv,Free Form Intake,,,,3065,39
+6334940,47201,sdv-pii-672jk,,metavision,chartevents,Treatments,,Checkbox,,5830,90
+2324440,4,sdv-pii-k043x,,metavision,chartevents,Dialysis,ml/hr,Numeric,,6728,81
+12612309,719,sdv-pii-dtbku,,metavision,chartevents,Case Management,,,,-1,65
+12526541,2225,sdv-pii-v4nov,,metavision,chartevents,Adm History/FHPA,,Checkbox,,5592,14
+9051625,145,sdv-pii-gn6dr,,metavision,chartevents,Hemodynamics,,Text,,-1,67
+12767833,8404,sdv-pii-lm458,,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,9399,55
+7020255,52,sdv-pii-cecon,,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,5674,17
+9126877,8981,sdv-pii-f94cn,,carevue,chartevents,,,,,10186,-1
+7936529,9135,sdv-pii-g1m7y,,hospital,microbiologyevents,ORGANISM,,,,6331,59
+322794,62,sdv-pii-0lyq4,,metavision,chartevents,ABG'S,,Numeric,,2828,61
+11619474,742,sdv-pii-y0g2o,,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,3373,39
+12665510,121,sdv-pii-gk53z,,metavision,inputevents_mv,Nutrition - Supplements,mL,Solution,,6775,24
+13214337,943,sdv-pii-ifscj,,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,2066,63
+1195329,68185,sdv-pii-an3p0,,carevue,chartevents,General,,,,6423,-1
+10846834,909,sdv-pii-luutu,sdv-pii-zxfzi,metavision,chartevents,Scores - APACHE IV (2),,Numeric,,1554,79
+564623,335,sdv-pii-1o9lu,,metavision,chartevents,Respiratory,bpm,Numeric,,9881,75
+16424483,41419,sdv-pii-55lib,,carevue,chartevents,Scores - APACHE IV (2),,,,6118,39
+2116739,952,sdv-pii-av4d3,,carevue,chartevents,,,,,5031,-1
+1725751,1,sdv-pii-fy2mj,,metavision,procedureevents_mv,Mixed Venous Gases,,Process,,5384,62
+15953519,4442,sdv-pii-15ohi,,metavision,chartevents,Dialysis,psi,Numeric,,2987,50
+5758269,244,sdv-pii-f9a5m,,metavision,chartevents,Treatments,L/min,Numeric,,1929,85
+3195443,5039,sdv-pii-3sr2f,sdv-pii-pailn,metavision,chartevents,6-Cultures,,Text,,4462,6
+2057213,3937,sdv-pii-pzemt,,metavision,chartevents,Respiratory,sec,Numeric,,8525,74
+5096594,34,sdv-pii-82m4t,sdv-pii-1ktt4,metavision,chartevents,Access Lines - Peripheral,,Checkbox,,2125,48
+10063131,2499,sdv-pii-0x5yy,,carevue,inputevents_cv,Free Form Intake,,,,9934,39
+7459903,4063,sdv-pii-ay6k8,sdv-pii-lqxfo,metavision,chartevents,Dialysis,psi,Numeric,,1177,21
+9330773,2756,sdv-pii-kz5d0,,metavision,chartevents,1-Intubation/Extubation,,Text,,2863,30
+7484465,3225,sdv-pii-98o1l,,metavision,chartevents,Respiratory,L/min,Numeric,,2017,79
+54773,296,sdv-pii-7871f,sdv-pii-y1wzp,hospital,microbiologyevents,ORGANISM,,,,4351,63
+1614077,4,sdv-pii-3foce,,metavision,procedureevents_mv,ANTIBACTERIUM,,Process,,2281,3
+9384134,511,sdv-pii-79btb,,metavision,chartevents,IABP,,Numeric,,3210,47
+7526955,471,sdv-pii-o9v4c,sdv-pii-qtat9,metavision,chartevents,General,,Text,,10144,63
+7167204,9156,sdv-pii-620pf,,metavision,chartevents,Adm History/FHPA,,Checkbox,,6378,12
+12938639,12,sdv-pii-lq7tq,,hospital,microbiologyevents,ORGANISM,,,,3560,67
+12162410,3513,sdv-pii-47o8n,,metavision,chartevents,Labs,,Numeric,,4137,51
+2935731,52948,sdv-pii-hu0jm,,metavision,chartevents,Routine Vital Signs,L/min,Numeric,,2089,84
+1236223,61,sdv-pii-co7lj,,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,4102,39
+4600988,8252,sdv-pii-nkxmn,,carevue,outputevents,,,,,7762,-1
+8674467,423,sdv-pii-2610b,,metavision,inputevents_mv,Antibiotics,dose,Solution,,3159,39
+7847385,2084,sdv-pii-b9b98,sdv-pii-mor6b,hospital,microbiologyevents,ORGANISM,,,,5446,60
+992007,19,sdv-pii-vsgvt,,carevue,chartevents,,,,,9221,-1
+11124053,37,sdv-pii-wx5ta,,carevue,chartevents,,,,,4679,-1
+14238667,9274,sdv-pii-pbq7r,,hospital,microbiologyevents,SPECIMEN,,,,4635,80
+13717862,2,sdv-pii-rdqin,,carevue,chartevents,,,,,10073,-1
+10119677,10007,sdv-pii-yz382,,metavision,procedureevents_mv,Access Lines - Invasive,,Process,,10600,6
+8342644,731557,sdv-pii-13j8g,,hospital,microbiologyevents,ORGANISM,,,,127,63
+14199709,341,sdv-pii-b2rx9,,carevue,chartevents,,,,,9259,-1
+16580708,143,sdv-pii-vn2p5,sdv-pii-1ygq4,carevue,inputevents_cv,Free Form Intake,,,,9564,39
+7266409,39,sdv-pii-bdg1x,,metavision,procedureevents_mv,Access Lines - Peripheral,,Process,,6251,13
+16615407,693,sdv-pii-u1tq2,sdv-pii-5q4hj,metavision,chartevents,PiCCO,/min,Numeric,,82,30
+8679587,1719,sdv-pii-6saqd,,metavision,chartevents,Restraint/Support Systems,,Text,,4785,82
+312477,2346,sdv-pii-yj9ii,,hospital,microbiologyevents,ORGANISM,,,,1178,65
+12984029,769,sdv-pii-irs2p,,metavision,inputevents_mv,Antibiotics,dose,Solution,,4192,13
+7574680,8011,sdv-pii-9rnvk,sdv-pii-1yz40,carevue,datetimeevents,,,,,7549,-1
+12701245,3689,sdv-pii-3asbn,,metavision,procedureevents_mv,4-Procedures,,Process,,8313,10
+682836,47149,sdv-pii-t47xw,,metavision,inputevents_mv,Antibiotics,dose,Solution,,6300,19
+10362471,792,sdv-pii-n2ksu,,carevue,chartevents,,,,,9387,-1
+12148115,448,sdv-pii-fnyfy,,metavision,procedureevents_mv,6-Cultures,,Process,,9278,9
+14523771,4501,sdv-pii-ohs38,,metavision,chartevents,Mixed Venous Gases,,Numeric,,1994,63
+11660789,81456,sdv-pii-q5bcg,,metavision,chartevents,NICOM,dynes.sec.cm-5/m2,Numeric,,1673,70
+443233,5711,sdv-pii-hppz5,,metavision,chartevents,Pulmonary,dynes*sec/cm5/m2,Numeric,,5878,29
+1335992,3489,sdv-pii-bzgxr,sdv-pii-v0gkd,metavision,inputevents_mv,Blood Products/Colloids,mg,Solution,,5442,48
+11825561,95,sdv-pii-l7vo5,,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,2499,26
+14240615,31943,sdv-pii-q0ozx,,metavision,chartevents,Routine Vital Signs,,Numeric,,10352,72
+11793100,47,sdv-pii-l1v7z,,metavision,chartevents,Respiratory,insp/min,Numeric,,1234,71
+3473691,71,sdv-pii-ke8bh,sdv-pii-98jv4,metavision,chartevents,3-Significant Events,,Text,,9795,4
+5977816,9,sdv-pii-wufcj,,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,4345,38
+12946005,67,sdv-pii-1ewv3,,carevue,chartevents,,,,,2735,-1
+13575603,561,sdv-pii-czv3e,,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,1723,38
+6141913,734,sdv-pii-uvqgv,,carevue,inputevents_cv,,,,,6008,0
+5801928,7053,sdv-pii-xrbgc,,metavision,chartevents,Alarms,,Checkbox,,4151,12
+3610521,55,sdv-pii-fcgwa,sdv-pii-yywpr,metavision,chartevents,Respiratory,,Text,,2906,65
+2271408,4991,sdv-pii-x2w9o,,metavision,outputevents,Output,dynes*sec/cm5,Numeric,,1779,64
+831910,37,sdv-pii-ex18v,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,6681,18
+15155129,78929,sdv-pii-9kvvc,,metavision,chartevents,Cardiovascular (Pacer Data),mA,Numeric,,4524,30
+2996841,1784,sdv-pii-haa0x,,metavision,chartevents,CSF,mL,Numeric,,1633,78
+14867761,74048,sdv-pii-7j4r1,,carevue,chartevents,,,,,7407,-1
+14713330,3061,sdv-pii-prbfe,,carevue,inputevents_cv,Free Form Intake,,,,572,40
+9896318,279,sdv-pii-6zrln,sdv-pii-g13uf,metavision,chartevents,Respiratory,lbs,Numeric,,1635,82
+6108457,32,sdv-pii-fdpw7,,carevue,inputevents_cv,Free Form Intake,,,,11025,-1
+14818470,46499,sdv-pii-sfkm0,,metavision,chartevents,Skin - Impairment,,Numeric,,9098,63
+14225920,82,sdv-pii-asm56,sdv-pii-gmvl8,metavision,chartevents,CVL Insertion,,Checkbox,,8296,26
+444225,348,sdv-pii-g5zai,,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,5710,25
+11409735,9266,sdv-pii-sdb2o,,hospital,microbiologyevents,ORGANISM,,,,10137,63
+1669773,34622,sdv-pii-3ky2r,,metavision,chartevents,Scores - APACHE II,msec,Numeric,,4786,74
+7295915,505,sdv-pii-cmohg,,carevue,inputevents_cv,Free Form Intake,,,,7518,40
+8558862,483,sdv-pii-utnzc,,metavision,inputevents_mv,Medications,mg,Solution,,3144,55
+14379193,48277,sdv-pii-hre6o,,metavision,chartevents,Enzymes,,Numeric,,8880,31
+14967454,11976,sdv-pii-u8roq,,metavision,inputevents_mv,Nutrition - Parenteral,dose,Solution,,9234,39
+5681073,987,sdv-pii-5qk4d,sdv-pii-avzzs,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,6444,38
+11300930,715,sdv-pii-42jyd,,metavision,chartevents,Scores - APACHE II,,Text,,197,79
+13868233,39,sdv-pii-586i3,,carevue,chartevents,,,,,11841,-1
+3501593,401,sdv-pii-vpkip,,metavision,inputevents_mv,Nutrition - Supplements,mL,Solution,,2846,60
+15223861,769,sdv-pii-29xl6,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,2825,13
+3283687,7114,sdv-pii-e44qf,,carevue,chartevents,,,,,4312,-1
+11575302,479,sdv-pii-j3ako,,hospital,microbiologyevents,ORGANISM,,,,8887,65
+8728844,235,sdv-pii-76lln,sdv-pii-incse,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,6054,53
+5265973,2014,sdv-pii-njff9,sdv-pii-k32bx,carevue,inputevents_cv,Free Form Intake,,,,10363,39
+4752846,21401,sdv-pii-vbzzf,sdv-pii-276rg,carevue,chartevents,,,,,1209,-1
+2631556,96691,sdv-pii-gspq7,,metavision,chartevents,Impella,min,Numeric,,2379,66
+8570229,569,sdv-pii-6579n,,metavision,chartevents,Routine Vital Signs,?C,Numeric,,4330,78
+6013640,99,sdv-pii-2buse,sdv-pii-0ys81,carevue,datetimeevents,,,,,3438,-1
+15424049,69,sdv-pii-unz16,,metavision,chartevents,Labs,,Numeric with tag,,2998,49
+12480619,145,sdv-pii-qltu6,,metavision,inputevents_mv,Medications,mg,Solution,,8205,51
+16538075,8615,sdv-pii-fybjj,,carevue,outputevents,,,,,3038,-1
+11452933,302734,sdv-pii-w5748,sdv-pii-st4er,carevue,chartevents,,,,,5486,-1
+5119881,92,sdv-pii-8sioj,sdv-pii-ud2ky,metavision,outputevents,PiCCO,%,Numeric,,779,65
+4340618,71,sdv-pii-bmock,,carevue,inputevents_cv,Free Form Intake,,,,3761,39
+15739811,939,sdv-pii-trlp3,,carevue,chartevents,,,,,6631,-1
+10020046,34,sdv-pii-swfl2,sdv-pii-89g03,hospital,microbiologyevents,ORGANISM,,,,909,62
+3168501,854,sdv-pii-fuqwp,,carevue,inputevents_cv,Free Form Intake,,,,10532,39
+7615373,392,sdv-pii-dks6c,sdv-pii-p877f,metavision,chartevents,Skin - Impairment,cm,Numeric,,1947,82
+15653288,650226,sdv-pii-jjaqb,,metavision,chartevents,NICOM,%,Numeric,,10581,78
+12862188,2913,sdv-pii-docqq,sdv-pii-1lc5v,hospital,microbiologyevents,ANTIBACTERIUM,,,,2748,60
+13936567,56,sdv-pii-w38tq,,carevue,chartevents,,,,,3508,-1
+10328870,1988,sdv-pii-4kug5,,hospital,microbiologyevents,ORGANISM,,,,4710,64
+5795002,90596,sdv-pii-1zz0z,sdv-pii-e7d5k,carevue,chartevents,,,,,3996,-1
+4988078,4,sdv-pii-eg7mu,,carevue,inputevents_cv,Free Form Intake,,,,3402,40
+15415768,1072,sdv-pii-kganu,,carevue,chartevents,,,,,8228,-1
+12541974,596,sdv-pii-4463b,sdv-pii-n1rg8,carevue,chartevents,,,,,11233,-1
+10920509,74,sdv-pii-vih1x,,carevue,chartevents,,,,,9485,-1
+13657260,34,sdv-pii-7aei3,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,8083,18
+4546928,8584,sdv-pii-e8c7c,sdv-pii-qr2mr,carevue,outputevents,,,,,10118,-1
+4163206,1812,sdv-pii-coqdp,sdv-pii-tq0zp,metavision,inputevents_mv,Nutrition - Supplements,mL,Solution,,4142,66
+11346990,81,sdv-pii-5gtdu,,hospital,microbiologyevents,SPECIMEN,,,,2455,76
+381336,693,sdv-pii-goaho,sdv-pii-rb7jc,metavision,chartevents,Alarms,,Checkbox,,618,14
+369624,742,sdv-pii-q7wi2,,carevue,inputevents_cv,Free Form Intake,,,,1797,40
+14834968,267,sdv-pii-t3ums,,metavision,inputevents_mv,Nutrition - Enteral,mg,Solution,,1058,44
+737560,25729,sdv-pii-tayy1,,carevue,outputevents,,,,,1870,-1
+11008515,755,sdv-pii-q6h35,,metavision,chartevents,Tandem Heart,units,Numeric,,7022,63
+1945076,83702,sdv-pii-f126f,sdv-pii-okwlo,carevue,chartevents,,,,,2412,-1
+55926,346,sdv-pii-a3jtq,,metavision,inputevents_mv,Nutrition - Supplements,mL,Solution,,934,38
+9190563,26441,sdv-pii-ker0c,,metavision,microbiologyevents,Other ABGs,,,,1162,28
+10678133,797,sdv-pii-4x1bv,,metavision,inputevents_mv,Nutrition - Enteral,mg,Solution,,2206,61
+13102872,54142,sdv-pii-ycqz0,sdv-pii-w982l,metavision,chartevents,Respiratory,bpm,Numeric,,8658,69
+14953261,891,sdv-pii-d1zow,sdv-pii-nbd1x,metavision,chartevents,Treatments,,Text,,8556,93
+4803167,3379,sdv-pii-bbmh7,,carevue,chartevents,,,,,3412,-1
+15731547,2096,sdv-pii-43ugt,,metavision,chartevents,Skin - Impairment,insp/min,Numeric,,10896,57
+2287418,404,sdv-pii-00vm0,,metavision,procedureevents_mv,3-Significant Events,,Process,,625,6
+10642426,9786,sdv-pii-62fy9,sdv-pii-x0dl9,metavision,chartevents,OT Notes,,Text,,4934,65
+948529,7979,sdv-pii-em2xe,,metavision,chartevents,1-Intubation/Extubation,cm,Numeric,,1170,15
+5634607,423,sdv-pii-ijh4v,,carevue,chartevents,,,,,6890,-1
+10365324,582,sdv-pii-k0tly,,carevue,chartevents,Mixed VBGs,,,,3879,39
+15429001,2346,sdv-pii-rtp8p,sdv-pii-bphlm,carevue,inputevents_cv,Free Form Intake,,,,742,-1
+7887023,12053,sdv-pii-kjsjf,sdv-pii-btns8,metavision,datetimeevents,Access Lines - Peripheral,,Date time,,4688,14
+7149206,49,sdv-pii-qcg03,,metavision,chartevents,Labs,,Numeric with tag,,9228,52
+4785474,2787,sdv-pii-cs170,sdv-pii-ztfwm,metavision,chartevents,Labs,,Numeric with tag,,10300,49
+7852925,17,sdv-pii-t0io1,sdv-pii-pfehx,metavision,datetimeevents,Access Lines - Invasive,,Date time,,4962,15
+12492769,2957,sdv-pii-er3oo,,metavision,chartevents,Skin - Impairment,,Text,,5111,85
+4823421,22,sdv-pii-1ajkj,sdv-pii-uck48,metavision,datetimeevents,Access Lines - Invasive,,Date time,,1646,48
+2198623,6,sdv-pii-u9auo,,metavision,chartevents,Labs,,Solution,,891,9
+10656743,657,sdv-pii-kvlg8,,carevue,chartevents,,,,,7907,-1
+975914,857,sdv-pii-vb87t,,carevue,chartevents,,,,,4133,-1
+4328874,64,sdv-pii-qantx,sdv-pii-18t3z,metavision,inputevents_mv,Medications,mg,Solution,,2823,52
+8726136,552,sdv-pii-s196u,,metavision,chartevents,Cardiovascular,,Text,,2385,49
+10961592,1,sdv-pii-z2hay,,hospital,microbiologyevents,ORGANISM,,,,6212,60
+13167489,5621,sdv-pii-rtdji,,carevue,chartevents,,,,,224,-1
+5509515,92466,sdv-pii-omsit,,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,4190,38
+3381034,933,sdv-pii-114n4,,carevue,datetimeevents,Access Lines - Invasive,,Date time,,5481,15
+7878625,933,sdv-pii-5nymv,,metavision,outputevents,Output,mL,Numeric,,4990,32
+4350727,2592,sdv-pii-t3gfu,,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,5126,38
+5091865,222,sdv-pii-kn8yw,,carevue,inputevents_cv,Venous ABG,,,,3338,39
+16450650,64,sdv-pii-uqeb2,sdv-pii-q0jx8,metavision,chartevents,Labs,mmHg,Numeric,,341,46
+7555675,692,sdv-pii-27sge,sdv-pii-b2ruu,metavision,chartevents,Arterial Line Insertion,mmHg,Numeric,,2844,50
+846997,4666,sdv-pii-syet0,,carevue,chartevents,,,,,9371,-1
+6728886,2324,sdv-pii-iy2z5,,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,3008,12
+6758493,4176,sdv-pii-e8kdl,,metavision,chartevents,NICOM,cmH2O,Numeric,,2088,65
+6816072,8306,sdv-pii-g8a7y,,metavision,chartevents,Thoracentesis,,Text,,5407,84
+3717559,8645,sdv-pii-o7gwv,,metavision,chartevents,Drug Level,,Text,,2219,62
+6736729,32,sdv-pii-kmk17,,metavision,chartevents,Skin - Impairment,cm,Numeric,,9603,84
+13928928,5134,sdv-pii-02xbg,,carevue,chartevents,1-Intubation/Extubation,,,,7259,53
+11334326,8707,sdv-pii-k6vmn,,metavision,procedureevents_mv,Access Lines - Invasive,,Process,,4715,2
+12345646,76,sdv-pii-x1vyf,,metavision,outputevents,Nutrition - Supplements,mL,Solution,,2683,30
+14005320,688949,sdv-pii-nch9m,,metavision,chartevents,Respiratory,ml/hr,Numeric,,3471,78
+9051344,112,sdv-pii-ie9qi,,carevue,inputevents_cv,Dialysis,,,,9723,-1
+13529403,478,sdv-pii-2shtd,,metavision,chartevents,Lumbar Puncture,,Text,,9951,30
+3956036,679,sdv-pii-gnxc0,,metavision,chartevents,4-Procedures,,Checkbox,,3451,14
+11243644,76,sdv-pii-yfcyg,,metavision,procedureevents_mv,Pulmonary,,Process,,9204,14
+5634013,8367,sdv-pii-xpe20,,metavision,chartevents,Pain/Sedation,,Text,,8823,66
+10395753,1584,sdv-pii-fjeh8,,metavision,chartevents,Toxicology,,Text,,4065,69
+11023528,679,sdv-pii-owkoj,,metavision,chartevents,Labs,,Numeric,,1153,52
+1299330,71,sdv-pii-b449d,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,3676,15
+14724382,25,sdv-pii-8k0h6,,metavision,chartevents,Respiratory,?C,Numeric,,-1,75
+7824082,53,sdv-pii-mdfjb,,metavision,chartevents,Respiratory,%,Numeric,,2483,49
+7716579,435,sdv-pii-nua8j,,metavision,chartevents,Output,mL,Numeric,,8285,67
+15690563,83,sdv-pii-6fdxu,sdv-pii-zytyw,hospital,microbiologyevents,ORGANISM,,,,2538,61
+7320760,184,sdv-pii-knk03,sdv-pii-cez2i,metavision,chartevents,Labs,,Numeric with tag,,6898,50
+15411678,2482,sdv-pii-umr97,sdv-pii-r8ftt,metavision,chartevents,Respiratory,Degree,Numeric,,8177,74
+16364615,14,sdv-pii-hl1mc,,carevue,outputevents,,,,,2995,-1
+11728705,33,sdv-pii-fdik2,sdv-pii-ny7f9,hospital,microbiologyevents,ORGANISM,,,,4686,65
+9872898,23,sdv-pii-6v3ye,,carevue,chartevents,,,,,2104,-1
+10465965,1785,sdv-pii-c9uul,,carevue,chartevents,,,,,3464,-1
+8498178,569,sdv-pii-icetk,,metavision,procedureevents_mv,6-Cultures,,Process,,2531,3
+8580460,25928,sdv-pii-pt6sk,sdv-pii-kxib9,metavision,chartevents,Thoracentesis,,Text,,115,48
+573608,47401,sdv-pii-3oesf,,carevue,chartevents,,,,,7075,-1
+7750029,4312,sdv-pii-1qiqd,,metavision,chartevents,Access Lines - Invasive,,Checkbox,,3234,17
+8471054,808,sdv-pii-6ntim,,hospital,microbiologyevents,ORGANISM,,,,5365,78
+13468868,678,sdv-pii-087id,sdv-pii-tk00v,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,3072,39
+15864257,7001,sdv-pii-916xn,,metavision,chartevents,Scores - APACHE IV (2),?C,Numeric,,5934,78
+12863888,54568,sdv-pii-5xm1x,,metavision,chartevents,Medications,mV,Numeric,,9594,29
+15513046,931,sdv-pii-d4666,,metavision,inputevents_mv,Medications,mL,Solution,,5319,38
+10670331,309,sdv-pii-vw2wi,,metavision,chartevents,Skin - Assessment,,Text,,8100,83
+5492324,546,sdv-pii-u1s5s,,metavision,chartevents,Arterial Line Insertion,,Text,,1290,53
+3756988,44234,sdv-pii-g1c8e,,carevue,chartevents,,,,,9494,-1
+4253834,3,sdv-pii-lj8v4,,hospital,microbiologyevents,ORGANISM,,,,2656,58
+4019868,2699,sdv-pii-1qkb2,sdv-pii-6zrid,carevue,chartevents,,,,,1731,-1
+8731425,5581,sdv-pii-c11xy,,carevue,chartevents,General,,,,718,37
+11417087,397,sdv-pii-twuyc,sdv-pii-gfr55,metavision,chartevents,Dialysis,ml/hr,Numeric,,8159,25
+530847,89,sdv-pii-o1opq,,carevue,chartevents,,,,,6806,-1
+4068756,22,sdv-pii-t4yt9,,metavision,chartevents,Skin - Impairment,,Text,,1901,88
+5265051,9806,sdv-pii-qgcuv,,metavision,chartevents,Skin - Impairment,,Text,,3904,87
+10089245,54,sdv-pii-spsvv,sdv-pii-kbryx,metavision,chartevents,Treatments,lbs,Numeric,,4613,82
+8660459,9,sdv-pii-tfic2,,metavision,chartevents,Respiratory,?C,Numeric,,1500,79
+7816132,9877,sdv-pii-7kih2,,metavision,chartevents,Respiratory,sec,Numeric,,4983,26
+6583777,3583,sdv-pii-wp49w,,metavision,procedureevents_mv,Pulmonary,,Process,,8665,11
+15314713,786,sdv-pii-uzd15,,hospital,microbiologyevents,ORGANISM,,,,2300,62
+6242445,4613,sdv-pii-3dsnz,,carevue,inputevents_cv,Free Form Intake,,,,748,38
+9508384,788,sdv-pii-3ajm3,,carevue,inputevents_cv,Free Form Intake,,,,1231,39
+11788410,109,sdv-pii-n69ue,,carevue,chartevents,,,,,3204,-1
+10406530,72381,sdv-pii-g5nsy,,carevue,outputevents,,,,,4552,-1
+8158624,41101,sdv-pii-0s5tp,,metavision,chartevents,Toxicology,,Checkbox,,10241,15
+1928572,546525,sdv-pii-40bhr,sdv-pii-xoesy,metavision,chartevents,OT Notes,cm,Numeric,,3580,33
+459867,9339,sdv-pii-wmmtu,sdv-pii-2i0f8,metavision,chartevents,PiCCO,,Numeric,,1504,84
+4274803,98,sdv-pii-ijn2w,,carevue,chartevents,Urine,,,,5217,39
+137722,99986,sdv-pii-xv9of,,carevue,chartevents,,,,,5114,-1
+2705380,309,sdv-pii-uqn1t,,metavision,chartevents,Respiratory,ml/min,Numeric,,6315,31
+54115,3866,sdv-pii-lctm4,,metavision,chartevents,Cardiovascular (Pacer Data),L/min,Numeric,,8765,42
+11930593,77,sdv-pii-1zwhl,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,8520,10
+12975187,6746,sdv-pii-n2co5,sdv-pii-qw5ov,metavision,procedureevents_mv,Pulmonary,,Text,,9740,6
+12785315,876,sdv-pii-p5axu,,carevue,inputevents_cv,Free Form Intake,,,,4545,39
+5169823,654,sdv-pii-5h3i3,,carevue,inputevents_cv,Free Form Intake,,,,9625,39
+10281562,3988,sdv-pii-z1pkr,sdv-pii-y01ot,metavision,chartevents,Access Lines - Invasive,,Checkbox,,3480,16
+10952384,22,sdv-pii-j6ew7,,metavision,inputevents_mv,Blood Products/Colloids,mg,Solution,,4030,40
+8260511,44,sdv-pii-h6uy1,,carevue,chartevents,,,,,10677,-1
+13579277,560988,sdv-pii-da68w,,metavision,chartevents,Hemodynamics,mmHg,Numeric,,4209,47
+1940642,104884,sdv-pii-8w2er,sdv-pii-eemj9,metavision,chartevents,Scores - APACHE IV,,Text,,1449,14
+12852067,57537,sdv-pii-ca2ea,,carevue,chartevents,,,,,1625,-1
+7911704,357,sdv-pii-8amrd,,carevue,outputevents,,,,,5614,-1
+10020198,6581,sdv-pii-kevtc,,carevue,chartevents,,,,,3363,-1
+12485808,156,sdv-pii-nmhng,sdv-pii-t27dm,carevue,chartevents,,,,,889,-1
+3593321,5777,sdv-pii-mcz29,sdv-pii-5m5ee,metavision,chartevents,Labs,,Numeric with tag,,4049,47
+2643970,8461,sdv-pii-8pk0z,,metavision,chartevents,Output,mL/m2,Numeric,,5718,63
+10061886,71809,sdv-pii-3ij7j,,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,2941,66
+2066330,1,sdv-pii-4x5ak,,carevue,chartevents,,,,,2827,-1
+11215264,255,sdv-pii-yruci,sdv-pii-h2bxd,metavision,chartevents,Dialysis,/min,Numeric,,9055,27
+4976503,284,sdv-pii-etjgb,,metavision,chartevents,Labs,,Numeric with tag,,5740,52
+14044084,67,sdv-pii-vdk9s,sdv-pii-gokbj,metavision,inputevents_mv,Fluids/Intake,dose,Solution,,6312,9
+6864985,309,sdv-pii-3wdhy,,metavision,chartevents,PiCCO,msec,Numeric,,3164,29
+9145415,7,sdv-pii-mdkln,,hospital,microbiologyevents,ORGANISM,,,,6350,63
+1408112,49885,sdv-pii-n9gqw,,carevue,chartevents,,,,,3061,-1
+92512,12,sdv-pii-kqsce,,metavision,procedureevents_mv,Access Lines - Peripheral,,Process,,7064,16
+15616215,44,sdv-pii-wkgqm,sdv-pii-51s50,carevue,chartevents,,,,,664,-1
+15311877,95,sdv-pii-3z641,,metavision,chartevents,Respiratory,,Text,,6344,24
+2435678,45483,sdv-pii-5eoc0,,carevue,inputevents_cv,Free Form Intake,,,,2896,39
+3763776,8,sdv-pii-48ysr,sdv-pii-c9cld,metavision,chartevents,NICOM,%,Numeric,,1485,68
+5405054,67,sdv-pii-hcr9d,sdv-pii-gvntq,metavision,chartevents,Nutrition - Parenteral,,Text,,8600,51
+5841231,577314,sdv-pii-bfr15,,carevue,chartevents,,,,,780,-1
+14531899,832,sdv-pii-7p88u,,carevue,chartevents,OB-GYN,,,,3435,11
+3713172,8,sdv-pii-keufj,,carevue,chartevents,,,,,9005,-1
+9201964,433,sdv-pii-1xzf0,,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,1327,58
+1355183,2561,sdv-pii-gbufq,sdv-pii-hb3jh,metavision,chartevents,Bronchoscopy,,Text,,2762,22
+7487806,6528,sdv-pii-n7s0n,,metavision,chartevents,Scores - APACHE IV,,Text,,10177,76
+2170324,167,sdv-pii-et2k8,,metavision,chartevents,Scores - APACHE IV,,Checkbox,,10890,81
+1209539,87,sdv-pii-rhku3,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,3626,8
+15276196,6284,sdv-pii-tk6e4,,hospital,microbiologyevents,ANTIBACTERIUM,,,,579,64
+15253018,8839,sdv-pii-b3858,,carevue,chartevents,,,,,1248,-1
+10094949,2749,sdv-pii-ghpiz,,metavision,chartevents,5-Imaging,,Text,,2174,13
+8872387,699,sdv-pii-jp9j8,sdv-pii-tesb7,carevue,chartevents,,,,,1925,-1
+7720112,3073,sdv-pii-4wii9,,metavision,chartevents,Scores - APACHE IV (2),,Text,,3258,81
+6613866,730239,sdv-pii-8aevw,,metavision,chartevents,GI/GU,,Text,,2907,35
+2577728,629,sdv-pii-gif5c,,metavision,inputevents_mv,Dialysis,,Solution,,2549,48
+1948116,6137,sdv-pii-eb5yq,,metavision,inputevents_mv,NICOM,,Solution,,3930,48
+16008443,1813,sdv-pii-vxka4,,metavision,procedureevents_mv,7-Communication,,Process,,5760,8
+13493459,829,sdv-pii-v7cti,sdv-pii-5rqjs,metavision,chartevents,Respiratory,mL/min/m2,Numeric,,749,81
+1003821,134,sdv-pii-x9h61,,metavision,chartevents,Respiratory,kcal/day,Numeric,,1761,81
+2937085,3856,sdv-pii-j7m42,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,2296,16
+11220726,35434,sdv-pii-h1tje,,metavision,chartevents,Scores - APACHE IV (2),min,Numeric,,2565,78
+12525142,95,sdv-pii-uf34z,,carevue,chartevents,,,,,6662,24
+15337490,1084,sdv-pii-5bqog,,metavision,chartevents,Labs,,Numeric with tag,,7706,49
+13706127,773,sdv-pii-viius,,metavision,chartevents,Access Lines - Invasive,,Checkbox,,1679,10
+14168309,7794,sdv-pii-gqdyl,,metavision,chartevents,PA Line Insertion,mL/m2,Numeric,,4653,30
+6212177,255,sdv-pii-ibkmp,sdv-pii-mxk3c,metavision,outputevents,Drains,mL,Numeric,,3959,31
+9528368,51,sdv-pii-1q7al,,metavision,chartevents,Skin - Impairment,,Text,,2201,79
+1119034,3,sdv-pii-85idm,,metavision,chartevents,OT Notes,,Checkbox,,8302,26
+2461129,43,sdv-pii-bu925,,carevue,outputevents,,,,,1176,-1
+15696160,8374,sdv-pii-02o6m,,metavision,chartevents,PA Line Insertion,%,Numeric,,10469,64
+9774522,2,sdv-pii-ykzo4,sdv-pii-fkqb3,metavision,chartevents,Thoracentesis,kcal/day,Numeric,,838,81
+11790192,322,sdv-pii-jlop6,,metavision,chartevents,Scores - APACHE IV (2),ounces,Numeric,,3157,67
+3536960,26262,sdv-pii-4meel,,metavision,procedureevents_mv,Intubation,,Date time,,8419,46
+11550411,1508,sdv-pii-6kmnt,,metavision,chartevents,Cardiovascular (Pacer Data),mA,Numeric,,8065,29
+4110295,42,sdv-pii-m0v9d,,metavision,chartevents,Intubation,,Text,,5758,39
+16415611,842,sdv-pii-ff2gi,,metavision,chartevents,Cardiovascular (Pacer Data),ounces,Numeric,,1431,30
+11230517,3905,sdv-pii-nge76,,metavision,chartevents,Skin - Impairment,,Text,,2451,84
+16216216,1035,sdv-pii-rp358,,metavision,chartevents,Skin - Incisions,,Text,,8667,65
+988479,37484,sdv-pii-h92ml,,carevue,outputevents,,,,,2245,-1
+10003679,7767,sdv-pii-w2mu2,,metavision,chartevents,ADT,,Process,,3042,27
+12240287,5827,sdv-pii-my8k8,,carevue,inputevents_cv,Free Form Intake,,,,3763,39
+7060456,94125,sdv-pii-m10bp,,metavision,chartevents,Cardiovascular (Pulses),,Numeric,,9428,73
+11298143,894,sdv-pii-g1b20,,metavision,chartevents,Drains,g/dl,Numeric,,734,29
+6965227,488,sdv-pii-evngr,,metavision,chartevents,Respiratory,sec,Numeric,,1771,74
+1661147,8478,sdv-pii-g5yoq,sdv-pii-rhrvw,metavision,inputevents_mv,Medications,mg,Solution,,1030,49
+10806569,7044,sdv-pii-as537,,carevue,chartevents,,,,,3410,-1
+16770020,377,sdv-pii-qs4qm,,carevue,chartevents,,,,,6300,-1
+2248878,84,sdv-pii-uxt5y,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,1210,12
+14070295,1665,sdv-pii-v3b9i,,metavision,chartevents,Adm History/FHPA,,Checkbox,,9361,39
+11767427,6258,sdv-pii-jb8dc,,metavision,chartevents,6-Cultures,,Checkbox,,1429,47
+14549669,341,sdv-pii-izzja,,metavision,chartevents,Hemodynamics,,Numeric,,1625,49
+5084044,398,sdv-pii-7cn07,,carevue,chartevents,,,,,11090,-1
+16400145,1298,sdv-pii-5td47,,carevue,outputevents,,,,,2447,-1
+6453132,8143,sdv-pii-biab2,,metavision,chartevents,Cardiovascular (Pacer Data),mA,Numeric,,8822,28
+10429015,103,sdv-pii-mgilo,sdv-pii-nxc1t,metavision,inputevents_mv,Medications,mg,Solution,,867,50
+4346005,8292,sdv-pii-vj211,sdv-pii-17ouu,carevue,inputevents_cv,Free Form Intake,,,,6799,38
+8291355,5425,sdv-pii-nhyaa,,metavision,chartevents,Skin - Impairment,,Text,,3952,84
+5076266,57125,sdv-pii-irsq7,sdv-pii-pnkdr,metavision,inputevents_mv,Medications,mg,Solution,,4042,50
+2450224,977,sdv-pii-wpoc2,,metavision,procedureevents_mv,6-Cultures,,Process,,2721,3
+15074105,343069,sdv-pii-7wqh7,sdv-pii-rw8xl,metavision,procedureevents_mv,Access Lines - Invasive,,Process,,10462,3
+1691060,9122,sdv-pii-hkvm7,,carevue,datetimeevents,,,,,4498,-1
+14852420,8897,sdv-pii-8ucah,,metavision,chartevents,Labs,,Numeric with tag,,8345,49
+16189974,3657,sdv-pii-m2asz,,metavision,chartevents,Alarms,,Checkbox,,4296,16
+5551176,7111,sdv-pii-17y4s,,carevue,inputevents_cv,Free Form Intake,,,,2768,39
+13261793,144,sdv-pii-cjsfr,sdv-pii-7ira7,metavision,chartevents,Impella,,Checkbox,,2716,48
+7638096,3716,sdv-pii-96of3,,metavision,chartevents,Access Lines - Peripheral,,Text,,7428,66
+1095777,807,sdv-pii-94ip1,,metavision,chartevents,Mixed VBGs,,Text,,1870,32
+16289580,144,sdv-pii-v0uqv,,metavision,chartevents,Respiratory,mL/min/m2,Numeric,,3318,85
+10235399,948,sdv-pii-upend,sdv-pii-h1hz0,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,1744,59
+4064162,1,sdv-pii-uml12,sdv-pii-yjnis,metavision,chartevents,Skin - Impairment,,Text,,4160,80
+3009321,37,sdv-pii-xgs01,,metavision,chartevents,ABG'S,mmHg,Numeric,,4923,24
+12417035,9427,sdv-pii-x0b9e,sdv-pii-87qsu,metavision,chartevents,Skin - Incisions,,Text,,914,84
+8206061,443,sdv-pii-x11w8,,carevue,chartevents,,,,,6336,-1
+15674942,99,sdv-pii-1b7k9,,metavision,chartevents,Treatments,lbs,Numeric,,3588,69
+515896,39,sdv-pii-v117t,,metavision,chartevents,Pain/Sedation,,Text,,9081,69
+6287481,9,sdv-pii-xiupv,,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,1310,39
+3960522,6,sdv-pii-20y2v,,carevue,chartevents,,,,,7757,-1
+8302247,6933,sdv-pii-6w2sx,sdv-pii-jtvyn,metavision,chartevents,Cardiovascular (Pulses),,Text,,4017,30
+826051,232,sdv-pii-dcssd,sdv-pii-m2azs,carevue,chartevents,Thoracentesis,,,,9203,-1
+10099072,5877,sdv-pii-k7tg9,sdv-pii-mc9w6,carevue,chartevents,Free Form Intake,,,,7304,39
+15585383,258,sdv-pii-fnb4l,,metavision,inputevents_mv,Antibiotics,dose,Solution,,2850,19
+5161329,16,sdv-pii-nnm7x,,carevue,chartevents,,,,,8944,-1
+7284074,808,sdv-pii-5souz,,metavision,inputevents_mv,Intubation,Degree,Solution,,9791,50
+3085210,58,sdv-pii-1in37,,metavision,procedureevents_mv,3-Significant Events,,Process,,10458,6
+8104383,5299,sdv-pii-vk1b0,sdv-pii-vz4px,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,486,39
+11918741,8276,sdv-pii-hmiyq,,carevue,chartevents,Free Form Intake,,,,3518,38
+11285443,6774,sdv-pii-f5zqk,,metavision,chartevents,Alarms,,Text,,8403,11
+6506586,848,sdv-pii-6udvd,,metavision,chartevents,Scores - APACHE IV,,Text,,5659,61
+10220434,938,sdv-pii-wcgwy,sdv-pii-r7ngl,metavision,chartevents,Pain/Sedation,mmHg,Numeric,,6965,61
+10443129,845,sdv-pii-kqvcx,sdv-pii-jglw9,metavision,datetimeevents,Access Lines - Invasive,,Date time,,10060,17
+5458534,539,sdv-pii-6090e,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,2566,15
+13917665,9776,sdv-pii-ejnkb,,metavision,chartevents,Dialysis,ml/kg,Numeric,,4381,81
+11484470,785,sdv-pii-app6m,sdv-pii-e14rd,metavision,chartevents,Arterial Line Insertion,,Text,,9290,64
+13993571,88,sdv-pii-lxw80,,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,3751,37
+2044915,1628,sdv-pii-vridq,,metavision,chartevents,Nutrition - Parenteral,,Text,,2664,30
+13064553,92508,sdv-pii-dpxsb,sdv-pii-250ko,metavision,procedureevents_mv,5-Imaging,,Process,,10170,4
+13047555,4985,sdv-pii-hzq4y,sdv-pii-eauyo,metavision,chartevents,Routine Vital Signs,,Numeric,,1263,77
+8624280,8,sdv-pii-vj5lb,,metavision,chartevents,Family Mtg Note,,Text,,1684,31
+11178249,479,sdv-pii-w4naj,sdv-pii-44quq,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,4128,37
+4578111,85857,sdv-pii-lro0p,,carevue,chartevents,,,,,8755,-1
+11840718,33801,sdv-pii-ixfen,,carevue,inputevents_cv,Free Form Intake,,,,2206,39
+8781043,8485,sdv-pii-lfbzp,sdv-pii-yzs7u,metavision,chartevents,Cardiovascular,,Text,,6635,81
+15950805,66,sdv-pii-fby68,sdv-pii-hmo4t,carevue,inputevents_cv,Free Form Intake,,,,4339,40
+2763376,6039,sdv-pii-zy8oo,sdv-pii-lr9n6,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,2983,62
+8718002,99,sdv-pii-36l16,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,3658,11
+3661589,3607,sdv-pii-i3wn1,,carevue,outputevents,Free Form Intake,,,,1822,-1
+2951201,8998,sdv-pii-l435i,sdv-pii-k3hwg,metavision,chartevents,Hemodynamics,mmHg,Numeric,,3567,46
+12577256,6178,sdv-pii-f54y4,,carevue,inputevents_cv,Free Form Intake,,,,4690,39
+10614262,297,sdv-pii-z155n,,carevue,chartevents,,,,,4169,-1
+13817660,91,sdv-pii-tx3q7,,carevue,chartevents,,,,,3016,-1
+1992807,6794,sdv-pii-cbvhk,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,3280,16
+6885245,354,sdv-pii-kqgos,sdv-pii-zwhfp,metavision,chartevents,Lumbar Puncture,,Numeric,,8553,63
+2417523,5015,sdv-pii-4noz5,sdv-pii-cd3ju,metavision,chartevents,Skin - Impairment,cm,Numeric,,11273,26
+15727447,2103,sdv-pii-12ve6,sdv-pii-98yay,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,3100,38
+14534276,238,sdv-pii-36laz,,carevue,chartevents,Pain/Sedation,,,,3232,-1
+10982368,8499,sdv-pii-6c1c9,,carevue,chartevents,,,,,4858,-1
+6576614,714,sdv-pii-u9dhe,,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,528,58
+4722276,5988,sdv-pii-x4dy3,sdv-pii-uob8b,metavision,chartevents,Dialysis,psi,Numeric,,7276,32
+10826191,29,sdv-pii-q58iq,,metavision,chartevents,Cardiovascular (Pacer Data),dynes*sec/cm5,Numeric,,1482,45
+8389170,655,sdv-pii-9s8z8,,metavision,chartevents,ABG's,,Text,,203,76
+6621017,648,sdv-pii-4138z,,carevue,outputevents,,,,,2281,-1
+15372972,5,sdv-pii-5239k,sdv-pii-hsb69,metavision,chartevents,Cardiovascular (Pacer Data),mL SC,Numeric,,5081,31
+4973335,137,sdv-pii-qcx6b,sdv-pii-a1ce1,metavision,chartevents,Labs,,Numeric with tag,,9746,50
+6398617,586,sdv-pii-unbvs,sdv-pii-igwv1,carevue,chartevents,,,,,10777,-1
+722128,422,sdv-pii-hxw9v,,metavision,outputevents,Scores - APACHE II,mL,Numeric,,2346,67
+4668403,92,sdv-pii-7yuz8,,carevue,chartevents,Drug level,,,,1602,-1
+13237613,57,sdv-pii-4wnn9,sdv-pii-pqjme,carevue,inputevents_cv,Free Form Intake,,,,2958,39
+5976752,4211,sdv-pii-1tnsx,sdv-pii-8cz4o,carevue,inputevents_cv,Free Form Intake,,,,4016,39
+3177672,967,sdv-pii-r7rsh,,hospital,microbiologyevents,ORGANISM,,,,2787,63
+4286952,19088,sdv-pii-kn54t,sdv-pii-hrnz9,metavision,inputevents_mv,Nutrition - Supplements,mL,Solution,,9242,60
+3668781,7222,sdv-pii-5maur,sdv-pii-ty1yp,metavision,chartevents,Respiratory,ml/min,Numeric,,7633,70
+9274744,847,sdv-pii-yqibx,sdv-pii-vysfr,metavision,chartevents,Labs,,Numeric with tag,,5222,49
+4953938,488607,sdv-pii-45h7j,sdv-pii-u9f46,metavision,chartevents,ABG'S,,Numeric,,8362,75
+7365252,863,sdv-pii-vyg1s,,hospital,microbiologyevents,SPECIMEN,,,,3646,72
+3227503,11385,sdv-pii-1y804,,carevue,inputevents_cv,Free Form Intake,,,,8455,39
+1754143,9796,sdv-pii-9zave,sdv-pii-y721k,hospital,microbiologyevents,ORGANISM,,,,3863,63
+15664745,8404,sdv-pii-50qt3,sdv-pii-2wkao,metavision,chartevents,Labs,,Numeric with tag,,4615,50
+9999123,9,sdv-pii-9wi38,,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,3865,62
+252367,12,sdv-pii-mv2lt,,metavision,procedureevents_mv,Drug Level,,Process,,9595,9
+3498625,9713,sdv-pii-r7s6a,,carevue,chartevents,,,,,3272,-1
+7649541,6198,sdv-pii-yqu3i,,carevue,chartevents,,,,,9189,-1
+6460856,65152,sdv-pii-egfaz,sdv-pii-vgfd5,carevue,inputevents_cv,Free Form Intake,,,,5492,40
+8778217,814,sdv-pii-bnjn9,,carevue,chartevents,Coags,,Numeric,,447,27
+1272235,588,sdv-pii-bllqr,,metavision,chartevents,Labs,,Text,,6863,80
+8494101,856,sdv-pii-9t9ru,,carevue,inputevents_cv,Free Form Intake,,,,3962,39
+10387590,15,sdv-pii-d4kpp,,metavision,chartevents,Neurological,,Text,,5111,64
+5038594,9183,sdv-pii-rfhbo,sdv-pii-cftzt,metavision,procedureevents_mv,4-Procedures,,Process,,1395,6
+6295134,5463,sdv-pii-fmhjg,sdv-pii-1uek5,hospital,microbiologyevents,ORGANISM,,,,5870,61
+11795697,754,sdv-pii-4v6pk,,carevue,outputevents,,,,,3339,-1
+5111562,897,sdv-pii-ba70h,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,3030,15
+16113613,877,sdv-pii-wwkqd,,metavision,inputevents_mv,Antibiotics,dose,Solution,,1446,48
+15473316,673882,sdv-pii-u57mp,sdv-pii-gvcw3,metavision,chartevents,Access Lines - Invasive,,Numeric,,3196,14
+15708518,289,sdv-pii-mka2s,,metavision,chartevents,Cardiovascular (Pulses),ppm,Text,,7909,63
+4029280,876,sdv-pii-q9avf,,metavision,chartevents,Skin - Impairment,cm,Numeric,,1621,83
+15071730,195,sdv-pii-pono3,sdv-pii-9ygab,metavision,chartevents,PA Line Insertion,,Text,,3038,68
+5859234,487,sdv-pii-bhntc,,carevue,chartevents,,,,,3968,82
+292856,557,sdv-pii-a9mb2,,metavision,inputevents_mv,Medications,mg,Solution,,3659,55
+6511310,283,sdv-pii-javn3,,metavision,chartevents,Alarms,,Checkbox,,7384,12
+3463420,115,sdv-pii-5j8ke,sdv-pii-wnsxr,carevue,chartevents,,,,,9326,-1
+14246820,62,sdv-pii-du7fz,sdv-pii-5hjxk,carevue,datetimeevents,Free Form Intake,,,,8952,-1
+8638292,687,sdv-pii-go0f0,,metavision,chartevents,ZIntake,mL,Numeric,,8735,68
+7579922,452,sdv-pii-0e3cf,,metavision,inputevents_mv,Medications,mg,Solution,,2360,53
+9828794,765,sdv-pii-m293k,,metavision,chartevents,Drug Level,,Numeric,,3006,35
+12082733,32,sdv-pii-s2k34,,metavision,inputevents_mv,Nutrition - Supplements,mL,Solution,,2312,38
+2282255,8581,sdv-pii-k4lze,sdv-pii-1xve3,carevue,chartevents,,,,,9987,-1
+4562995,7336,sdv-pii-f9v1g,,metavision,chartevents,Access Lines - Invasive,,Checkbox,,2946,14
+8069037,3998,sdv-pii-jcot6,,carevue,inputevents_cv,,,,,5600,-1
+8758524,228,sdv-pii-q1p33,sdv-pii-y1fwh,metavision,chartevents,ZIntake,,,,2001,38
+1790573,98,sdv-pii-ep5n1,,metavision,chartevents,Pain/Sedation,kg,Numeric,,6907,48
+15963157,9,sdv-pii-0jvkr,,carevue,inputevents_cv,Free Form Intake,,,,1957,39
+14850563,2,sdv-pii-vtka7,,metavision,chartevents,Respiratory,cm,Numeric,,3822,82
+7409951,9113,sdv-pii-ui92y,sdv-pii-4g8iu,metavision,chartevents,Skin - Impairment,L/min,Numeric,,481,81
+15530405,8,sdv-pii-8nbiy,,metavision,chartevents,Routine Vital Signs,L/min,Numeric,,-1,81
+5427175,74,sdv-pii-6wtdv,,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,10298,64
+8304352,1234,sdv-pii-vw26n,,metavision,chartevents,Nutrition - Parenteral,,Text,,4310,64
+5807091,65103,sdv-pii-gm2j5,,metavision,chartevents,Respiratory,,Text,,5504,80
+6873638,413,sdv-pii-p2afa,,metavision,datetimeevents,Access Lines - Peripheral,,Date time,,3539,18
+7035261,132,sdv-pii-xjw4y,,metavision,chartevents,Medications,mL/m2,Numeric,,2998,47
+8657970,484,sdv-pii-jtssr,,carevue,datetimeevents,,,,,9178,-1
+15941753,5741,sdv-pii-u4xyh,sdv-pii-9nanv,metavision,inputevents_mv,Medications,mg,Solution,,4231,54
+13657613,9106,sdv-pii-24wka,,carevue,outputevents,,,,,8010,-1
+1797767,871,sdv-pii-6cjqw,,metavision,chartevents,Cardiovascular,,Text,,8608,27
+5636965,3234,sdv-pii-y9rfz,,carevue,inputevents_cv,Free Form Intake,,,,6893,40
+465471,509,sdv-pii-y2c0h,sdv-pii-inzt1,metavision,chartevents,Restraint/Support Systems,,Text,,1024,33
+12474,199,sdv-pii-qrnlr,,metavision,chartevents,Scores - APACHE IV,,Text,,4551,79
+921170,87,sdv-pii-ove1p,,hospital,datetimeevents,Access Lines - Invasive,,Date time,,2427,17
+16089455,37,sdv-pii-fcdp7,,carevue,inputevents_cv,Free Form Intake,,,,8128,10
+7912438,915,sdv-pii-977z6,,metavision,chartevents,Labs,,Numeric with tag,,2673,51
+14245065,90885,sdv-pii-e68ku,sdv-pii-sggic,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,757,38
+4459067,608,sdv-pii-bnvf9,sdv-pii-xqsom,metavision,datetimeevents,Access Lines - Invasive,,Date time,,4287,16
+6090240,821,sdv-pii-rbi5b,,metavision,chartevents,Labs,,Numeric with tag,,2369,48
+5958275,58,sdv-pii-yu8pn,,hospital,microbiologyevents,ORGANISM,,,,7225,61
+8691684,318,sdv-pii-mis57,sdv-pii-1qeky,metavision,chartevents,Routine Vital Signs,lbs,Numeric,,5841,81
+2207304,641926,sdv-pii-rpeve,,metavision,chartevents,Scores - APACHE II,dynes*sec/cm5,Numeric,,10260,29
+12549097,2,sdv-pii-6o339,,metavision,procedureevents_mv,5-Imaging,,Process,,1830,7
+12258379,634,sdv-pii-kd8pk,,metavision,inputevents_mv,Fluids - Other (Not In Use),mg,Solution,,2650,22
+238813,71336,sdv-pii-dmuso,,metavision,procedureevents_mv,5-Imaging,,Process,,4909,8
+2097448,28,sdv-pii-55al2,,metavision,chartevents,Intubation,,Numeric,,1882,49
+4284000,358,sdv-pii-dcz0l,,carevue,inputevents_cv,Free Form Intake,,,,3189,40
+293736,1517,sdv-pii-0g6ez,,metavision,chartevents,PiCCO,cm,Numeric,,2395,78
+5747968,1814,sdv-pii-arhuw,sdv-pii-3hkyl,metavision,chartevents,6-Cultures,,Text,,11043,6
+6951235,7,sdv-pii-jutn3,,metavision,procedureevents_mv,4-Procedures,,Process,,1392,6
+14365456,23,sdv-pii-0sb4v,sdv-pii-npdq9,carevue,inputevents_cv,,,,,1801,-1
+13966900,4,sdv-pii-iw397,sdv-pii-2iwir,hospital,microbiologyevents,ORGANISM,,,,4346,58
+1050982,177,sdv-pii-r0fxe,sdv-pii-ynjnv,metavision,chartevents,Respiratory,?C,Numeric,,6599,64
+16539453,9783,sdv-pii-lwgpl,,carevue,outputevents,,,,,1573,-1
+109275,90912,sdv-pii-8tgyo,,metavision,procedureevents_mv,4-Procedures,,Process,,8965,3
+13208667,41,sdv-pii-yqrd6,,carevue,outputevents,,,,,7793,-1
+5425047,7179,sdv-pii-lgxmo,,metavision,chartevents,Labs,,Numeric with tag,,3212,46
+11645733,2769,sdv-pii-it0zg,,metavision,chartevents,Labs,,Numeric,,2955,48
+5309331,924,sdv-pii-e2v49,,metavision,chartevents,Restraint/Support Systems,,Text,,5690,79
+14124567,81,sdv-pii-rlpwq,,metavision,chartevents,Tandem Heart,,Text,,6049,82
+16706409,51,sdv-pii-8buk0,,metavision,inputevents_mv,Antibiotics,dose,Solution,,1754,18
+15095307,199,sdv-pii-du4k7,,carevue,chartevents,,,,,3210,-1
+119962,9639,sdv-pii-9f99g,,carevue,chartevents,Cardiovascular (Pacer Data),,,,11001,22
+7733931,755,sdv-pii-oa2bx,sdv-pii-f4oou,metavision,chartevents,ABG's,,Text,,1784,24
+8998808,551,sdv-pii-m12dn,sdv-pii-j43w4,carevue,chartevents,,,,,3203,-1
+9957087,43,sdv-pii-c7re9,,hospital,microbiologyevents,ORGANISM,,,,1973,65
+8841259,8789,sdv-pii-ppwy0,sdv-pii-a8xyf,metavision,inputevents_mv,Medications,mg,Solution,,2744,49
+6760589,37,sdv-pii-i4wav,,metavision,datetimeevents,Access Lines - Peripheral,,Date time,,2367,16
+921593,2633,sdv-pii-ojmh7,,hospital,microbiologyevents,SPECIMEN,,,,2958,80
+5783187,51592,sdv-pii-39fnl,sdv-pii-6q6qa,carevue,chartevents,Case Management,,,,2666,-1
+14529724,921,sdv-pii-rvb82,,metavision,chartevents,Toxicology,,Text,,1980,34
+7584396,77,sdv-pii-o14fx,,hospital,microbiologyevents,ORGANISM,,,,3102,59
+12578810,24,sdv-pii-3pwwa,,metavision,chartevents,Access Lines - Invasive,,Checkbox,,5258,16
+7133975,4434,sdv-pii-nmnfb,,hospital,microbiologyevents,ORGANISM,,,,7213,61
+8293870,29035,sdv-pii-djmc9,,hospital,microbiologyevents,ANTIBACTERIUM,,,,2775,63
+15723491,2939,sdv-pii-wk7l8,,carevue,inputevents_cv,Free Form Intake,,,,8812,39
+12727240,6674,sdv-pii-0nyn1,,carevue,inputevents_cv,ANTIBACTERIUM,,,,11845,-1
+11563541,449,sdv-pii-q5mbv,,carevue,inputevents_cv,,,,,10806,-1
+7401336,1337,sdv-pii-ppohr,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,2259,11
+16518618,122,sdv-pii-0yl3o,,metavision,inputevents_mv,Medications,,Numeric,,3734,65
+7286032,2438,sdv-pii-2u675,,metavision,datetimeevents,Access Lines - Peripheral,,Date time,,7321,64
+9541902,888,sdv-pii-lgux3,,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,8615,37
+6311151,75,sdv-pii-9ayct,,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,8203,61
+2311182,87348,sdv-pii-q0jw6,,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,4846,58
+7871855,327,sdv-pii-j5a3d,sdv-pii-vap9q,metavision,chartevents,Skin - Impairment,cm,Text,,7155,85
+8311650,673,sdv-pii-p850u,,hospital,datetimeevents,Access Lines - Invasive,,Date time,,1997,9
+2881553,31644,sdv-pii-3tra0,,metavision,chartevents,Labs,,Numeric with tag,,409,50
+14059775,8307,sdv-pii-2dtwl,,metavision,chartevents,Skin - Impairment,,Text,,5891,77
+2418703,798,sdv-pii-8wxpa,,metavision,datetimeevents,Access Lines - Peripheral,,Date time,,8638,11
+13643450,909,sdv-pii-g0k4a,,metavision,chartevents,Skin - Impairment,cm,Numeric,,8274,80
+9519353,66,sdv-pii-2iemu,,metavision,chartevents,Labs,,Numeric with tag,,2746,50
+7438865,4685,sdv-pii-0i48d,,metavision,inputevents_mv,Medications,mmol,Solution,,5182,50
+5433875,627,sdv-pii-7n0pf,,metavision,chartevents,NICOM,%,Numeric,,3580,63
+107918,14,sdv-pii-xdf8w,,metavision,chartevents,Skin - Impairment,,Text,,7612,81
+3183572,555,sdv-pii-kex56,,carevue,inputevents_cv,Free Form Intake,,,,590,39
+4324038,2427,sdv-pii-0m1b6,,metavision,chartevents,Skin - Impairment,,Text,,6235,77
+1848386,792,sdv-pii-myx11,,carevue,chartevents,,,,,11354,-1
+11169141,36,sdv-pii-1wzg3,,metavision,chartevents,GI/GU,,Text,,3308,63
+6722295,107,sdv-pii-setuv,,carevue,outputevents,,,,,4289,-1
+3741439,5091,sdv-pii-avt2j,sdv-pii-tssvg,metavision,chartevents,Enzymes,mL,Numeric,,1795,29
+3038389,9,sdv-pii-00m6b,,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,6614,61
+13400480,33568,sdv-pii-euwdm,,metavision,chartevents,Respiratory,?C,Numeric,,3083,75
+15826875,8543,sdv-pii-gulw9,,metavision,inputevents_mv,Antibiotics,dose,Solution,,2520,11
+12825124,65,sdv-pii-qbhgb,,metavision,chartevents,Scores - APACHE II,cm,Numeric,,6726,76
+5823780,43,sdv-pii-0h5p4,,metavision,chartevents,Alarms,,Checkbox,,8320,16
+7263641,463041,sdv-pii-uo06h,,carevue,inputevents_cv,Free Form Intake,,,,4596,39
+9821738,463,sdv-pii-5xdcq,sdv-pii-sapir,metavision,chartevents,PA Line Insertion,,Text,,4589,69
+14435894,95491,sdv-pii-upxch,,metavision,chartevents,PiCCO,cmH2O/L/seconds,Numeric,,7644,66
+7555086,4717,sdv-pii-2fd8y,,carevue,chartevents,,,,,4656,-1
+14390734,649,sdv-pii-pp7io,,carevue,inputevents_cv,Free Form Intake,,,,7381,39
+12740397,502,sdv-pii-os79a,sdv-pii-a8bk6,carevue,chartevents,,,,,9860,-1
+191488,409,sdv-pii-bnk5q,,metavision,chartevents,Skin - Impairment,Degree,Numeric,,2057,30
+6617761,35,sdv-pii-qnd4h,,metavision,inputevents_mv,Medications,mmol,Solution,,2514,50
+3262617,23,sdv-pii-1xn67,,carevue,inputevents_cv,Free Form Intake,,,,2004,39
+11779640,3898,sdv-pii-61dq3,,carevue,chartevents,,,,,8566,-1
+14863818,1272,sdv-pii-sza34,,hospital,microbiologyevents,ORGANISM,,,,2742,64
+14579172,4436,sdv-pii-dpe77,,metavision,chartevents,Skin - Impairment,,Text,,1938,81
+2747686,1501,sdv-pii-edpin,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,3092,13
+6239723,801,sdv-pii-r4od5,sdv-pii-aymmh,hospital,microbiologyevents,SPECIMEN,,,,2240,80
+5138308,658,sdv-pii-t7pxp,sdv-pii-fda2t,carevue,inputevents_cv,Free Form Intake,,,,4851,39
+7057217,8559,sdv-pii-34lx2,,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,5079,37
+5100724,33,sdv-pii-fn0oo,sdv-pii-q9d58,metavision,inputevents_mv,Medications,mg,Solution,,2388,51
+2595457,345,sdv-pii-sfl58,sdv-pii-x6t30,metavision,inputevents_mv,Nutrition - Supplements,mL,Solution,,5169,65
+4144569,83,sdv-pii-o95rf,sdv-pii-axg2a,carevue,datetimeevents,,,,,9161,-1
+7414809,47927,sdv-pii-f8wcx,sdv-pii-y66or,carevue,inputevents_cv,Free Form Intake,,,,7637,39
+827247,6414,sdv-pii-k5fi3,,metavision,chartevents,Thoracentesis,,Text,,6897,14
+10035225,658,sdv-pii-hpbc5,,metavision,chartevents,Labs,,Numeric with tag,,1568,52
+3476732,5351,sdv-pii-e9fwg,,metavision,procedureevents_mv,5-Imaging,,Process,,1690,3
+7162513,7227,sdv-pii-mgblv,,carevue,chartevents,,,,,5346,-1
+15747649,8847,sdv-pii-u058y,,metavision,chartevents,GI/GU,,Text,,9081,50
+15017027,8688,sdv-pii-3n1zq,,metavision,chartevents,Dialysis,,Text,,528,30
+3628663,458,sdv-pii-m8vs8,sdv-pii-lazq8,metavision,inputevents_mv,Nutrition - Supplements,mL,Solution,,5170,28
+8846244,28593,sdv-pii-mqqa8,,metavision,chartevents,NICOM,%,Numeric,,3012,67
+10592797,972,sdv-pii-vkqak,,metavision,chartevents,General,,Text,,1430,57
+9578459,3838,sdv-pii-jy0rm,,hospital,microbiologyevents,ORGANISM,,,,2920,59
+8649562,817,sdv-pii-v2qie,,carevue,chartevents,,,,,6845,-1
+1033192,63973,sdv-pii-zrsf2,,metavision,chartevents,Respiratory,cmH2O,Numeric,,1249,69
+1175658,13,sdv-pii-sym1t,sdv-pii-skcs8,carevue,chartevents,Case Management,,,,8649,33
+15626728,8,sdv-pii-zxdnm,,metavision,procedureevents_mv,6-Cultures,,Process,,8930,4
+3834365,992,sdv-pii-rp1ne,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,1258,16
+12197848,5,sdv-pii-uv3k3,,carevue,datetimeevents,,,,,5147,38
+12390215,593,sdv-pii-el36p,,metavision,outputevents,Drains,mL/m2,Solution,,7481,64
+6837531,3297,sdv-pii-v4lfg,,carevue,inputevents_cv,Free Form Intake,,,,11547,39
+3635409,4,sdv-pii-p0mmk,,metavision,inputevents_mv,Medications,mg,Solution,,3199,53
+2156391,9265,sdv-pii-uyp1d,sdv-pii-2vftc,carevue,inputevents_cv,Free Form Intake,,,,10959,39
+9105500,8478,sdv-pii-rhe8m,,metavision,chartevents,Routine Vital Signs,?C,Numeric,,2493,72
+14792125,6744,sdv-pii-3cn31,,metavision,chartevents,Drug Level,,Numeric,,9943,30
+14106221,48141,sdv-pii-14awi,,metavision,chartevents,Skin - Impairment,,Text,,4603,82
+12391467,94654,sdv-pii-4ztb0,,metavision,chartevents,Chemistry,,Text,,817,39
+4220764,94,sdv-pii-10cdk,,metavision,chartevents,6-Cultures,,Checkbox,,6783,74
+1520470,188,sdv-pii-bwax4,,metavision,chartevents,Respiratory,dynes*sec/cm5,Numeric,,3257,45
+10000942,1557,sdv-pii-mdmlm,,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,3730,38
+16242106,6351,sdv-pii-d4afe,,carevue,outputevents,,,,,9738,-1
+2312171,9,sdv-pii-zifni,,hospital,microbiologyevents,ORGANISM,,,,3393,60
+597582,77,sdv-pii-0pwmn,sdv-pii-a9h1g,metavision,chartevents,Lumbar Puncture,,Text,,432,50
+1913822,4932,sdv-pii-7htvk,,metavision,chartevents,Pain/Sedation,mmHg,Numeric,,372,49
+14973096,3,sdv-pii-3d9u7,,metavision,chartevents,Hemodynamics,mmHg,Numeric,,7707,77
+7042781,54,sdv-pii-cq6kd,,carevue,outputevents,,,,,3842,0
+504367,84,sdv-pii-jkzg2,,carevue,inputevents_cv,Free Form Intake,,,,2831,39
+8714462,48195,sdv-pii-trgmm,,hospital,microbiologyevents,ORGANISM,,,,7956,62
+8214011,775,sdv-pii-vsjdo,,metavision,chartevents,Dialysis,ml/hr,Numeric,,544,75
+4681086,86,sdv-pii-ypbye,,metavision,procedureevents_mv,3-Significant Events,,Process,,5341,7
+15004798,429,sdv-pii-oqkq7,,metavision,chartevents,Pastoral Care Note,,Text,,3274,71
+5527982,737,sdv-pii-px0ns,,metavision,inputevents_mv,Medications,mg,Solution,,5972,50
+15977490,6,sdv-pii-49krr,sdv-pii-tfelg,metavision,inputevents_mv,Medications,mL,Solution,,9268,44
+6970742,6731,sdv-pii-1ni7r,,metavision,chartevents,PiCCO,mA,Numeric,,8112,26
+3104796,112,sdv-pii-vdz9i,,metavision,chartevents,Skin - Incisions,,Text,,2037,82
+8688236,7856,sdv-pii-sc3ws,,metavision,procedureevents_mv,Drains,,Numeric,,2340,32
+5926205,371,sdv-pii-powgc,,metavision,procedureevents_mv,Access Lines - Invasive,,Process,,4457,7
+6869259,334,sdv-pii-5snqs,,metavision,inputevents_mv,Medications,mL,Solution,,374,26
+11279901,564,sdv-pii-t1wmp,,metavision,chartevents,Respiratory,,Checkbox,,6630,69
+16117194,2,sdv-pii-xievh,,metavision,chartevents,Skin - Impairment,,Text,,9239,88
+11960809,391,sdv-pii-lxt29,sdv-pii-8itif,metavision,datetimeevents,Access Lines - Invasive,,Date time,,4367,15
+4802047,6581,sdv-pii-k2ejj,,metavision,chartevents,Skin - Impairment,,Text,,7929,81
+7014032,4,sdv-pii-627fq,,hospital,microbiologyevents,ORGANISM,,,,4797,61
+10480915,7136,sdv-pii-keo3f,,metavision,chartevents,Scores - APACHE IV (2),sec,Numeric,,7818,73
+7056142,79027,sdv-pii-kgdnw,sdv-pii-fjtsh,metavision,chartevents,Alarms,,Checkbox,,4351,11
+2031399,1533,sdv-pii-f5x2x,,metavision,chartevents,Venous ABG,,Checkbox,,5385,33
+8095855,698,sdv-pii-8d8am,,metavision,chartevents,Dialysis,Inch,Numeric,,2257,35
+11527000,5,sdv-pii-atuku,,metavision,chartevents,6-Cultures,,Checkbox,,5596,21
+5107813,42186,sdv-pii-fjzaj,sdv-pii-dqa5f,metavision,chartevents,Labs,,Numeric with tag,,9780,50
+1646183,29,sdv-pii-kgjji,,carevue,chartevents,,,,,9080,-1
+10561458,6827,sdv-pii-8dora,,metavision,chartevents,Access Lines - Peripheral,dynes*sec/cm5,Numeric,,7934,31
+16483643,6716,sdv-pii-03qj3,,metavision,chartevents,Treatments,,Text,,1911,79
+10915635,7609,sdv-pii-ljejc,,hospital,microbiologyevents,ORGANISM,,,,-1,64
+2593977,30738,sdv-pii-s5wfp,,metavision,chartevents,Access Lines - Invasive,,Checkbox,,5692,17
+2156959,613,sdv-pii-a3is4,,metavision,chartevents,Quick Admit,,,,3950,60
+8936786,418,sdv-pii-6db5x,,carevue,chartevents,,,,,6883,29
+8731796,5285,sdv-pii-5nyh3,,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,3129,38
+2760038,178,sdv-pii-61xkf,sdv-pii-crkzs,metavision,chartevents,PiCCO,L/min/m2,Numeric,,3465,31
+13784818,2773,sdv-pii-yyjfs,,carevue,inputevents_cv,Free Form Intake,,,,8006,39
+7376991,151,sdv-pii-1bhvj,,metavision,procedureevents_mv,3-Significant Events,,Process,,9550,9
+6793367,99874,sdv-pii-jp8bj,,carevue,outputevents,,,,,8958,-1
+2054811,905,sdv-pii-9qhqe,,carevue,chartevents,Skin - Incisions,,,,5723,-1
+6244672,61246,sdv-pii-0l2q1,,carevue,inputevents_cv,Free Form Intake,,,,1419,-1
+6646514,77936,sdv-pii-zznnu,,metavision,chartevents,Respiratory,sec,Numeric,,5260,69
+1380524,2993,sdv-pii-8hreu,,metavision,chartevents,Respiratory,ml/min,Numeric,,7840,74
+10041913,1594,sdv-pii-08o2e,,carevue,chartevents,,,,,11121,-1
+12940966,941,sdv-pii-yi626,,metavision,chartevents,VBG's,,Checkbox,,3133,78
+717391,18077,sdv-pii-6gxwv,sdv-pii-lqugf,metavision,chartevents,Impella,L/min/m2,Numeric,,401,84
+6510428,682,sdv-pii-vhgt3,,metavision,chartevents,Generic Proc Note,,Numeric,,6955,61
+8499836,25392,sdv-pii-9m6rk,sdv-pii-q5e8l,metavision,inputevents_mv,Nutrition - Supplements,mL,Solution,,2174,64
+12001013,6388,sdv-pii-41oi2,sdv-pii-g9rl4,metavision,procedureevents_mv,Dialysis,,Process,,1632,7
+2540019,233017,sdv-pii-5ka99,sdv-pii-ic6t3,hospital,microbiologyevents,ORGANISM,,,,7005,63
+16163169,1329,sdv-pii-xvp4t,,metavision,inputevents_mv,Medications,mg,Solution,,4687,48
+4548240,1062,sdv-pii-vw388,,metavision,chartevents,Hemodynamics,,Text,,5464,45
+6279095,9974,sdv-pii-7k5yb,,carevue,inputevents_cv,Free Form Intake,,,,975,39
+286739,127,sdv-pii-a97cz,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,5686,13
+10160981,16,sdv-pii-z2cnf,,hospital,microbiologyevents,SPECIMEN,,,,3727,83
+16356206,6793,sdv-pii-lwk5n,,hospital,microbiologyevents,SPECIMEN,,,,3364,76
+9494097,989,sdv-pii-ywhf6,,metavision,chartevents,Alarms,,Checkbox,,780,15
+12409531,9381,sdv-pii-t50nw,sdv-pii-88n39,carevue,chartevents,,,,,1126,-1
+1427643,3218,sdv-pii-3km0n,,carevue,chartevents,,,,,8100,-1
+12684386,6,sdv-pii-5sz7e,,carevue,inputevents_cv,Free Form Intake,,,,454,40
+12316268,15811,sdv-pii-r8h8p,,metavision,chartevents,Skin - Impairment,,Text,,3304,82
+5529839,82,sdv-pii-gvp5k,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,2012,18
+1151062,16105,sdv-pii-j0bxg,,metavision,inputevents_mv,Medications,grams,Solution,,3415,53
+402727,34,sdv-pii-ajw9m,,metavision,procedureevents_mv,3-Significant Events,,Process,,2808,6
+4310204,5674,sdv-pii-nqcew,,carevue,chartevents,Coags,,,,7049,-1
+14884799,3273,sdv-pii-gso06,,carevue,inputevents_cv,Free Form Intake,,,,2812,39
+13746755,52687,sdv-pii-e7td5,,metavision,chartevents,Labs,,Numeric with tag,,5650,49
+3903071,217,sdv-pii-wz3n1,,carevue,inputevents_cv,Free Form Intake,,,,2904,39
+7491074,40013,sdv-pii-wg8yu,,metavision,chartevents,Skin - Assessment,,Text,,3535,10
+1974156,73685,sdv-pii-h57ki,sdv-pii-pnvpd,metavision,chartevents,General,g/kg,Numeric,,1268,30
+14277353,68,sdv-pii-0qzm2,,carevue,microbiologyevents,Access Lines - Peripheral,,,,8481,39
+5190315,176,sdv-pii-4f29w,sdv-pii-izu9r,metavision,chartevents,General,kg,Numeric,,2713,53
+2995382,95,sdv-pii-8aygj,,metavision,chartevents,Restraint/Support Systems,,Text,,5452,81
+9761408,169,sdv-pii-mvw0g,sdv-pii-jcizj,metavision,datetimeevents,Access Lines - Peripheral,,Date time,,1625,12
+9716764,48,sdv-pii-j35jw,,carevue,chartevents,,,,,1137,-1
+14368369,516,sdv-pii-289gx,sdv-pii-gfolq,carevue,inputevents_cv,Free Form Intake,,,,2787,38
+14649613,967,sdv-pii-gkgnz,sdv-pii-kv35u,carevue,chartevents,Free Form Intake,,,,2289,39
+12985546,468,sdv-pii-h1zoh,,metavision,chartevents,Respiratory,cmH2O,Numeric,,5116,70
+13303126,586,sdv-pii-29s0n,,carevue,outputevents,,,,,3361,-1
+8676935,686,sdv-pii-y4vyi,,hospital,microbiologyevents,SPECIMEN,,,,9136,80
+5817748,3309,sdv-pii-27002,,metavision,chartevents,Labs,,Numeric with tag,,2922,49
+8383310,359,sdv-pii-lhn7c,,hospital,microbiologyevents,ORGANISM,,,,3165,60
+10676031,8273,sdv-pii-4bzb6,,metavision,chartevents,Labs,,Numeric,,7570,45
+13784737,93,sdv-pii-ud0dr,,hospital,microbiologyevents,ORGANISM,,,,6613,65
+5106883,21,sdv-pii-uhue7,,carevue,chartevents,,,,,4291,-1
+5519670,78,sdv-pii-17wr8,,carevue,chartevents,Cardiovascular (Pacer Data),,,,5609,74
+4449614,582,sdv-pii-pvv4u,,metavision,chartevents,Impella,,Checkbox,,3005,39
+14208543,484,sdv-pii-16vdw,,metavision,chartevents,Skin - Assessment,,Text,,6776,28
+3274148,1187,sdv-pii-ocp2p,,metavision,inputevents_mv,Medications,units,Solution,,2877,49
+6896734,40549,sdv-pii-q2arp,,carevue,chartevents,,,,,6064,-1
+2985384,6,sdv-pii-yho64,,metavision,chartevents,Medications,mEq,Solution,,10140,51
+4503968,4216,sdv-pii-vsln3,,metavision,chartevents,Nutrition - Parenteral,,Text,,822,64
+16116090,6084,sdv-pii-c83gc,sdv-pii-kx8o0,metavision,chartevents,Respiratory,,Text,,1906,81
+221760,9,sdv-pii-fct7k,,metavision,chartevents,PA Line Insertion,mL,Numeric,,6611,68
+2810094,998,sdv-pii-iif0l,,metavision,inputevents_mv,Medications,mg,Solution,,1755,47
+4657051,6618,sdv-pii-vab99,,metavision,procedureevents_mv,3-Significant Events,,Process,,2040,3
+14860500,98,sdv-pii-uvodm,sdv-pii-cbvht,metavision,chartevents,Skin - Impairment,,Checkbox,,2407,18
+13478050,24716,sdv-pii-40hmz,sdv-pii-7g1pr,metavision,chartevents,Cardiovascular (Pacer Data),ml/kg,Numeric,,8702,26
+3368324,16176,sdv-pii-jt2bz,,carevue,inputevents_cv,Free Form Intake,,,,4610,39
+8704275,95,sdv-pii-lx0x7,,carevue,outputevents,,,,,5758,-1
+8252328,65,sdv-pii-e0mwi,,carevue,chartevents,,,,,9217,-1
+3607573,341,sdv-pii-5fm41,,metavision,chartevents,Tandem Heart,,Text,,3588,67
+4976990,753,sdv-pii-qu1zd,,metavision,chartevents,Dialysis,mL/m2,Numeric,,2544,78
+11955289,538,sdv-pii-ynyiw,,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,4876,38
+13211815,535,sdv-pii-ohrf7,,metavision,datetimeevents,6-Cultures,,Date time,,6633,17
+14928395,5,sdv-pii-nrbem,,metavision,chartevents,Respiratory,years,Numeric,,7770,80
+6151527,1981,sdv-pii-bxmlp,,carevue,inputevents_cv,Free Form Intake,,,,2062,40
+11995490,628,sdv-pii-09676,,metavision,chartevents,Skin - Impairment,,Text,,7311,84
+5156710,672,sdv-pii-19qm3,,metavision,inputevents_mv,Medications,mcg,Numeric,,1384,51
+4108028,579,sdv-pii-q5ud7,,metavision,chartevents,PA Line Insertion,L/min,Numeric,,8698,62
+7365923,778,sdv-pii-uf0qr,,carevue,chartevents,,,,,11201,-1
+8963818,911,sdv-pii-qemab,,metavision,procedureevents_mv,5-Imaging,,Process,,1580,3
+10580657,9422,sdv-pii-w28c0,,hospital,microbiologyevents,ORGANISM,,,,7117,58
+7565922,16,sdv-pii-urxnm,,carevue,chartevents,ABG,,,,7225,39
+10352995,2,sdv-pii-dmhff,,metavision,chartevents,OB-GYN,units,Numeric,,3931,61
+14729021,4478,sdv-pii-mikof,,metavision,chartevents,Routine Vital Signs,g/dl,Numeric,,8022,85
+15322203,193,sdv-pii-wk5vw,,hospital,microbiologyevents,ORGANISM,,,,8279,65
+1354432,337,sdv-pii-vguy1,,carevue,outputevents,,,,,7811,-1
+2783186,58,sdv-pii-xfqyx,sdv-pii-9u1i1,carevue,chartevents,,,,,6187,-1
+2893948,6708,sdv-pii-s4s9t,sdv-pii-1zqfy,metavision,chartevents,Cardiovascular,,Text,,3282,28
+7156919,864,sdv-pii-1kgek,sdv-pii-yqyzs,hospital,microbiologyevents,ORGANISM,,,,2108,85
+15473586,4756,sdv-pii-0qq1v,,hospital,microbiologyevents,SPECIMEN,,,,3503,80
+8370836,13,sdv-pii-9d1ob,,metavision,chartevents,3-Significant Events,,Text,,6430,17
+10793487,848,sdv-pii-rhuy7,,metavision,chartevents,Respiratory,bpm,Numeric,,8269,22
+13829440,9406,sdv-pii-fyf7e,sdv-pii-2mj8h,metavision,chartevents,Respiratory,?F,Numeric,,3438,74
+5209927,28,sdv-pii-4jukw,,metavision,chartevents,Thoracentesis,,Text,,5231,85
+3550588,71312,sdv-pii-t76kh,,metavision,inputevents_mv,Nutrition - Supplements,mg,Solution,,8651,27
+12752373,7406,sdv-pii-0v8s8,,metavision,outputevents,PA Line Insertion,mL,Numeric,,5356,66
+11998532,23,sdv-pii-nq4wm,sdv-pii-vrt50,hospital,microbiologyevents,ORGANISM,,,,6222,61
+1588135,13881,sdv-pii-icxw0,,metavision,chartevents,PiCCO,dynes.sec.cm-5/m2,Numeric,,2226,67
+5957915,419,sdv-pii-27cb7,,hospital,microbiologyevents,ORGANISM,,,,4908,62
+16547730,15708,sdv-pii-98laa,,metavision,procedureevents_mv,4-Procedures,,Process,,1244,6
+12841109,6153,sdv-pii-zakyp,,metavision,chartevents,Cardiovascular (Pacer Data),grams,Text,,8428,63
+8170316,11633,sdv-pii-ht2i9,,carevue,chartevents,,,,,229,-1
+9057839,694,sdv-pii-vjsw1,,metavision,inputevents_mv,Nutrition - Supplements,mL,Solution,,6280,38
+9674639,5464,sdv-pii-ribkx,sdv-pii-50kza,metavision,chartevents,Respiratory,cmH2O,Numeric,,1950,72
+14238695,57,sdv-pii-dyx76,sdv-pii-rctgu,carevue,outputevents,,,,,8596,-1
+7801571,88,sdv-pii-3qgtl,sdv-pii-7aw2s,metavision,datetimeevents,Access Lines - Invasive,,Date time,,10623,14
+11170214,44752,sdv-pii-mrbhy,,metavision,chartevents,IABP,mL,Numeric,,8048,29
+15988322,864,sdv-pii-gwxie,,hospital,microbiologyevents,ORGANISM,,,,9768,60
+4889677,217,sdv-pii-hcjp3,,metavision,chartevents,Scores - APACHE IV,,Checkbox,,1097,78
+6868066,5,sdv-pii-n8l8n,sdv-pii-5b46e,carevue,chartevents,,,,,2994,-1
+1733390,3501,sdv-pii-tcys2,,hospital,microbiologyevents,ORGANISM,,,,6472,61
+13504998,3207,sdv-pii-f9x41,,metavision,chartevents,Cardiovascular (Pacer Data),mA,Numeric,,8153,26
+15446138,518,sdv-pii-568m4,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,3297,10
+9639178,606,sdv-pii-9inz8,,carevue,inputevents_cv,ANTIBACTERIUM,,,,5495,39
+5884675,96,sdv-pii-d9d0r,,metavision,chartevents,Dialysis,ml/hr,Numeric,,5958,28
+10176494,8526,sdv-pii-br2lj,,carevue,chartevents,,,,,9018,-1
+5435028,592,sdv-pii-mh36i,,carevue,chartevents,,,,,11776,-1
+2917797,81966,sdv-pii-jty9y,,hospital,microbiologyevents,SPECIMEN,,,,4444,62
+6423678,46,sdv-pii-mol2n,,metavision,chartevents,Skin - Impairment,cm,Numeric,,8706,87
+15632433,6152,sdv-pii-ymmj9,sdv-pii-pnqr0,carevue,chartevents,,,,,6870,-1
+6808642,3181,sdv-pii-ef6g2,,carevue,chartevents,Case Management,,,,8164,35
+5653066,84157,sdv-pii-tplmf,,carevue,microbiologyevents,,,,,2364,-1
+10971315,7,sdv-pii-968lw,,metavision,chartevents,Adm History/FHPA,,Checkbox,,117,39
+11897719,25374,sdv-pii-eyy5r,sdv-pii-yozzb,metavision,chartevents,NICOM,mmHg,Numeric,,4924,58
+6073591,9278,sdv-pii-bzktg,,metavision,chartevents,Skin - Impairment,,Text,,7599,74
+16096063,327,sdv-pii-vuhqj,,carevue,chartevents,,,,,9959,-1
+10714749,18,sdv-pii-30hh5,,carevue,chartevents,Hematology,,,,8460,28
+16425666,4376,sdv-pii-yg6xi,,metavision,chartevents,Pain/Sedation,,Text,,6367,83
+15784900,2885,sdv-pii-1kqp5,sdv-pii-4xxie,metavision,chartevents,Skin - Incisions,,Text,,6002,87
+11152577,98,sdv-pii-kskwp,,carevue,inputevents_cv,Free Form Intake,,,,6267,39
+12012615,77,sdv-pii-2d14b,,carevue,inputevents_cv,Free Form Intake,,,,11485,39
+11360128,1142,sdv-pii-n61fe,,carevue,chartevents,Free Form Intake,,,,3783,39
+10075642,107,sdv-pii-ye8un,,metavision,chartevents,Pain/Sedation,mL,Numeric,,11459,66
+2701565,12784,sdv-pii-iffx9,sdv-pii-7n83s,metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,9885,62
+3458763,7083,sdv-pii-ku7sq,,metavision,outputevents,Respiratory,bpm,Numeric,,7747,67
+2567158,9571,sdv-pii-7q8ic,,metavision,inputevents_mv,Nutrition - Supplements,mL,Solution,,5007,62
+6397634,407095,sdv-pii-m3tyj,,metavision,chartevents,Skin - Impairment,,Text,,9293,80
+11824084,764,sdv-pii-s9yhf,sdv-pii-e19h5,metavision,inputevents_mv,Medications,units,Solution,,3561,47
+7186811,75486,sdv-pii-gnjl1,sdv-pii-ehmju,hospital,microbiologyevents,ORGANISM,,,,2412,59
+8542253,585,sdv-pii-q5t35,,carevue,outputevents,,,,,4690,-1
+292165,91,sdv-pii-8rfus,,metavision,chartevents,Scores - APACHE IV (2),,Checkbox,,4197,14
+1410959,957,sdv-pii-n6fw6,,metavision,procedureevents_mv,3-Significant Events,,Process,,2579,10
+3634265,28,sdv-pii-bbrqw,,metavision,chartevents,Treatments,,Checkbox,,8197,93
+4315406,2425,sdv-pii-lyids,,metavision,inputevents_mv,Fluids - Other (Not In Use),mL,Solution,,9087,37
+5554725,8796,sdv-pii-rr9t0,,hospital,microbiologyevents,ORGANISM,,,,7344,63
+15808846,241,sdv-pii-zpfc6,,metavision,inputevents_mv,Medications,mcg,Solution,,2786,31
+15139154,4272,sdv-pii-5kgek,sdv-pii-ze6i0,metavision,chartevents,Heme/Coag,mL,Numeric,,6176,18
+3349318,7289,sdv-pii-nnqpk,,metavision,chartevents,Hemodynamics,,Numeric,,1896,52
+4439060,549,sdv-pii-zzktu,sdv-pii-rzo5v,carevue,chartevents,,,,,2494,-1
+3670593,3448,sdv-pii-y3n3x,,carevue,chartevents,,,,,9809,-1
+11364678,93769,sdv-pii-qwik6,,carevue,chartevents,,,,,1512,-1
+10477485,556,sdv-pii-iugp6,,metavision,chartevents,Respiratory,,Text,,2647,69
+13558802,7583,sdv-pii-98ht6,,metavision,datetimeevents,Access Lines - Invasive,,Date time,,246,17
+12500364,67,sdv-pii-66o4r,,metavision,datetimeevents,Access Lines - Peripheral,,Date time,,1630,16
+5107513,7023,sdv-pii-5f236,,carevue,inputevents_cv,Free Form Intake,,,,9167,38
+1379239,58856,sdv-pii-qw0ju,sdv-pii-k8nia,metavision,chartevents,Routine Vital Signs,?C,Numeric,,3929,76
+11280629,247,sdv-pii-yann7,,metavision,chartevents,PA Line Insertion,L/min/m2,Numeric,,3455,66
+13644840,502,sdv-pii-qj2x1,,metavision,chartevents,6-Cultures,,,,2742,13
+3189830,1588,sdv-pii-2573v,,carevue,inputevents_cv,Free Form Intake,,,,767,38
+455146,93505,sdv-pii-737fh,,metavision,chartevents,PA Line Insertion,insp/min,Numeric,,5264,32
+6581511,72,sdv-pii-uf0it,,metavision,chartevents,PA Line Insertion,%,Numeric,,6924,62
+1147594,68,sdv-pii-g31b8,,metavision,inputevents_mv,Enzymes,mL,Solution,,6044,28
+1352671,31,sdv-pii-84tz4,,carevue,chartevents,,,,,2253,-1
+15407532,383,sdv-pii-uf0uc,,metavision,chartevents,Skin - Impairment,L/min/m2,Numeric,,9408,82
+15832555,447,sdv-pii-4nqay,,carevue,chartevents,,,,,4106,-1
+15904493,7932,sdv-pii-nulxi,,carevue,chartevents,,,,,7703,-1
+10975483,14,sdv-pii-btoci,,metavision,chartevents,Lumbar Puncture,,Text,,3461,69
+5881273,452,sdv-pii-0hixb,,metavision,chartevents,Scores - APACHE IV,mL,Numeric,,5840,66
+16269165,71,sdv-pii-q0y9b,,metavision,chartevents,Drains,kcal/kg,Numeric,,7836,59
+680220,991,sdv-pii-gj94k,,carevue,inputevents_cv,Free Form Intake,,,,6296,38
+6945064,18,sdv-pii-nc5ct,,carevue,chartevents,,,,,3767,-1
+13063731,5558,sdv-pii-1pgsm,sdv-pii-yjvs1,metavision,outputevents,PiCCO,dynes.sec.cm-5/m2,Numeric,,6590,69
+10403306,712,sdv-pii-1epio,,metavision,chartevents,PA Line Insertion,%,Numeric,,6263,64
+4229120,206,sdv-pii-bg361,,metavision,procedureevents_mv,Nutrition - Supplements,g/dl,Numeric,,1082,50
+13759671,72769,sdv-pii-isd1a,,metavision,procedureevents_mv,Drains,,Process,,3677,10
+9517868,37,sdv-pii-yfo8g,,metavision,chartevents,Other ABGs,,Checkbox,,8505,26
